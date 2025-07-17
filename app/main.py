@@ -58,7 +58,7 @@ from .db.session import engine, Base
 
 
 # Crear tablas en la base de datos
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 
 # Inicializar FastAPI
 app = FastAPI(
