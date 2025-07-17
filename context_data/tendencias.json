@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737831148/due0xeyoyst68i8ysa50.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  },
+  {
+    "id": 1,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737842282/moel7qmxojfnvbabxpjw.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  },
+  {
+    "id": 4,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737844260/jo24vlmuxtuebdcgzbfa.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  },
+  {
+    "id": 11,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737844966/udnbh7rhhnmk5ssjzarv.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  },
+  {
+    "id": 12,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737845251/pthzkju5mb7zlkrhsamo.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  },
+  {
+    "id": 5,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737816537/lvjslnan1flogulxuikb.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 6,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737820884/atepenkea3ibxngccdqc.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 7,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737823525/fdntagv1fi2ks6vnqwke.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 8,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737825553/ie5jpwbkwcpcztvnjymc.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 9,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737826528/y7zzzlrpaeuepdxlyjts.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 10,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737827179/lmk98wraflrqvhzbd0yc.jpg",
+    "destino_id": 2,
+    "nivel_tendencia": 7
+  },
+  {
+    "id": 2,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737830128/ko16sivrry8a0hwj078k.jpg",
+    "destino_id": 1,
+    "nivel_tendencia": 8
+  }
+]

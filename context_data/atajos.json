@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "ruta_id": 1,
+    "nombre": "Saltando la Z",
+    "dificultad": "Media",
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729123867/Atajo_1_qftyag.jpg",
+    "lat": 5.113973,
+    "lng": -73.803196,
+    "description": "Sigue la ruta marcada como atajo en este punto. Este sendero te llevará a la mitad de la  Z, atravesando una pequeña sección del bosque. El camino es fácil de seguir, ya que es bastante concurrido.",
+    "numero_atajo": 1
+  },
+  {
+    "id": 2,
+    "ruta_id": 1,
+    "nombre": "Por el bosque",
+    "dificultad": "Media",
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729123868/Atajo_2_Por_Bosque_ue0x1s.jpg",
+    "lat": 5.113493,
+    "lng": -73.805893,
+    "description": "Este atajo te llevará directamente a la estación del mirador de la sabana. Sigue el camino marcado con atención, ya que es poco concurrido y atraviesa una sección del bosque con árboles muy densos, lo que hace que el sendero no sea tan visible.",
+    "numero_atajo": 2
+  },
+  {
+    "id": 3,
+    "ruta_id": 1,
+    "nombre": "Directo a la Virgen",
+    "dificultad": "Alta",
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729123867/Atajo_Extremo_gtdmf0.jpg",
+    "lat": 5.115032,
+    "lng": -73.80558,
+    "description": "Este atajo te llevará directamente a la cima, pero debes tener cuidado, ya que el camino es poco concurrido y está cubierto de arbustos. Además, es bastante empinado, así que presta mucha atención a dónde pones los pies.",
+    "numero_atajo": 3
+  },
+  {
+    "id": 4,
+    "ruta_id": 2,
+    "nombre": "Camino Antiguo",
+    "dificultad": "Baja",
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729806914/Rutas/Camino%20de%20Piedra/gu0b2eo7xofvqrtjevjs.jpg",
+    "lat": 5.104662,
+    "lng": -73.790849,
+    "description": "Este es el antiguo sendero que los locales utilizaban antes de la creación de El Corte. Desde aquí, puedes disfrutar de una vista impresionante de las Rocas de Suesca.",
+    "numero_atajo": 1
+  }
+]

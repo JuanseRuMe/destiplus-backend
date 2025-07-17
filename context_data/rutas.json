@@ -1,0 +1,518 @@
+[
+  {
+    "id": 27,
+    "destino_id": 1,
+    "nombre": "Escalando por el Bosque",
+    "descripcion": "Camino natural atravesando el bosque, hasta llegar a dos puntos increíbles: El primero un Spot super instagrameable para capturar fotos únicas rodeado de naturaleza, después más arriba encontrarás un sendero hasta llegar a la cima de las Rocas, el Mirador de las Rocas. ¡Precaución! Para llegar necesitarás nervios de acero y mucho cuidado, pero la vista lo vale.",
+    "etiquetas": {
+      "etiquetas": [
+        "Montaña"
+      ]
+    },
+    "distancia": 1.7,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Empinado",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Alta",
+    "tiempo": 30,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733721818/rutas/escalando-/qwvhmhhjehwnjo3i0j0e.jpg"
+  },
+  {
+    "id": 2,
+    "destino_id": 1,
+    "nombre": "Camino del Amor",
+    "descripcion": "El camino de piedra es un antiguo sendero utilizado por los locales antes de la construcción de las carreteras. Es un camino colonial que atraviesa un bosque ubicado justo frente a las imponentes rocas, ideal para el senderismo, relajarse, disfrutar del aire libre y capturar excelentes paisajes para fotografías.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet Friendly",
+        "Bosque",
+        "Colonial"
+      ]
+    },
+    "distancia": 2.3,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Bosque",
+    "items": {
+      "Tipo": "Colonial"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 40,
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729802981/Rutas/Camino%20de%20Piedra/w0fyvn88tvxnjdszmbvs.jpg"
+  },
+  {
+    "id": 26,
+    "destino_id": 1,
+    "nombre": "Pictogramas",
+    "descripcion": "Las rocas de Suesca revelan un tesoro espectacular de nuestros ancestros: sus increíbles pictogramas, arte rupestre que ha sobrevivido el paso del tiempo. Estas pinturas rojas y ocres, plasmadas en las majestuosas paredes de arenisca, son un testimonio brutal de las civilizaciones indígenas que habitaron Cundinamarca, convirtiendo a Suesca en un museo al aire libre que vale totalmente la pena explorar.",
+    "etiquetas": {
+      "etiquetas": [
+        "Historico"
+      ]
+    },
+    "distancia": 0.86,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Recto",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 20,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733584169/rutas/escalando-el-bosque/ubwhbt3ufpna1uvkjpo2.jpg"
+  },
+  {
+    "id": 1,
+    "destino_id": 1,
+    "nombre": "Virgen de la Z",
+    "descripcion": "El Alto de la Virgen es un lugar sagrado en la cima de una montaña, ofreciendo vistas impresionantes de la sabana. Es perfecto para locales y turistas que buscan una experiencia espiritual, reflexionar, tomar fotos y relajarse en un entorno sereno.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet Friendly",
+        "Monumento",
+        "Bosque",
+        "Camino Irregular",
+        "Paisajes",
+        "Montaña"
+      ]
+    },
+    "distancia": 2.6,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Monumento"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 45,
+    "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729788635/Rutas/Virgen%20de%20la%20Z/wggqu2bp1vobk375rkec.jpg"
+  },
+  {
+    "id": 31,
+    "destino_id": 1,
+    "nombre": "Cañón de la Lechuza",
+    "descripcion": "El Cañón de las Lechuzas es un sitio super espectacular en Suesca, donde podrás vivir una aventura increíble entre rocas gigantes. Durante el recorrido te vas a encontrar con paisajes que te dejarán sin palabras, podrás ver aves súper chéveres y tomar fotos que te harán triunfar en Instagram. Y si tienes suerte, hasta podrías ver las lechuzas que le dan nombre a este lugar mágico. ¡Es un plan brutal que tienes que hacer sí o sí!",
+    "etiquetas": {
+      "etiquetas": [
+        "Cañon"
+      ]
+    },
+    "distancia": 0.0,
+    "veces_recomendada": 3,
+    "completaron_ruta": 3,
+    "terreno": "Recto",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 55,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733709123/rutas/can-de-la-lechuza/szo3kqusyfu63s1nub52.jpg"
+  },
+  {
+    "id": 4,
+    "destino_id": 1,
+    "nombre": "Mirador del Halcón",
+    "descripcion": "El Valle de los Halcones es un destino ideal de ecoturismo, perfecto para relajarse, disfrutar de un día de picnic con amigos o en pareja y capturar excelentes fotografías. Ofrece vistas panorámicas de la sabana, las majestuosas rocas de Suesca y el cañón del río Bogotá, todo en un ambiente tranquilo que invita a compartir momentos especiales, apreciar un buen atardecer o simplemente desconectar y disfrutar del paisaje.",
+    "etiquetas": {
+      "etiquetas": [
+        "Montaña",
+        "Cañon",
+        "Pet Friendly",
+        "Picnic"
+      ]
+    },
+    "distancia": 2.3,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 45,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733759892/rutas/mirador-del-halcon/mxxupbqr7ls8uhzasdmg.jpg"
+  },
+  {
+    "id": 37,
+    "destino_id": 1,
+    "nombre": "Quebrada la Susana",
+    "descripcion": "La Quebrada La Susana es un tesoro natural oculto tras la montaña de la Virgen de la Z, donde el agua cristalina forma una secuencia cautivadora de pequeñas cascadas naturales. Este remanso de paz ofrece pozos naturales que funcionan como piscinas zen, perfectos para refrescar los pies mientras se disfruta del sonido relajante del agua. Sus formaciones escalonadas no solo crean un ambiente perfecto para la fotografía, sino que también brindan espacios íntimos para conectar con la naturaleza, convirtiéndola en un escape ideal para quienes buscan un momento de serenidad lejos del bullicio urbano.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 3.34,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 65,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735247478/oswxjegleas6zmnzomb5.jpg"
+  },
+  {
+    "id": 33,
+    "destino_id": 1,
+    "nombre": "Túnel del Agua",
+    "descripcion": "Explora un fascinante túnel histórico construido durante la expansión del ferrocarril en Colombia. Este paso subterráneo, diseñado para canalizar una quebrada natural, te sumerge en un viaje al pasado mientras te rodea de exuberante naturaleza. Una caminata de aventura que combina historia ferroviaria con la belleza del entorno natural de Suesca.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 2.4,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 45,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733960034/dyyrniuqbux9ognvkzwj.jpg"
+  },
+  {
+    "id": 32,
+    "destino_id": 1,
+    "nombre": "Mirador El Pino",
+    "descripcion": "Una ruta imperdible!, embárcate en una aventura por la montaña más alta de Suesca, un recorrido fascinante que te llevará a atravesar dos imponentes antenas de telecomunicaciones. Disfruta de vistas panorámicas únicas de la sabana que te dejarán sin aliento. ¡Prepárate para conectar con la naturaleza desde lo más alto!",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 1.37,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 28,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733839442/rutas/las-antenas/ecpohfodpxklkns7aoyc.jpg"
+  },
+  {
+    "id": 36,
+    "destino_id": 1,
+    "nombre": "Ruta Pratimonial",
+    "descripcion": "Descubre los lugares más históricos de Suesca en esta ruta que combina cultura y tradición. Comienza en la Plaza del Mercado, un punto lleno de vida local, y sigue hacia el Parque Principal, centro de reunión y símbolo de la comunidad. Visita la Iglesia, con su imponente arquitectura, y la Casa de la Cultura, donde se preserva la esencia artística e histórica del municipio. Explora el encantador Hotel Casona, un ícono de la época colonial, y culmina en el Cementerio Local, un lugar lleno de memoria y legado. Una experiencia única para conectar con la historia de Suesca.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 0.78,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Urbano",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 18,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734701373/bmfytxhiwzzptu1mucud.jpg"
+  },
+  {
+    "id": 40,
+    "destino_id": 2,
+    "nombre": "Cabildo Indígena Muisca",
+    "descripcion": "El Cabildo Indígena de Sesquilé es una comunidad Muisca que se mantiene activa. Esta comunidad es uno de los grupos indígenas que conservan con orgullo sus tradiciones ancestrales. Lo chévere de este cabildo es que realizan un montón de actividades culturales súper interesantes, como las ceremonias tradicionales en el Templo del Sol, donde conectan con sus raíces espirituales. También se dedican a transmitir sus conocimientos a las nuevas generaciones, mantienen vivas sus prácticas de agricultura tradicional, elaboran artesanías hermosas y practican la medicina ancestral que han heredado de sus mayores. Es un lugar donde realmente puedes sentir la energía y la historia viva de los Muiscas, y donde la comunidad trabaja duro para que su cultura no se pierda en el tiempo.",
+    "etiquetas": {
+      "etiqueta": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 1.8,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 31,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737040809/g7dezir3otklu2y1ekqh.jpg"
+  },
+  {
+    "id": 34,
+    "destino_id": 1,
+    "nombre": "Mirador de las Rocas",
+    "descripcion": "Un pintoresco sendero te guía hacia un mirador desde donde podrás admirar la majestuosidad de las formaciones rocosas, que se alzan como guardianes naturales del paisaje. Desde este punto estratégico, se despliega ante tus ojos una vista panorámica del pueblo, sus encantadoras veredas y los imponentes paisajes que lo rodean, invitándote a disfrutar de la serenidad y belleza que solo la naturaleza puede ofrecer.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 0.67,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 24,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734114632/rutas/por-arriba-de-las-rocas/bql2ktkoobihmw5ccdx4.jpg"
+  },
+  {
+    "id": 35,
+    "destino_id": 1,
+    "nombre": "Puente El Viaducto",
+    "descripcion": "Explora el histórico sendero de Los Rieles, un fascinante recorrido que sigue el antiguo viaducto ferroviario de Suesca. Este camino bordeado por impresionantes formaciones rocosas y túneles centenarios te transporta a la época dorada del ferrocarril colombiano, mientras te ofrece vistas espectaculares del valle y las montañas circundantes. Una aventura única donde la historia y la naturaleza se encuentran.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 4.6,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 73,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734242203/ua5jwzond9dw2miuwsrd.jpg"
+  },
+  {
+    "id": 38,
+    "destino_id": 2,
+    "nombre": "Mirador El Ascenso",
+    "descripcion": "Ubicado estratégicamente antes de iniciar el ascenso al majestuoso Cerro de Las Tres Viejas, el Mirador El Ascenso es un punto perfecto para conectarse con la naturaleza. Su acceso comienza con un tramo montañoso que poco a poco se transforma en una carretera destapada, ideal para los amantes de las caminatas y los recorridos tranquilos. Este mirador público ofrece vistas panorámicas impresionantes de los paisajes andinos, convirtiéndolo en un lugar perfecto para descansar, disfrutar de la brisa fresca y contemplar la belleza natural de Sesquilé.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 2.6,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 35,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737039039/rutas/mirador-el-ascenso/l0exgxn8rfmsdnolqopv.jpg"
+  },
+  {
+    "id": 30,
+    "destino_id": 1,
+    "nombre": "La Luciérnaga",
+    "descripcion": "En este Spot te encuentras con un paisaje espectacular, donde la naturaleza es la absoluta protagonista - el río fluye cerca con su sonido súper relajante, mientras descansas en una especie de iglú natural formado por la vegetación silvestre. ¡Es brutal! Podrás sentarte tranquilamente a la orilla del río y contemplar cómo el agua serpentea entre las majestuosas rocas y árboles nativos, en un espacio increíblemente tranquilo donde solo tú y la naturaleza son testigos de este momento.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 2.68,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Recto",
+    "items": {
+      "Tipo": "Rio"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 35,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736911873/rutas/la-lucirnaga/wlzdyxviuowjjyexjelq.jpg"
+  },
+  {
+    "id": 39,
+    "destino_id": 2,
+    "nombre": "Las Tres Viejas",
+    "descripcion": "La travesía hacia el Cerro de Las Tres Viejas inicia con un sendero montañoso que lleva al Mirador El Ascenso, un lugar público y sereno ideal para disfrutar de vistas panorámicas y tomar un breve descanso. Desde este punto, el recorrido continúa por un camino destapado y montañoso que se adentra en paisajes andinos llenos de vegetación y aire puro. A medida que avanzas, el terreno se vuelve más retador, ofreciendo una experiencia perfecta para los amantes del senderismo y la naturaleza. Al llegar a la cima, las vistas espectaculares recompensan cada paso del ascenso.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 4.8,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Alta",
+    "tiempo": 80,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737039685/rutas/las-tres-viejas/dzutjgpjps467997u5fm.jpg"
+  },
+  {
+    "id": 41,
+    "destino_id": 2,
+    "nombre": "La Chorrera",
+    "descripcion": "La Chorrera es un mágico sendero que te guiará a través de múltiples cascadas, culminando en una impresionante caída de agua de gran altura. Este paraje natural te ofrece una experiencia única donde podrás desconectarte del mundo cotidiano y sumergirte en la serenidad de la naturaleza pura. Cada paso te acerca más a un espectáculo natural que vale la pena descubrir.",
+    "etiquetas": {
+      "etiqueta": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 2.95,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 95,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737050471/papo2elyxtnsomit5cxq.jpg"
+  },
+  {
+    "id": 46,
+    "destino_id": 2,
+    "nombre": "Ruta Patrimonial",
+    "descripcion": "Embárcate en una ruta única por Sesquilé, un viaje que fusiona la cultura y la tradición en cada paso. Comienza tu recorrido en la histórica Casa Antonio Nariño, hoy sede del Concejo Municipal, y adéntrate en el encanto de la Capilla de Nuestra Señora de los Dolores. Continúa hacia el Santísimo, un lugar de paz y reflexión donde podrás entrar, rezar y conectarte profundamente contigo mismo. Más adelante, te espera la majestuosa Iglesia Inmaculada Concepción, un verdadero tesoro arquitectónico. Luego, déjate envolver por las historias y tradiciones de la Calle de los Murales, una galería al aire libre que cuenta la esencia del pueblo. Finaliza tu viaje en la Embajada Campesina, donde podrás descubrir y llevarte productos auténticos, directamente del corazón de la región.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 0.5,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Urbano",
+    "items": {
+      "Tipo": "Histórico"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 30,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737696200/zdcv0klnagkzhphwtkka.jpg"
+  },
+  {
+    "id": 44,
+    "destino_id": 2,
+    "nombre": "Quebrada Seca",
+    "descripcion": "¡Descubre este rincón mágico en Sesquilé! Una quebrada cristalina que fluye bajo una imponente roca, creando el spot perfecto para desconectarte del mundo. Es el lugar ideal para parchar con tus amigos, echar historia y dejarte llevar por el relajante sonido del agua. Un espacio natural único donde los buenos momentos y las charlas memorables fluyen tan naturalmente como el agua bajo la piedra.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 1.45,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Trocha",
+    "items": {
+      "Tipo": "Trocha"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 50,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737144563/rutas/quebrada-seca/lc8vqzhevnokvk14q17f.jpg"
+  },
+  {
+    "id": 43,
+    "destino_id": 2,
+    "nombre": "Cueva de los Murciélagos",
+    "descripcion": "En las alturas de Sesquilé, descubre un sendero mágico donde la naturaleza te sorprende a cada paso. Mientras recorres el camino, te encontrarás con miradores que revelan vistas espectaculares del paisaje cundinamarqués. La ruta te guía hacia dos tesoros naturales: una hermosa cascada que canta entre las rocas y una misteriosa cueva que se adentra en las profundidades de la montaña. Una aventura perfecta para conectar con la naturaleza y descubrir los secretos que guarda Sesquilé.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 0.67,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Cuevas"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Baja",
+    "tiempo": 20,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737137275/rutas/cueva-de-los-murcilagos/hqdi5q8tuaclkra7y7op.jpg"
+  },
+  {
+    "id": 42,
+    "destino_id": 2,
+    "nombre": "Mirador de la Sabana",
+    "descripcion": "¡Súbete a uno de los mejores balcones naturales de Sesquilé! Este mirador es un spot increíble donde podrás ver toda la sabana de Suesca y Sesquilé desde las alturas. Imagina estar rodeado de pinos gigantes mientras contemplas un paisaje que te deja sin palabras. ¡Es el lugar perfecto para parchar con amigos y tomarte esas fotos que van directo a las redes y para desconectarte un rato del mundo!",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 0.7,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Medio",
+    "tiempo": 30,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737133563/rutas/mirador-de-la-sabana/ecbblsckxhkzqunhpfbi.jpg"
+  },
+  {
+    "id": 45,
+    "destino_id": 2,
+    "nombre": "Mirador de la Z",
+    "descripcion": "¡Descubre el mirador de la Z en la vereda El Gobernador, un parche increíble en lo alto de Sesquilé! La subida es pura adrenalina: un zigzag empinado que te hace sudar pero vale totalmente la pena. Cuando llegues arriba, te vas a quedar sin palabras con la vista espectacular del Embalse de Tominé y todo Sesquilé a tus pies. Ya sea que vengas en bici (si le metes duro al deporte) o prefieras una buena caminata, este spot es perfecto para salir de la rutina y conectarte con la naturaleza.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 2.87,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Trocha",
+    "items": {
+      "Tipo": "Trocha"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Alta",
+    "tiempo": 90,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737149022/rutas/mirador-de-la-z/tryvnx2ao6kd9zlzbzjf.jpg"
+  },
+  {
+    "id": 47,
+    "destino_id": 2,
+    "nombre": "Cerro Covadonga",
+    "descripcion": "¡Descubre la aventura salvaje de Cerro Covadonga! Un ascenso desafiante que transforma cada paso en una experiencia épica de Sesquilé. Imagina un sendero que serpentea entre paisajes de páramo, donde cada curva revela vistas panorámicas que roban el aliento. Desde el corazón del pueblo, tu travesía te elevará por senderos naturales hasta conquistar los 3,200 metros que coronan este tesoro de Cundinamarca. No es solo una caminata, es una inmersión total en la magia de los Andes colombianos, donde la naturaleza te desafía y te premia con horizontes infinitos. Prepárate para una ruta que no solo recorrerás, sino que vivirás intensamente.",
+    "etiquetas": {
+      "etiquetas": [
+        "Pet-Friendly"
+      ]
+    },
+    "distancia": 4.8,
+    "veces_recomendada": 0,
+    "completaron_ruta": 0,
+    "terreno": "Montañoso",
+    "items": {
+      "Tipo": "Montaña"
+    },
+    "calificacion": 0.0,
+    "dificultad": "Media",
+    "tiempo": 80,
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737737584/hiaitkfgzhrfjlgx6kzf.jpg"
+  }
+]

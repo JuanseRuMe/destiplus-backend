@@ -1,0 +1,170 @@
+[
+  {
+    "id": 5,
+    "ruta_id": 1,
+    "recomendaciones": "Recuerda llevar hidratación, aplicarte bloqueador solar y usar gorra. La ruta es pet-friendly, pero el ingreso de mascotas está prohibido en el monumento. Asegúrate de llevar agua y algunos snacks para ti y tu mascota durante el trayecto. También puedes llevar una vela como ofrenda, ya que en la parte trasera del monumento hay una sección especial para este tipo de gestos. Sé respetuoso con el lugar, no dañes el monumento, ni alteres la fauna y flora del entorno. No ensucies ni dejes basura.",
+    "accesibilidad": "La ruta principal es accesible y adecuada para personas que prefieren un camino más cómodo, ideal para quienes puedan tener alguna complicación física. Los atajos, en cambio, presentan mayor dificultad debido a su inclinación, denso follaje y senderos menos visibles, por lo que es recomendable evitarlos si buscas una experiencia más relajada.",
+    "conservacion": "Para contribuir a la conservación del entorno, es fundamental respetar tanto el monumento como la flora y fauna de la ruta. Evita dañar o alterar la vegetación, y sigue siempre los caminos señalados para minimizar el impacto ambiental. Si llevas una vela como ofrenda, utiliza únicamente el espacio destinado para ello. No dejes basura y asegúrate de llevar tus desechos contigo. Si vas con mascota, cuida que no interfiera con la fauna local, y mantén el lugar limpio. El respeto por el entorno es clave para preservar la belleza y el valor natural de este sitio."
+  },
+  {
+    "id": 6,
+    "ruta_id": 2,
+    "recomendaciones": "Recuerda llevar hidratación, aplicarte bloqueador solar y usar gorra. La ruta es pet-friendly, pero debes tener cuidado con las casas aledañas. Asegúrate de llevar agua y algunos snacks para ti y tu mascota durante el trayecto. No alteres la fauna y flora del entorno. No ensucies ni dejes basura.",
+    "accesibilidad": "La ruta principal es accesible y adecuada para personas que prefieren un camino más cómodo, ideal para quienes puedan tener alguna complicación física. Los atajos, en cambio, presentan mayor dificultad debido a su inclinación, denso follaje y senderos menos visibles, por lo que es recomendable evitarlos si buscas una experiencia más relajada.",
+    "conservacion": "Para contribuir a la conservación del entorno, es fundamental respetar la flora y fauna de la ruta. Evita dañar o alterar la vegetación, y sigue siempre los caminos señalados para minimizar el impacto ambiental. No dejes basura y asegúrate de llevar tus desechos contigo. Si vas con mascota, cuida que no interfiera con la fauna local, y mantén el lugar limpio. El respeto por el entorno es clave para preservar la belleza y el valor natural de este sitio."
+  },
+  {
+    "id": 8,
+    "ruta_id": 4,
+    "recomendaciones": "Recuerda llevar hidratación, aplicarte bloqueador solar y usar gorra. La ruta es pet-friendly, pero debes tener cuidado con las casas aledañas. Asegúrate de llevar agua y algunos snacks para ti y tu mascota durante el trayecto. No alteres la fauna y flora del entorno. No ensucies ni dejes basura.",
+    "accesibilidad": "La ruta es accesible y adecuada para personas que prefieren una caminata cómoda, ideal para quienes prefieran una experiencia mas relajada.",
+    "conservacion": "Para contribuir a la conservación del entorno, es fundamental respetar la flora y fauna de la ruta. Evita dañar o alterar la vegetación, y sigue siempre los caminos señalados para minimizar el impacto ambiental. No dejes basura y asegúrate de llevar tus desechos contigo. Si vas con mascota, cuida que no interfiera con la fauna local, y mantén el lugar limpio. El respeto por el entorno es clave para preservar la belleza y el valor natural de este sitio."
+  },
+  {
+    "id": 36,
+    "ruta_id": 38,
+    "recomendaciones": "Para disfrutar de este espacio tranquilo, lleva ropa cómoda y calzado adecuado para senderos de tierra. Es recomendable llevar agua, protector solar y algo ligero para comer. Visita el mirador en horas de la mañana para aprovechar la vista y evitar el calor. Siempre informa a alguien sobre tu visita y, si es posible, realiza el recorrido acompañado.",
+    "accesibilidad": "El acceso al Mirador El Ascenso es moderado, ideal para principiantes. El camino combina senderos montañosos y carretera destapada, lo cual requiere precaución, especialmente en días lluviosos. No es apto para vehículos ni para personas con movilidad reducida.",
+    "conservacion": "Mantén limpio el espacio llevando de regreso tus residuos. Evita dañar la vegetación o alterar la fauna local. No está permitido hacer fogatas ni extraer elementos naturales. Respetar el entorno garantiza la conservación del mirador para futuros visitantes."
+  },
+  {
+    "id": 28,
+    "ruta_id": 31,
+    "recomendaciones": "Te damos el dato: la mejor forma de hacer esta ruta es en bici, te ahorras tiempo porque es larguita. Pero si prefieres ir a pie, ¡también está super! Solo asegúrate de llevar buena hidratación, varios snacks para el camino y protégete de los mosquitos - nada grave pero mejor prevenir. Ah, y súper importante: celular bien cargado porque te vas a querer tomar mil fotos. ¡Los paisajes están brutales! Solo necesitas buena actitud y listo para la aventura.",
+    "accesibilidad": "La ruta es accesible para todos, está super bien para recorrerla en bici de montaña. Si vas a pie, ponte unos zapatos cómodos y ten cuidado donde pisas porque hay algunas piedras en el camino que podrían hacerte tropezar. ¡Nada del otro mundo, pero mejor ir prevenido!",
+    "conservacion": "¡Hey! Para mantener este lugar tan increíble como lo encontraste, hay algunas cositas importantes: quédate siempre en los senderos marcados, no arranques plantas ni flores, si ves animalitos solo obsérvalos desde lejos (nada de alimentarlos), y súper importante - llévate toda tu basura de regreso. Ah, y mantén la calma en el lugar, así respetas a todos los habitantes del cañón, ¡especialmente a las lechuzas que son algo tímidas!"
+  },
+  {
+    "id": 23,
+    "ruta_id": 26,
+    "recomendaciones": "Super importante: durante el recorrido, asegúrate de no salirte del sendero marcado, lleva suficiente agua (¡la hidratación es clave!), y protégete del sol y los mosquitos con gorra y ropa adecuada. Y ojo con estol: según los locales, tocar los pictogramas trae mala suerte, así que ni se te ocurra - además, nada de fotos con flash porque puede dañar estas obras espectaculares. ¡Respetemos y cuidemos nuestro patrimonio!",
+    "accesibilidad": "El sendero es bastante amigable - incluso si no eres un experto caminante, ¡lo podrás hacer super tranquilo! Hay algunas rocas que tendrás que pasar, pero es algo manejable. Eso sí, super importante estar pendiente de dónde pisas para evitar tropezones.",
+    "conservacion": "¡Hey, super importante! Para proteger este lugar increíble, mantente siempre en el sendero marcado - así cuidamos la fauna y flora del lugar que es espectacular. Y recuerda lo que hablamos antes: nada de tocar los pictogramas, ¡es clave preservar estas obras ancestrales para que otros también puedan disfrutarlas!"
+  },
+  {
+    "id": 27,
+    "ruta_id": 30,
+    "recomendaciones": "El sendero es bastante amigable - incluso si no eres un experto caminante, ¡lo podrás hacer super tranquilo! Para que tu experiencia sea espectacular, aquí van unos tips importantes: lleva suficiente agua para mantenerte hidratado, usa ropa que te proteja de los mosquitos (nada grave, pero mejor prevenir), asegúrate de que tu celular esté bien cargado para capturar los momentos increíbles, y no olvides unos buenos snacks para mantener la energía.",
+    "accesibilidad": "El sendero es super amigable y accesible para todo tipo de personas - ¡no necesitas ser un experto! Aunque el camino es chévere, mantén la atención al pisar porque hay algunas piedras que no perdonan. Nada grave, pero es mejor prevenir cualquier tropezón.",
+    "conservacion": "¡Super importante! Sigue siempre el sendero marcado para proteger la vegetación, y ojo con esto que es clave: nada de arrojar residuos al río ni dejar basura por ahí - la idea es cuidar al máximo la flora y fauna del lugar. ¡Es importante poder disfrutar de estos espacios naturales, así que hagamos nuestra parte para conservarlos!"
+  },
+  {
+    "id": 24,
+    "ruta_id": 27,
+    "recomendaciones": "Se recomienda utilizar zapatos apropiados para senderos resbalosos, vestir ropa que permita una buena flexibilidad y siempre sostenerse de la guaya que se encuentra al inicio del sendero más empinado, la cual se debe usar siempre ya que te llevará hasta la cima. Además, se sugiere guardar el celular durante el tramo más empinado. Sin embargo, este sendero está diseñado únicamente para personas con una alta experiencia en excursiones, ya que existen partes demasiado complicadas que pueden representar un riesgo para quienes no están acostumbrados a este tipo de actividades. Por lo tanto, no se recomienda que niños, personas con condiciones físicas o aquellos que sufren de nerviosismo o miedo a las alturas realicen este trayecto, siendo lo más apropiado que escojan una ruta alternativa.",
+    "accesibilidad": "Aunque la mayoría del camino es recto al iniciar la ruta para llegar a la cima, hay un tramo muy empinado y resbaloso. Por lo tanto, solo se recomienda realizar esta ruta para personas experimentadas en este tipo de terrenos y actividades. Se recomienda abstenerse de realizar la ruta sin compañía de un profesional o sin la experiencia necesaria, ya que puede representar un riesgo considerable.",
+    "conservacion": "Para mantener este lugar tan increíble como lo encontraste, hay algunas cositas importantes: quédate siempre en los senderos marcados, no arranques plantas ni flores, si ves animalitos solo obsérvalos desde lejos (nada de alimentarlos), y súper importante - llévate toda tu basura de regreso. Ah, y mantén la calma en el lugar, así respetas a todos los habitantes del bosque."
+  },
+  {
+    "id": 29,
+    "ruta_id": 32,
+    "recomendaciones": "Para disfrutar al máximo esta experiencia, asegúrate de llevar calzado adecuado para senderismo, ropa cómoda y protección contra el sol, como gorra y bloqueador solar. No olvides llevar suficiente agua para mantenerte hidratado durante el recorrido, así como algunos snacks para recuperar energía. Antes de iniciar, revisa las condiciones climáticas y prepárate para capturar las vistas panorámicas con tu cámara.",
+    "accesibilidad": "La ruta presenta una dificultad media, ideal para personas con una condición física moderada y experiencia básica en senderismo. El recorrido es exclusivamente peatonal, por lo que no está habilitado para vehículos. Si tienes movilidad reducida o requerimientos especiales, considera rutas alternativas más accesibles.",
+    "conservacion": "Es fundamental preservar la belleza natural del lugar. Respeta la flora y fauna local, evitando cualquier interacción que pueda dañarlas. Lleva contigo una bolsa para tus residuos y no dejes basura en la ruta. Procura no tocar ni retirar elementos del entorno, como piedras o plantas, y sigue siempre los senderos establecidos para minimizar el impacto ambiental. ¡Tu cuidado asegura que otros puedan disfrutarlo también!"
+  },
+  {
+    "id": 30,
+    "ruta_id": 33,
+    "recomendaciones": "Para disfrutar al máximo esta experiencia, asegúrate de llevar calzado adecuado para senderismo, ropa cómoda y protección contra el sol, como gorra y bloqueador solar. No olvides llevar suficiente agua para mantenerte hidratado durante el recorrido, así como algunos snacks para recuperar energía. Antes de iniciar, revisa las condiciones climáticas y prepárate para capturar las vistas panorámicas con tu cámara.",
+    "accesibilidad": "a ruta presenta una dificultad media, ideal para personas con una condición física moderada y experiencia básica en senderismo. El recorrido es exclusivamente peatonal, por lo que no está habilitado para vehículos. Si tienes movilidad reducida o requerimientos especiales, considera rutas alternativas más accesibles.",
+    "conservacion": "Es fundamental preservar la belleza natural del lugar. Respeta la flora y fauna local, evitando cualquier interacción que pueda dañarlas. Lleva contigo una bolsa para tus residuos y no dejes basura en la ruta. Procura no tocar ni retirar elementos del entorno, como piedras o plantas, y sigue siempre los senderos establecidos para minimizar el impacto ambiental. ¡Tu cuidado asegura que otros puedan disfrutarlo también!"
+  },
+  {
+    "id": 33,
+    "ruta_id": 36,
+    "recomendaciones": "Para disfrutar al máximo esta ruta histórica, utiliza calzado cómodo y lleva hidratación. Recuerda protegerte del sol con sombrero y bloqueador, especialmente durante los recorridos al aire libre. Una cámara será indispensable para capturar los momentos más destacados de cada lugar. Respeta los horarios de visita y las indicaciones de los guías locales para garantizar una experiencia agradable y segura.",
+    "accesibilidad": "La ruta está diseñada para ser accesible para la mayoría de los visitantes. Los puntos principales, como la Plaza del Mercado, el Parque Principal y la Iglesia, cuentan con caminos pavimentados y de fácil acceso. Algunos lugares, como el Cementerio Local o el Hotel Casona, pueden incluir escalones o terrenos irregulares, por lo que se recomienda verificar previamente las condiciones si se tienen necesidades específicas de movilidad.",
+    "conservacion": "Ayuda a preservar la belleza e historia de estos lugares evitando dejar basura y respetando las áreas verdes y monumentos. En sitios históricos, no toques elementos antiguos o delicados para garantizar su mantenimiento. Apoya el desarrollo sostenible adquiriendo productos locales y promoviendo el cuidado de este valioso patrimonio cultural."
+  },
+  {
+    "id": 32,
+    "ruta_id": 35,
+    "recomendaciones": "Para disfrutar al máximo esta experiencia, asegúrate de llevar calzado adecuado para senderismo, ropa cómoda y protección contra el sol, como gorra y bloqueador solar. No olvides llevar suficiente agua para mantenerte hidratado durante el recorrido, así como algunos snacks para recuperar energía. Antes de iniciar, revisa las condiciones climáticas y prepárate para capturar las vistas panorámicas con tu cámara.",
+    "accesibilidad": "La ruta presenta una dificultad media, ideal para personas con una condición física moderada y experiencia básica en senderismo. El recorrido es exclusivamente peatonal, por lo que no está habilitado para vehículos. Si tienes movilidad reducida o requerimientos especiales, considera rutas alternativas más accesibles.",
+    "conservacion": "Es fundamental preservar la belleza natural del lugar. Respeta la flora y fauna local, evitando cualquier interacción que pueda dañarlas. Lleva contigo una bolsa para tus residuos y no dejes basura en la ruta. Procura no tocar ni retirar elementos del entorno, como piedras o plantas, y sigue siempre los senderos establecidos para minimizar el impacto ambiental. ¡Tu cuidado asegura que otros puedan disfrutarlo también!"
+  },
+  {
+    "id": 34,
+    "ruta_id": 37,
+    "recomendaciones": "Recuerda llevar hidratación, aplicarte bloqueador solar y usar gorra. La ruta es pet-friendly. Asegúrate de llevar agua y algunos snacks para ti y tu mascota durante el trayecto.  Sé respetuoso con el lugar, no dañes el lugar, ni alteres la fauna y flora del entorno. No ensucies ni dejes basura.",
+    "accesibilidad": "La ruta principal es accesible y adecuada para personas que prefieren un camino más cómodo, ideal para quienes puedan tener alguna complicación física. Los atajos, en cambio, presentan mayor dificultad debido a su inclinación, denso follaje y senderos menos visibles, por lo que es recomendable evitarlos si buscas una experiencia más relajada.",
+    "conservacion": "Para contribuir a la conservación del entorno, es fundamental respetar tanto el monumento como la flora y fauna de la ruta. Evita dañar o alterar la vegetación, y sigue siempre los caminos señalados para minimizar el impacto ambiental. No dejes basura y asegúrate de llevar tus desechos contigo. Si vas con mascota, cuida que no interfiera con la fauna local, y mantén el lugar limpio. El respeto por el entorno es clave para preservar la belleza y el valor natural de este sitio."
+  },
+  {
+    "id": 31,
+    "ruta_id": 34,
+    "recomendaciones": "Para disfrutar al máximo esta experiencia, asegúrate de llevar calzado adecuado para senderismo, ropa cómoda y protección contra el sol, como gorra y bloqueador solar. No olvides llevar suficiente agua para mantenerte hidratado durante el recorrido, así como algunos snacks para recuperar energía. Antes de iniciar, revisa las condiciones climáticas y prepárate para capturar las vistas panorámicas con tu cámara.",
+    "accesibilidad": "La ruta presenta una dificultad media, ideal para personas con una condición física moderada y experiencia básica en senderismo. El recorrido es exclusivamente peatonal, por lo que no está habilitado para vehículos. Si tienes movilidad reducida o requerimientos especiales, considera rutas alternativas más accesibles.",
+    "conservacion": "Es fundamental preservar la belleza natural del lugar. Respeta la flora y fauna local, evitando cualquier interacción que pueda dañarlas. Lleva contigo una bolsa para tus residuos y no dejes basura en la ruta. Procura no tocar ni retirar elementos del entorno, como piedras o plantas, y sigue siempre los senderos establecidos para minimizar el impacto ambiental. ¡Tu cuidado asegura que otros puedan disfrutarlo también!"
+  },
+  {
+    "id": 35,
+    "ruta_id": 40,
+    "recomendaciones": "Para tu caminata al Cabildo Indígena, lleva suficiente agua, snacks ligeros y calzado cómodo. Recuerda que entrarás a un territorio sagrado, así que no dejes basura, no toques ni recolectes nada del lugar, mantén la voz baja y sigue siempre el sendero marcado. El respeto por la naturaleza y la cultura Muisca es fundamental.",
+    "accesibilidad": "Parcialmente accesible en vehículo, ya que gran parte del trayecto cuenta con carretera pavimentada apta para carros y motos. Sin embargo, el último tramo cambia a un sendero de herradura empinado que solo se puede recorrer a pie. Este segmento final, aunque exigente por su pendiente, te lleva directamente hasta el Cabildo.   Copy Retry",
+    "conservacion": "Es fundamental preservar este territorio ancestral Muisca. Al visitarlo, evita dejar cualquier tipo de basura, no alteres la vegetación ni recolectes plantas, y mantén siempre el respeto por este espacio sagrado. Tu compromiso con la conservación ayuda a que futuras generaciones puedan seguir disfrutando de este valioso patrimonio cultural y natural."
+  },
+  {
+    "id": 37,
+    "ruta_id": 39,
+    "recomendaciones": "Para esta ruta de mayor exigencia, utiliza calzado de senderismo y ropa adecuada para cambios de clima. Lleva suficiente agua, snacks energéticos, protector solar y una chaqueta cortavientos. Comienza temprano y camina en grupo por seguridad. No olvides consultar el clima antes de iniciar el recorrido.",
+    "accesibilidad": "Esta ruta es de dificultad media a alta, con senderos empinados y terrenos rocosos. Es ideal para personas con experiencia en senderismo. No es recomendable para niños pequeños, adultos mayores o personas con movilidad reducida. El acceso es solo peatonal.",
+    "conservacion": "Protege la naturaleza manteniéndote en los senderos marcados para evitar la erosión. No dejes basura ni dañes la vegetación. Evita el uso de plásticos de un solo uso y no molestes a los animales. El respeto por el entorno asegura que esta ruta siga siendo un paraíso natural."
+  },
+  {
+    "id": 38,
+    "ruta_id": 41,
+    "recomendaciones": "Para visitar Las Chorreras de Sesquilé lleva suficiente agua, gorra, bloqueador solar y zapatos con buen agarre. La ropa debe ser cómoda y trae un cambio completo pues te mojarás. Aunque hay partes que se pueden cruzar sin equipo especial, ten mucho cuidado pues pueden estar resbalosas. No dejes basura, no extraigas nada del lugar y mantente en los senderos establecidos. Se recomienda ir en grupo y verificar el clima antes de la visita.",
+    "accesibilidad": "Aun que no es una ruta de alta exigencia física se requiere buen estado de salud y condición física. No es apta para personas con limitaciones de movilidad, problemas cardíacos, respiratorios o lesiones recientes, ya que el terreno es montañoso y rocoso, con secciones resbalosas y empinadas que requieren trepar. Se recomienda solo para personas con buena agilidad y resistencia física.",
+    "conservacion": "Es fundamental respetar este espacio natural: no dejes basura ni rastro de tu visita, no extraigas plantas, rocas o elementos del lugar, mantente siempre en los senderos establecidos para evitar la erosión, y no alteres el ecosistema. Recuerda que las cascadas son un patrimonio natural que debemos preservar para futuras generaciones - lo único que debes llevarte son fotos y lo único que debes dejar son huellas."
+  },
+  {
+    "id": 43,
+    "ruta_id": 44,
+    "recomendaciones": "teste",
+    "accesibilidad": "test",
+    "conservacion": "test"
+  },
+  {
+    "id": 40,
+    "ruta_id": 43,
+    "recomendaciones": "Para disfrutar esta aventura al máximo, lleva calzado apropiado para caminata, hidratación suficiente, bloqueador solar y un refrigerio. Es recomendable llevar linterna si planeas ver la cueva.",
+    "accesibilidad": "La ruta presenta un nivel moderado, con terreno irregular y pendientes pronunciadas. No es apta para personas con movilidad reducida, adultos mayores o niños pequeños. Se requiere buena condición física ya que el sendero incluye tramos empinados y zonas rocosas que demandan precaución especial.",
+    "conservacion": "Este es un espacio natural que debemos proteger. No dejes basura, mantente siempre en los senderos marcados, no extraigas plantas ni elementos del lugar, evita hacer ruido excesivo que perturbe la fauna local y no realices marcas en la cueva ni en las rocas. Recuerda que tu compromiso con la conservación permite que otros también puedan disfrutar de este tesoro natural."
+  },
+  {
+    "id": 42,
+    "ruta_id": 45,
+    "recomendaciones": "¡Ey aventurero! Antes de lanzarte, prepárate bien para la ruta: si vas en bici, revisa que esté en buen estado y si vas a pie, alista tus mejores tenis. Lo más importante: ¡lleva mucha agua! Mínimo 2 litros por persona y extra si llevas a tu peludito, porque cuando hace calor la cosa se pone seria. No olvides tus snacks para recargar energía durante el recorrido de hora y media, y si vas en bici, un kit básico de reparación puede salvarte el día. ¡Prepárate bien y disfruta la aventura!",
+    "accesibilidad": "La ruta no es apta para personas con movilidad reducida o problemas cardíacos/respiratorios. Al ser un camino de trocha empinado con terreno irregular y sin pavimentar, requiere buena condición física para su ascenso de 90 minutos. Se recomienda solo para personas con resistencia física adecuada que puedan manejar terreno montañoso exigente. No es aconsejable para niños pequeños, adultos mayores o personas con limitaciones físicas, especialmente en días calurosos.",
+    "conservacion": "Recuerda que Sesquile es nuestro tesoro natural, así que ayúdanos a mantenerlo limpio y hermoso para todos. No dejes basura en el camino, guarda tus residuos hasta encontrar un lugar apropiado para desecharlos, mantente siempre en los senderos marcados para evitar la erosión, protege la vegetación nativa y respeta la tranquilidad del lugar. Al ser un espacio natural compartido, tu compromiso con su conservación asegura que otros también puedan disfrutar de estas vistas espectaculares. ¡La naturaleza te agradece por cuidarla!"
+  },
+  {
+    "id": 39,
+    "ruta_id": 42,
+    "recomendaciones": "No se te olvide el agua, bloqueador, gorra y algo de mecato para la subida. Si quieres las mejores fotos, date una pasadita tempranito o cuando esté cayendo el sol. Y ojo, guarda una bolsita para la basura que generes.",
+    "accesibilidad": "La subida está buena para quemar calorías - es empinada y hay que tener aguante. Si tienes problemas de rodillas, corazón o respiración, mejor búscate otro plan. Cuando llueve se pone resbaloso, así que mucho cuidado con eso.",
+    "conservacion": "Este parche es un tesoro, ¡ayúdanos a cuidarlo! Nada de dejar basura tirada, ni salirse de los caminos marcados, ni hacerle daño a los pinos. Acá viven varios animalitos, así que no hagas mucho ruido ni armes fogatas. La idea es que este spot siga igual de bonito para que todos lo puedan disfrutar."
+  },
+  {
+    "id": 44,
+    "ruta_id": 46,
+    "recomendaciones": "Te recomendamos usar calzado cómodo para caminar y llevar agua, ya que la ruta abarca varios lugares históricos. Aprovecha para conocer cada rincón y aprender sobre la cultura local.",
+    "accesibilidad": "La ruta es accesible para personas con movilidad reducida en la mayoría de los puntos, aunque algunas áreas pueden tener desafíos por el tipo de terreno.",
+    "conservacion": "Es importante cuidar el patrimonio histórico de Sesquilé, evitando daños a los murales y respetando las estructuras de los sitios visitados para preservar su belleza y valor cultural."
+  },
+  {
+    "id": 45,
+    "ruta_id": 47,
+    "recomendaciones": "Para conquistar Cerro Covadonga, prepárate con botas de trekking, ropa térmica en capas, mínimo 2 litros de agua, snacks energéticos, protección solar completa y un equipo que te permita enfrentar los desafíos de un terreno montañoso de alta montaña, garantizando comodidad y seguridad durante tu travesía.",
+    "accesibilidad": "La ruta a Cerro Covadonga presenta un nivel de dificultad moderado, exigiendo una condición física intermedia, con tramos que requieren escalada básica, mejor transitada durante temporadas secas de diciembre-febrero y julio-agosto, con posibilidad de contratar guías locales que faciliten la navegación y proporcionen información del territorio.",
+    "conservacion": "Para preservar el frágil ecosistema de páramo, es fundamental transitar únicamente por senderos marcados, no dejar ningún tipo de residuo, respetar estrictamente la flora y fauna nativa, evitar cualquier alteración del entorno como fogatas o disturbios, practicar un turismo de mínimo impacto que permita la conservación de este valioso patrimonio natural de Sesquilé."
+  },
+  {
+    "id": 41,
+    "ruta_id": 44,
+    "recomendaciones": "¡Ey aventurero! Antes de lanzarte, prepárate bien para la ruta: si vas en bici, revisa que esté en buen estado y si vas a pie, alista tus mejores tenis. Lo más importante: ¡lleva mucha agua! Mínimo 2 litros por persona y extra si llevas a tu peludito, porque cuando hace calor la cosa se pone seria. No olvides tus snacks para recargar energía durante el recorrido de hora y media, y si vas en bici, un kit básico de reparación puede salvarte el día. ¡Prepárate bien y disfruta la aventura!",
+    "accesibilidad": "La ruta no es apta para personas con movilidad reducida o problemas cardíacos/respiratorios. Al ser un camino de trocha empinado con terreno irregular y sin pavimentar, requiere buena condición física para su ascenso de 90 minutos. Se recomienda solo para personas con resistencia física adecuada que puedan manejar terreno montañoso exigente. No es aconsejable para niños pequeños, adultos mayores o personas con limitaciones físicas, especialmente en días calurosos.",
+    "conservacion": "Recuerda que Sesquile es nuestro tesoro natural, así que ayúdanos a mantenerlo limpio y hermoso para todos. No dejes basura en el camino, guarda tus residuos hasta encontrar un lugar apropiado para desecharlos, mantente siempre en los senderos marcados para evitar la erosión, protege la vegetación nativa y respeta la tranquilidad del lugar. Al ser un espacio natural compartido, tu compromiso con su conservación asegura que otros también puedan disfrutar de estas vistas espectaculares. ¡La naturaleza te agradece por cuidarla!"
+  }
+]

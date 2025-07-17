@@ -1,0 +1,1365 @@
+[
+  {
+    "id": 6,
+    "oferente": "Refugio Annapurna ",
+    "horario": {
+      "abren": "9:00 AM",
+      "cierran": "3:00 PM"
+    },
+    "contacto": 573175533516,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734228725/xzrxcs57zdwktgtsraru.jpg",
+    "metodosDePago": "Efectivo, Billeteras digitales",
+    "destino_id": 1,
+    "usuario": "refugioannapurna@gmail.com",
+    "coordenadas": {
+      "lat": 5.1016254,
+      "lng": -73.7801823
+    },
+    "actividad": [
+      {
+        "name": "Camping en las Rocas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734227841/i0g48bdspiccztsxak6n.jpg",
+        "items": {
+          "Tipo": "camping"
+        },
+        "duracion": 720,
+        "dificultad": "Baja",
+        "capacidad": 25,
+        "description": "Camping en las Rocas",
+        "itinerario": "Vive una experiencia única de camping frente a las majestuosas rocas de Suesca, perfecto para una escapada romántica o una aventura con amigos. Nuestro espacio cuenta con zonas húmedas, conexión WiFi, amplio parqueadero y acceso privilegiado a la hermosa Reserva El Turpial, donde podrás conectar con la naturaleza en un entorno seguro y confortable.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227841/i0g48bdspiccztsxak6n.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227842/ap8gogm6eqvb23kjujrp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227842/o0blmki3wirura2jkkg7.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227843/shv9incesmd9ccvcijhl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227842/odcpbjoubcmddshhx5mj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227844/w4oeo3okbkses9nt7cii.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734227845/nbjut11dqie2k6lxbvvx.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad deben estar acompañados por un adulto responsable mayor de 18 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Parqueadero, acceso exclusivo a la Reserva El Turpial, zona WiFi y zonas húmedas.",
+          "recomendaciones": "Para una mejor experiencia de camping, te recomendamos traer sleeping bag, carpa adecuada para clima frío, ropa abrigada, linterna, protector solar y agua. Recuerda que las temperaturas pueden bajar considerablemente en la noche. Los menores deben estar acompañados por un adulto responsable y es importante mantener limpio el espacio y seguir las indicaciones del personal de la reserva."
+        },
+        "precio": 65000
+      },
+      {
+        "name": "Vía Ferrata",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734231110/wswwtfx2gl5lmqbpacdg.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 300,
+        "dificultad": "Media",
+        "capacidad": 10,
+        "description": "Vía Ferrata",
+        "itinerario": "Explora la adrenalina de las vías ferratas en la Reserva El Turpial, un fascinante recorrido que combina tramos verticales y horizontales. Estas rutas están completamente equipadas con sistemas de seguridad profesionales que incluyen clavos, grapas, presas, pasamanos, cadenas y emocionantes puentes colgantes, permitiendo que tanto principiantes como expertos accedan de manera segura a vistas espectaculares normalmente reservadas para escaladores experimentados.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231111/j3he2lytrymap7hlr1ej.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231111/wey1og4jihvpxrl85vgz.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231111/y5u2b7jh42r34i25y1bl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231112/bgyxpucykk6cbrubmknt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231112/xfuin606hssqdpbkoqoh.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231112/sqqdij64wcwfjxr7j1o2.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734231110/wswwtfx2gl5lmqbpacdg.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Edad mínima 13 años. Los menores de edad deben estar acompañados por un adulto responsable y presentar autorización firmada por sus padres o tutores legales.",
+          "experiencia": "Sin experiencia previa.",
+          "incluye": "Acceso exclusivo a la Reserva El Turpial.",
+          "recomendaciones": "Para tu aventura en la vía ferrata, te recomendamos usar ropa cómoda deportiva, zapatos cerrados con buen agarre, llevar agua, bloqueador solar y un refrigerio ligero. La actividad está diseñada para personas sin experiencia previa, pero los menores de edad deben estar acompañados por un adulto. Todo el equipo técnico necesario será proporcionado por nuestros guías certificados."
+        },
+        "precio": 200000
+      },
+      {
+        "name": "Fernando Rubio te enseña a escalar.",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734229607/xgvi2juq40ljmcw3cned.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 300,
+        "dificultad": "Media",
+        "capacidad": 2,
+        "description": "Fernando Rubio te enseña a escalar.",
+        "itinerario": "Escala con un experto: Fernando González-Rubio, reconocido montañista con una extraordinaria trayectoria en el Himalaya y conquistador de 7 de las 14 montañas más altas del mundo. A través de su Fundación, ha contribuido al desarrollo del deporte y apertura de rutas en diversos parques de escalada, incluyendo la Reserva El Turpial y otros destinos internacionales. Aprovecha esta oportunidad única en Suesca, Cundinamarca, para aprender de su experiencia como educador, guía de montaña y defensor del medio ambiente.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229605/mjj2e3bjgtmovpobdn9u.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229605/nzodhyswkq3ou9huwxli.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229605/yufsed5efm8eax8v1rxu.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229605/mxvanz96niylqrpnrhyp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229607/xgvi2juq40ljmcw3cned.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229607/dbwkatwkyc4njrvdhciv.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734229607/ododkk7kzz6xzkefuj7i.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Edad mínima 13 años. Los menores de edad deben estar acompañados por un adulto responsable y presentar autorización firmada por sus padres o tutores legales.",
+          "experiencia": "Sin experiencia previa.",
+          "incluye": "Todo el equipo técnico necesario para la escalada será proporcionado por el instructor (arnés, casco, mosquetones y cuerdas). Se recomienda llegar 15 minutos antes de la hora programada.",
+          "recomendaciones": "Traer ropa cómoda deportiva, zapatillas de amarrar, agua, bloqueador solar y refrigerio. Es importante haber desayunado adecuadamente y estar en buen estado de salud."
+        },
+        "precio": 500000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "oferente": "SIE Travel",
+    "horario": {
+      "abren": "7:00 am",
+      "cierran": "2:00 pm"
+    },
+    "contacto": 573222285900,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737691084/cqafc2qh4rqvifcjdwzv.png",
+    "metodosDePago": "Transferencias, billeteras digitales y efectivo. ",
+    "destino_id": 2,
+    "usuario": "info@sietravel.com.co",
+    "coordenadas": {
+      "lat": 5.044804,
+      "lng": -73.796382
+    },
+    "actividad": [
+      {
+        "name": "Trekking Cuchilla Frailejonal",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737686808/lsah8bxgh28koucuqrhy.jpg",
+        "items": {
+          "Tipo": "Trekking"
+        },
+        "duracion": 480,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Trekking Cuchilla Frailejonal",
+        "itinerario": "🌿 AVENTURA EN LA CUCHILLA FRAILEJONAL 🏔️ ¿Listo para conquistar uno de los páramos más imponentes de Colombia? Esta aventura en Guatanfur te espera con paisajes que parecen de otro mundo así como la posibilidad de ver Osos de Anteojos.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686808/za28htnp64cfdfjrsrd3.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686811/q7srzmkncymqn3dwe2xi.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686826/rj6wtcmrurhe3ttscqln.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686811/crd71w67avhajqnpkbdg.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686825/v0kza1navpjc2irlsph9.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686819/dxhenjuiuuulwcdwquos.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686822/efug9k7t2dtdrwlj8qte.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686828/ibiuhflgnorvsj3up3nf.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737686824/jaeyymxbqiyuntbbnpxg.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "18 km de senderos mágicos, Alcanzarás los 3.550 msnm, 7-8 horas de pura adrenalina, Dificultad: Moderada-alta 💪",
+          "incluye": "Desayuno montañero completo (¡Con caldo, huevos y chucula!), Refrigerio tipo Brunch, Transporte Local, Guía experto local, Seguro aventurero",
+          "recomendaciones": "Llevar: Botas de montaña, Ropa abrigada + Ropa de Cambio, Protección solar, Cámara (¡las fotos serán épicas!)"
+        },
+        "precio": 110000
+      },
+      {
+        "name": "Trekking Alto Pan de Azúcar",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737688022/rz88u2llrkcbgkkjlurf.jpg",
+        "items": {
+          "Tipo": "Trekking"
+        },
+        "duracion": 420,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Trekking Alto Pan de Azúcar",
+        "itinerario": "🌿 DESCUBRE EL PÁRAMO PAN DE AZÚCAR 🏔️ ¿Te imaginas alcanzar las nubes mientras caminas entre frailejones? Esta aventura te espera en Sesquilé.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688015/wkdweciaendefk1e1fmb.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688021/iwx0bd5pkphunsz3gdli.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688029/daw7ytdaebp3dgw4xpnv.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688026/gzh0k3awj7ww1qnkyqsi.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688028/kony071ry6emizxann71.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688027/hb7hi7uivpxwkbeoo5pk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688033/crlzn6nh01cg2n99mm8o.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "12 km de pura majestuosidad andina, Alcanzarás los 3600 msnm, 6-7 horas de conexión con la naturaleza",
+          "incluye": "Desayuno montañero completo (¡Con caldo, huevos y chucula!), Refrigerio tipo Brunch, Transporte Local, Guía experto local, Seguro aventurero",
+          "recomendaciones": "Llevar: Botas/tenis de treking, Ropa cómoda + Ropa de cambio, Protección solar, Cámara (¡las vistas son increíbles!)"
+        },
+        "precio": 95000
+      },
+      {
+        "name": "Trekking Cerro Tres Viejas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737688823/wghwj7iteovilhgohjbr.jpg",
+        "items": {
+          "Tipo": "Trekking"
+        },
+        "duracion": 300,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Trekking Cerro Tres Viejas",
+        "itinerario": "🌿 TRES VIEJAS: LA JOYA OCULTA DE SESQUILÉ 🌄 ¿Buscas una aventura perfecta para un día? ¡Descubre el secreto mejor guardado de Cundinamarca!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688813/qgmmjbqik2xdlcpynpar.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688807/bvr8lfk8ibohq6gjvgae.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688809/jmdhl5dmcg8nlw2rzlnk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688824/jiybd2xqhth62x7lryu2.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688814/g4ow1t0zlzdbedy9niqo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688818/wehlpopf8rnclqsr2esg.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737688827/wnvpcjjhwehytbnv7mf1.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "10 km de puro encanto natural, Altura máxima: 3.322 msnm, 4-5 horas de conexión con la montaña, Dificultad: Media (ideal para iniciarte) 💫",
+          "incluye": "Guía local experto, Refrigerio especial, Seguro de aventura, ¡Momentos inolvidables garantizados!",
+          "recomendaciones": "Llevar: Zapatos de trekking, Ropa cómoda + Ropa de cambio, Kit de protección solar, ¡Sonrisa aventurera!"
+        },
+        "precio": 55000
+      },
+      {
+        "name": "Hiking Camino Ancestral y Laguna del Cacique Guatavita",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737689842/pi012zqr2yd9fyszmt3v.jpg",
+        "items": {
+          "Tipo": "Hiking"
+        },
+        "duracion": 480,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Hiking Camino Ancestral y Laguna del Cacique Guatavita",
+        "itinerario": "🌿 CAMINO ANCESTRAL Y LAGUNA DE GUATAVITA 🏔️ ¡Vive la magia de los Muiscas en una aventura única que combina historia, naturaleza y misterio!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689839/helobpzidndxdgkp7qyd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689858/j8czdt7ip19l0zdqgtmu.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689858/eanjassfrknz48alquir.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689850/dt4uru9rbbeer0dhzsim.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689857/wj08xsybd03gu4sfuvyp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689856/rpdsrdjy17mqyc0msyyn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689855/owz9fsmw0yauo7jsfclz.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "14 km de historia viva, Altura: 3.100 msnm, 7-8 horas de exploración, Dificultad: Moderada",
+          "incluye": "Almuerzo tradicional, Entrada a la Laguna sagrada, Transporte de regreso Local, Guía experto en historia local, Refrigerio del caminante, Seguro todo riesgo",
+          "recomendaciones": "Llevar: Calzado de montaña, Ropa cómoda + Ropa de cambio, Kit solar, Cámara (¡fotos imperdibles!)"
+        },
+        "precio": 115000
+      },
+      {
+        "name": "Hiking Cerro Chibchacum KIDS",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737690726/pnc3bpqmr4lmjvwmscxj.jpg",
+        "items": {
+          "Tipo": "Hiking"
+        },
+        "duracion": 180,
+        "dificultad": "Baja",
+        "capacidad": 20,
+        "description": "Hiking Cerro Chibchacum KIDS",
+        "itinerario": "🌈 CHIBCHACUM KIDS: ¡AVENTURA FAMILIAR! 🎈 ¿Buscas una experiencia mágica para los peques? ¡Descubre la naturaleza en familia de una forma única y divertida!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690724/okwxclxnrbl3itlthfyd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690731/gzcozrwl5jtxeriwlaey.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690728/iu92mwc4llyl8hpgipty.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690726/sfvppyu8grn07smxlnsk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690733/ylysrde3suc0kxs9nixo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690736/tf0lhxugkjloaxgzcis4.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737690734/mcrar9uho2hju1kabpvn.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Todas las edades pueden realizar esta actividad.",
+          "experiencia": "5 km de diversión natural, 3 horas de exploración, Para niños de 4 a 9 años, Dificultad: Suave y divertida",
+          "incluye": "Regalo sorpresa para peques, Refrigerios deliciosos, Transporte de regreso local, Guías especializados en niños, Fotos de la aventura, Seguro familiar",
+          "recomendaciones": " Ropa cómoda, Zapatillas deportivas, Protector solar, ¡Mucha energía!"
+        },
+        "precio": 75000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "oferente": "Suesca Colombia Extrema",
+    "horario": {
+      "abren": "8:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573115645993,
+    "logo": "https://storage.googleapis.com/tree_suesca/Actividades/escalada_suesca_colombia_extrema/logo.jpeg",
+    "metodosDePago": "Aceptamos efectivo y billeteras digitales",
+    "destino_id": 1,
+    "usuario": "test@gmail.com",
+    "coordenadas": {
+      "lat": 5.093656,
+      "lng": -73.791983
+    },
+    "actividad": [
+      {
+        "name": "Escalada en Roca",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733896865/jlrmncccu6cdtb4yjjtr.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 180,
+        "dificultad": "Media",
+        "capacidad": 5,
+        "description": "Escalada en Roca",
+        "itinerario": "Vive una emocionante aventura de escalada en las rocas de Suesca, un destino icónico para escaladores a solo 45 minutos de Bogotá. La experiencia incluye equipo completo de seguridad, guía certificado y una sesión que combina instrucción básica con práctica en diferentes niveles de dificultad. Perfecta tanto para principiantes como para escaladores experimentados.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896933/zu2cb7kw24rudujzlepe.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896940/iiojnstficutcsunaou0.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896933/tfgqhsfegssctbwgyhwe.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896939/tmadfqoklrudot9qgcm3.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896938/nhmwqiptgyw4ts9eohj1.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896931/wsmhlbqsxuttkcj9kjfs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896934/xnar6xpusvysb0ksdfus.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733896936/hziw0fzuooqhddxwzcme.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de 8 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Equipo de escalar completo, seguro, guía certificado, 3 rutas de escalada en roca.",
+          "recomendaciones": "Llevar ropa comoda e hidratación"
+        },
+        "precio": 100000
+      },
+      {
+        "name": "Exploración de Cuevas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734993254/bdqdpjiofmnivhvik0np.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 240,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Exploración de Cuevas",
+        "itinerario": "La exploración de la Cueva Chocoancía con Suesca Colombia Extrema te ofrece una aventura única de espeleología en una de las formaciones más impresionantes de Suesca. Durante el recorrido de aproximadamente 4 horas, podrás adentrarte en esta cueva natural guiado por expertos certificados, donde descubrirás formaciones rocosas únicas, pasadizos estrechos y cámaras subterráneas que te transportarán a un mundo subterráneo fascinante. El servicio incluye todo el equipo necesario (casco con luz frontal), guía especializado, seguro de actividad, charla técnica de seguridad y un recorrido que te permitirá conocer los secretos geológicos e históricos de esta maravillosa cueva.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993254/bdqdpjiofmnivhvik0np.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993255/i9adnjzqjnijpouuqfoo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993255/wngqf6ujny4qvppnwv8z.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993254/y2fz6tiswh8zosbj3gtl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993254/xablela2qrg5ovcwnixs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993256/szomlo5v1b29iweejrxw.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993255/eqn6d6xpbebktpjnh1iw.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993256/b1hutyiahwav1b6i8moo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734993256/tygyowlklmdq9fddzxbk.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de 8 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Guía certificado, seguro de asistencia, casco y frontal",
+          "recomendaciones": "Llevar ropa comoda e hidratación, ropa de cambio, bloqueador solar."
+        },
+        "precio": 95000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "oferente": "Go Suesca",
+    "horario": {
+      "abren": "8:00 am",
+      "cierran": "8:00pm"
+    },
+    "contacto": 573014898924,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734994976/ul9isg4obaih70wlfqow.jpg",
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales",
+    "destino_id": 1,
+    "usuario": "casagosuesca@gmail.com",
+    "coordenadas": {
+      "lat": 5.084697,
+      "lng": -73.793371
+    },
+    "actividad": [
+      {
+        "name": "Camping Villa Go",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735087617/a82p4cvyxmppd67gfpxd.jpg",
+        "items": {
+          "Tipo": "camping"
+        },
+        "duracion": 720,
+        "dificultad": "Baja",
+        "capacidad": 10,
+        "description": "Camping Villa Go",
+        "itinerario": "Disfruta de una experiencia única de camping con todas las comodidades necesarias: zona verde para acampar, baños con ducha y agua caliente, WiFi y parqueadero incluido. La tarifa se calcula por noche y por persona, e incluye leña para que disfrutes de una acogedora fogata bajo las estrellas. Consulta la disponibilidad para reservar tu espacio.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087621/jhhn5kdacy34y9fssec8.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087618/oobod1djme8x89q3bqrs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087619/uxhrlsded6uipy60j7ls.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087618/lg8kf8tkrkiu1cdyjiv5.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087617/a82p4cvyxmppd67gfpxd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087618/ccizbrzsf0jjdxdfxgyb.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087617/tq3ppp1jrymvvlcjzbvm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1735087615/b7gbcnjtzn5hjqi8pgj9.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de edad",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Baños completos, zona monitoreada y segura, no incluye carpa",
+          "recomendaciones": "Seguir instrucciones de seguridad del lugar."
+        },
+        "precio": 25000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "oferente": "Reserva el Turpial",
+    "horario": {
+      "abren": "9:00 AM",
+      "cierran": "5:00 PM"
+    },
+    "contacto": 573015895969,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734232182/zyco4czyq9msbhdrtm79.jpg",
+    "metodosDePago": "Billeteras digitales",
+    "destino_id": 1,
+    "usuario": "reservaelturpial@gmail.com",
+    "coordenadas": {
+      "lat": 5.101487,
+      "lng": -73.780831
+    },
+    "actividad": [
+      {
+        "name": "Reserva el Turpial",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734232844/dluwvuyxhujyiwlcrxur.jpg",
+        "items": {
+          "Tipo": "senderismo"
+        },
+        "duracion": 180,
+        "dificultad": "Baja",
+        "capacidad": 20,
+        "description": "Reserva el Turpial",
+        "itinerario": "Explora por tu cuenta los mágicos senderos de la Reserva Natural El Turpial, un tesoro ecológico en Suesca, Cundinamarca. Durante el recorrido autoguiado, descubrirás la rica biodiversidad local, impresionantes formaciones rocosas y espectaculares vistas panorámicas, mientras te conectas con la naturaleza a tu propio ritmo en este ecosistema único.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232834/bpifroi7zsoh8afnkvdx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232835/dmwocnvbbfhk1gexl98v.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232837/vsguqfod9vtxvddyttwr.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232840/dxjnkb3zsyytknny9bak.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232841/durjhyxlwmmgab41ahep.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232841/dsux7jczq6svtqgfcivw.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232839/tu4p49e355rlzv0adpyk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232844/xmjoy2c5xo3dxs3l9paf.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232842/snyysqx7thtlmdjvikco.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232847/msjl8r5ra9hanc87cg3h.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734232837/pd8mxks4gy4xlfgon2br.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Edad mínima 8 años. Los menores de edad deben estar acompañados por un adulto responsable.",
+          "experiencia": "Sin experiencia previa.",
+          "incluye": "Acceso exclusivo a la Reserva El Turpial.",
+          "recomendaciones": "Para tu aventura te recomendamos usar ropa cómoda deportiva, zapatos cerrados con buen agarre, llevar agua, bloqueador solar y un refrigerio ligero. La actividad está diseñada para personas sin experiencia previa, pero los menores de edad deben estar acompañados por un adulto"
+        },
+        "precio": 15000
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "oferente": "Marlon fernández",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573204759190,
+    "logo": "https://storage.googleapis.com/tree_suesca/Actividades/Cabalgata_marlon/logo.avif",
+    "metodosDePago": "Solo efectivo",
+    "destino_id": 1,
+    "usuario": "test3@gmail.com",
+    "coordenadas": {
+      "lat": 5.093656,
+      "lng": -73.791983
+    },
+    "actividad": [
+      {
+        "name": "Cabalgata por las Rocas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733897359/leyrjercsslruhhrapps.jpg",
+        "items": {
+          "Tipo": "cabalgata"
+        },
+        "duracion": 90,
+        "dificultad": "Baja",
+        "capacidad": 5,
+        "description": "Cabalgata por las Rocas",
+        "itinerario": "Disfruta de un recorrido a caballo por los majestuosos senderos de Suesca, bordeando sus famosas rocas y valles. La experiencia incluye caballos dóciles, guía experto y equipo de seguridad, permitiéndote explorar los paisajes más espectaculares de la región mientras conectas con la naturaleza. Una aventura ideal para toda la familia, sin necesidad de experiencia previa.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897357/ou5bvao73wbwjybr5bbu.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897359/tgsoib9hpfnewrk4brx7.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897361/hc9ophmohngdl2smozcd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897362/mndgsyzpqe0xpip8ro1g.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897366/cbxdlmzgtwych2iqqm4e.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897365/ccwdl8xlwptafnkd8g3j.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897369/cirn5x9bfodcbkgpt9pt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1733897370/zzm7w2u50ykvahnlddl7.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de 8 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Equipo completo para cabalgata",
+          "recomendaciones": "Llevar ropa comoda e hidratación"
+        },
+        "precio": 45000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "oferente": "Villa Inés",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "9:00 pm"
+    },
+    "contacto": 573202910002,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1733877916/v1h4vnb5tlk9vga2whz1.jpg",
+    "metodosDePago": "Efectivo, transferencia bancaria. ",
+    "destino_id": 1,
+    "usuario": "maoquin21@gmail.com",
+    "coordenadas": {
+      "lat": 5.089334,
+      "lng": -73.788604
+    },
+    "actividad": [
+      {
+        "name": "Camping Villa Inés",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734105023/orrsaxe57waftqhndhcb.jpg",
+        "items": {
+          "Tipo": "camping"
+        },
+        "duracion": 720,
+        "dificultad": "Baja",
+        "capacidad": 50,
+        "description": "Camping Villa Inés",
+        "itinerario": "Disfruta de una experiencia única en el camping Villa Inés, ubicado a 5 minutos de las rocas de Suesca. Un espacio natural rodeado de imponentes rocas y paisajes montañosos, perfecto para los amantes de la aventura y la naturaleza. El camping ofrece zonas designadas para carpas, baños limpios, zona de fogatas y un ambiente seguro y tranquilo. Un lugar ideal para desconectarte bajo las estrellas mientras disfrutas de la majestuosidad del entorno natural.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105021/gsvecogrzho2prldeuqt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105022/sdpmllpwqvfn2c9plfdc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105021/gcf7yuxajwydmppylmlp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105022/tkxqk7ijwiduzaosgboo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105022/pljp3oox5snmscqwg5ll.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105021/ukclr6xopfxbc97wxpix.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734105023/orrsaxe57waftqhndhcb.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de edad",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Baños completos, zona monitoreada y segura, no incluye carpa, ni parqueadero",
+          "recomendaciones": "Comprar leña en la entrada al camping ($10.000), y seguir instrucciones de seguridad del lugar."
+        },
+        "precio": 25000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "oferente": "Roca Glamping Suesca",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573227678864,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734234355/mqugf4ob5zoxbhkw4vtg.jpg",
+    "metodosDePago": "Aceptamos efectivo y billeteras digitales",
+    "destino_id": 1,
+    "usuario": "rocaglampingsuesca@gmail.com",
+    "coordenadas": {
+      "lat": 5.096773,
+      "lng": -73.785263
+    },
+    "actividad": [
+      {
+        "name": "Cabalgata",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734234353/lkimdcu2qrowjwt4dcct.jpg",
+        "items": {
+          "Tipo": "cabalgata"
+        },
+        "duracion": 90,
+        "dificultad": "Baja",
+        "capacidad": 4,
+        "description": "Cabalgata",
+        "itinerario": "Disfruta de un recorrido a caballo por los majestuosos senderos de Suesca, bordeando sus famosas rocas y valles. La experiencia incluye caballos dóciles, guía experto y equipo de seguridad, permitiéndote explorar los paisajes más espectaculares de la región mientras conectas con la naturaleza. Una aventura ideal para toda la familia, sin necesidad de experiencia previa.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734234352/w73bmmfnsssseomwbbrp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734234353/szdpakf99fs0yi2fecjk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734234353/lkimdcu2qrowjwt4dcct.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734234354/cvlraw7zraznqmakb40v.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734234354/dioughbwprw92yerkm5b.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235278/wubdp80rpt609b0zrpvv.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235278/da0h2hqn2orsjglsnesz.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235279/nbfdgb9re7cquyjneoll.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235279/vizoc5cjtdvg0jg5eyzq.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235280/vohwyzw7xbd8mnoa0eqs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734235281/xdvxkedpn9cy7vj62wts.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de 8 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Equipo completo para cabalgata",
+          "recomendaciones": "Llevar ropa comoda e hidratación"
+        },
+        "precio": 50000
+      },
+      {
+        "name": "Escalada",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734236561/cajbjyr4g2g7oizfgweu.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 90,
+        "dificultad": "Media",
+        "capacidad": 5,
+        "description": "Escalada",
+        "itinerario": "Vive una emocionante aventura de escalada en las rocas de Suesca, un destino icónico para escaladores a solo 45 minutos de Bogotá. La experiencia incluye equipo completo de seguridad, guía certificado y una sesión que combina instrucción básica con práctica en diferentes niveles de dificultad. Perfecta tanto para principiantes como para escaladores experimentados.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236561/cajbjyr4g2g7oizfgweu.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236561/chds6j5hyuzid0geswwn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236559/p3wkfiiaivvema5q29y5.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236560/igakd921lbyojqckf2o4.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236559/lmd4nnzav5wwycxajx2g.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734236558/adytvmzgsrwgyktc6zpl.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de 8 años",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Equipo de escalar completo y seguro.",
+          "recomendaciones": "Llevar ropa comoda e hidratación"
+        },
+        "precio": 65000
+      },
+      {
+        "name": "Camping sobre las Rocas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734237706/opjqdtzzsa1kvjqbgtbo.jpg",
+        "items": {
+          "Tipo": "camping"
+        },
+        "duracion": 720,
+        "dificultad": "Baja",
+        "capacidad": 8,
+        "description": "Camping sobre las Rocas",
+        "itinerario": "Disfruta de una experiencia única en Roca Glamping, ubicado sobre las majestuosas rocas de Suesca en un exclusivo mirador natural. Un espacio privilegiado que te ofrece vistas panorámicas 360° del valle y los paisajes montañosos, perfecto para los amantes de la aventura y la naturaleza. El camping cuenta con zonas designadas para carpas, baños limpios, zona de fogatas y un ambiente seguro y tranquilo. Un lugar extraordinario para desconectarte bajo las estrellas mientras disfrutas de una de las mejores ubicaciones en Suesca.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237712/fzbekqfemlnn1qnyd7wk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237711/mdeixlh00bozkanm3dpt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237710/lmcsbhvgnttxc7d0aor0.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237709/bgkdzx8fwuuoiqhfdr0l.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237708/slxazwpdukl3xyigbvq5.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237706/opjqdtzzsa1kvjqbgtbo.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237706/uerurch922thxcjlsjif.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237705/b229b51v6grj9wqepsog.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734237705/xkyjyveoexdaf9vso5ax.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Mayores de edad",
+          "experiencia": "Sin experiencia previa",
+          "incluye": "Baños completos, zona monitoreada y segura, no incluye carpa, ni parqueadero, ofrecemos servicio de alquiler de carpas (30.000) y sacos de dormir (15.000 c/u). Importante: No disponemos de servicio de alquiler de colchones.",
+          "recomendaciones": "Comprar leña en la entrada al camping ($20.000), y seguir instrucciones de seguridad del lugar."
+        },
+        "precio": 15000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "oferente": "Termales Agua Caliente",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573112395701,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734970841/ozuelnm6cj3azlnebwkx.jpg",
+    "metodosDePago": "Efectivo y billeteras digitales.",
+    "destino_id": 1,
+    "usuario": "termalesdesuesca@gmail.com",
+    "coordenadas": {
+      "lat": 5.22098,
+      "lng": -73.720374
+    },
+    "actividad": [
+      {
+        "name": "Termales agua caliente",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734971298/ejnj0tojpjksy3up8ekr.jpg",
+        "items": {
+          "Tipo": "relajantes"
+        },
+        "duracion": 0,
+        "dificultad": "Baja",
+        "capacidad": 50,
+        "description": "Termales agua caliente",
+        "itinerario": "Descubre las Termales Agua Caliente de Suesca, un oasis de tranquilidad para toda la familia ubicado en la Vereda Aguaclara. El complejo cuenta con dos piscinas termales de aguas bicarbonatadas cálcicas: una piscina para adultos a 30°C y una piscina pequeña a 32°C, ideales para la actividad física. El lugar complementa la experiencia con servicios como turco, cancha de fútbol, juegos de ping pong, rana, billar, tienda de víveres y parqueadero gratuito. Abierto de lunes a domingo de 9:00 am a 5:00 pm (excepto miércoles), con tarifas accesibles de $25.000 para adultos y $20.000 para niños hasta 1,35 cm de altura con acceso a piscinas.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970844/az5cvljdmicrhoqb70zy.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970844/ifwxsbnactrjgyug2hlh.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970843/jlointxxwqjajj5oukhl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970843/vhxtaxs22qlfpal00x6v.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970843/fzea7gkrlsjk5civluk4.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970843/gxn0eqpolpguwm8blcd6.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970843/ig4mmswnegiqdv6mmmmy.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970842/s7esmzef31lbwif2rj1f.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970842/agvt6noyjxd1yzy7lsrs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734970841/ozuelnm6cj3azlnebwkx.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Acceso a piscinas termales (una a 30°C y otra a 32°C), cancha de fútbol, juegos de ping pong, rana, billar, tienda de víveres, parqueadero gratuito",
+          "recomendaciones": "Llevar traje de baño, toalla, ropa de cambio, chanclas, bloqueador solar, gorra o sombrero para las áreas al aire libre, hidratación personal, no ingresar alimentos ni bebidas alcohólicas, cumplir con los horarios establecidos (9:00 am a 5:00 pm), tener en cuenta que los miércoles no hay servicio de piscina, se recomienda llegar temprano para aprovechar el día completo, y recordar que las aguas son tibias ideales para actividad física y no para relajación profunda"
+        },
+        "precio": 25000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "oferente": "Niddo Suesca",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "7:00 pm"
+    },
+    "contacto": 573212325617,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734832289/bvxm4thj7gjijqfjtwhy.jpg",
+    "metodosDePago": "Efectivo, transferencia bancaria y tarjetas.",
+    "destino_id": 1,
+    "usuario": "niddogerencia@gmail.com",
+    "coordenadas": {
+      "lat": 5.113527,
+      "lng": -73.779033
+    },
+    "actividad": [
+      {
+        "name": "Espeleología",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734907662/rzhtqth62zmaxblmziyd.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 120,
+        "dificultad": "Media",
+        "capacidad": 10,
+        "description": "Espeleología",
+        "itinerario": "¿Listo/a para una aventura diferente y emocionante? Te invitamos a vivir nuestra experiencia de Espeleología en Niddo Suesca. 🧗‍♂️✨ Explora las profundidades de las cuevas naturales, descubre formaciones rocosas milenarias y siente la emoción de adentrarte en un mundo oculto bajo la tierra. Esta experiencia es perfecta para quienes buscan aventura y una conexión única con la naturaleza. 🌄🌌 Ven y descubre un lado diferente de Niddo, ¡donde la naturaleza esconde maravillas bajo tus pies!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734907662/rzhtqth62zmaxblmziyd.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad, siempre acompañados de un adulto responsable",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Guía certificado, todo el equipo de seguridad necesario.",
+          "recomendaciones": "Para realizar espeleología de manera segura, es esencial usar ropa cómoda y resistente que pueda ensuciarse, preferiblemente manga larga para proteger brazos y piernas de raspones, llevar calzado antideslizante con buena tracción, y un cambio completo de ropa para después de la actividad. Es fundamental seguir siempre las instrucciones del guía, mantener la calma en espacios estrechos, llevar agua para hidratarse, no separarse del grupo, y contar con una linterna adicional además del casco con luz frontal. Se recomienda también informar de cualquier condición médica preexistente al guía y evitar la actividad si se sufre de claustrofobia."
+        },
+        "precio": 155000
+      },
+      {
+        "name": "Ciclomontañismo",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734908640/f6whylhiyqb7sunxmwdg.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 120,
+        "dificultad": "Media",
+        "capacidad": 10,
+        "description": "Ciclomontañismo",
+        "itinerario": "Descubre cómo se pone a prueba tu espíritu en una aventura entre tu cuerpo y la montaña. Supera tus límites y exígete al máximo. Disfruta del paisaje mientras tus piernas se llenan de energía. Pregunta por nuestra pista privada catalogada una de las mejores.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908640/f6whylhiyqb7sunxmwdg.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908641/hicktpxo8bhleje05mmw.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908637/sdjyyebns5mgca4hq3i3.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908636/ru2x2ytmjtlxvwejfrw8.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908634/jtu2ujhqued75nlr244t.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734908635/qvqzsa0qtnn6egsqvp6x.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad, siempre acompañados de un adulto responsable",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Incluye bicicleta de montaña todo terreno, casco de protección, guía certificado, charla técnica de seguridad, y un recorrido de 120 minutos por los senderos naturales más espectaculares.",
+          "recomendaciones": "Usar ropa deportiva cómoda y zapatos deportivos con buena tracción, aplicar bloqueador solar, llevar hidratación adicional, haber desayunado al menos 2 horas antes, y llegar 15 minutos antes para el ajuste del equipo y las instrucciones. Es importante también informar al guía sobre cualquier condición médica o nivel de experiencia en ciclomontañismo."
+        },
+        "precio": 95000
+      },
+      {
+        "name": "Yoga en Niddo",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734914327/glqji8kmln19xlsy9xfh.jpg",
+        "items": {
+          "Tipo": "relajantes"
+        },
+        "duracion": 60,
+        "dificultad": "Baja",
+        "capacidad": 25,
+        "description": "Yoga en Niddo",
+        "itinerario": "Conecta tu cuerpo, mente y naturaleza 🧘‍♀️🌿 En Niddo Suesca, te ofrecemos la oportunidad de disfrutar de sesiones de yoga al aire libre, rodeado/a de la tranquilidad de nuestras montañas y la pureza del aire. Nuestras clases están diseñadas para todas las edades y niveles, brindándote un espacio para relajarte, reconectar con tu interior y liberar tensiones en un entorno natural inigualable. Ya sea que estés buscando estirarte después de un día de aventura o comenzar la mañana con energía y serenidad, nuestras sesiones de yoga son perfectas para revitalizar cuerpo y mente. 🌄✨",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734914330/goucu6bk0vgrobwtrhjx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734914330/ig4gfn7rljnap3kvmbao.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734914329/kinyflnfd0vjaqgledfx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734914328/ercyzubicml2llyetxqg.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734914327/glqji8kmln19xlsy9xfh.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734905222/ujt7qcfll05cgwsaspx7.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": " El servicio incluye instructor certificado de yoga, mat (tapete) y se realiza en un espacio al aire libre con vista a las montañas",
+          "recomendaciones": "Para la práctica de yoga en Niddo Suesca se recomienda usar ropa cómoda y deportiva que permita moverse con libertad, llegar con al menos 15 minutos de anticipación para acomodarse en el espacio, no haber comido una comida pesada en las últimas 2 horas, llevar una botella de agua para hidratarse, usar protector solar si la sesión es al aire libre, y comunicar al instructor cualquier lesión o condición médica previa. También es aconsejable llevar una chaqueta ligera ya que el clima en Suesca puede ser variable durante la práctica."
+        },
+        "precio": 60000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "oferente": "Hotel Flora",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "7:00 pm"
+    },
+    "contacto": 573108735280,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734989049/qhaglglukuindn3uff0j.jpg",
+    "metodosDePago": "Efectivo, billeteras digitales.",
+    "destino_id": 1,
+    "usuario": "florahospedajesas@gmail.com",
+    "coordenadas": {
+      "lat": 5.091601,
+      "lng": -73.791898
+    },
+    "actividad": [
+      {
+        "name": "Sauna Flora",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734992548/zq6h3j0zwpscfjwxgubs.jpg",
+        "items": {
+          "Tipo": "relajantes"
+        },
+        "duracion": 60,
+        "dificultad": "Baja",
+        "capacidad": 2,
+        "description": "Sauna Flora",
+        "itinerario": "🌄Complementa tu experiencia de aventura y naturaleza con nuestro exclusivo servicio de sauna en Hotel Flora. Diseñado para ayudarte a relajar los músculos después de un intenso día de actividades en las rocas de Suesca, nuestro sauna ofrece un espacio íntimo de bienestar donde podrás disfrutar de una sesión revitalizante. Con capacidad para 2 personas, temperatura controlada y un ambiente acogedor, es el complemento perfecto para tu estadía. El servicio incluye toallas, zona de vestidores y está disponible para nuestros huéspedes mediante reserva previa.✨",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992548/zq6h3j0zwpscfjwxgubs.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992547/mb6h1yiwdavkd83ukgcz.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992547/nldkn6tcvj9fb1tqizhd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992547/gtdcztcw4pmbujbwwkog.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992551/v2eghlrii2luiwgjohie.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992550/f29em3mx82lblligv2bc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734992551/jaykn5qoxze3ufklza7m.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "No Menores de edad.",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Incluye sauna y toallas",
+          "recomendaciones": "Recomendamos no tener tatuajes recientes."
+        },
+        "precio": 50000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "oferente": "La GUEBA DEL JOHN ",
+    "horario": {
+      "abren": "7:00 am",
+      "cierran": "4:00 pm"
+    },
+    "contacto": 573208663117,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737210511/kc9a6lp57tmfoqawqpea.jpg",
+    "metodosDePago": "Efectivo y billeteras digitales. ",
+    "destino_id": 2,
+    "usuario": "Jhonfrojas28@gmail.com",
+    "coordenadas": {
+      "lat": 5.044687,
+      "lng": -73.796329
+    },
+    "actividad": [
+      {
+        "name": "Ruta Ancestral Muisca",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737040809/g7dezir3otklu2y1ekqh.jpg",
+        "items": {
+          "Tipo": "Ancestral"
+        },
+        "duracion": 210,
+        "dificultad": "Baja",
+        "capacidad": 20,
+        "description": "Ruta Ancestral Muisca",
+        "itinerario": "El tour al Resguardo Indígena Mhuysqa incluye transporte interno y comienza en el Parque Principal de Sesquilé, donde iniciaremos un fascinante recorrido por la Calle de los Murales para apreciar la cosmogonía indígena Mhuysqa. La experiencia continúa con una caminata por el Resguardo, donde exploraremos el sendero del agua, la Cuca, las casas ceremoniales, el temazcal y el Qusmuy (casa mayor). El momento más especial es el círculo de palabra alrededor del fuego en el Qusmuy, seguido de un pagamento, limpieza en el fuego y una ceremonia de temazcal. Durante el recorrido, disfrutaremos de un refrigerio con frutas y un almuerzo tradicional de mazamorra, terminando con un recorrido por la laguna del Cacique Guatavita. El tour incluye guía especializado del Resguardo Indígena, un souvenir ancestral, seguro de asistencia médica y el acompañamiento logístico del equipo la Gueba del John para garantizar una experiencia segura y enriquecedora.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609188/yzpdv1ztzlijeenjexuy.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609188/bru7i4ekgiks8tobo4zj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609189/w4bubpsubpkmf08yaucd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609189/sd5hytfepq2ncnzz4y2q.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609190/sasrzl8s98qtrhp8ne7m.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609191/mpv23etl1dwolimjj3kd.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609192/j4fsnqvydllvepxmc7je.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609193/duwuy33pvsiot8ryt5qt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609194/yjp9pmha5ejjbh0rk4dj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609195/rdhoatxardfec0h1ayit.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Incluye transporte interno, recorrido Calle de los Murales, caminata en el Resguardo, almuerzo, seguro de asistencia medic",
+          "recomendaciones": "Para asegurar una experiencia segura y enriquecedora, es fundamental seguir atentamente las indicaciones de nuestros guías expertos. Ellos están capacitados para garantizar tu seguridad y bienestar durante todo el recorrido, además de compartir sus valiosos conocimientos sobre la cultura. Por favor, mantente siempre atento a sus instrucciones y recomendaciones."
+        },
+        "precio": 160000
+      },
+      {
+        "name": "Caminata Páramo Pan de Azúcar",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737342261/ohfec4pt6p4d05oa6pk0.jpg",
+        "items": {
+          "Tipo": "Trekking"
+        },
+        "duracion": 570,
+        "dificultad": "Alta",
+        "capacidad": 20,
+        "description": "Caminata Páramo Pan de Azúcar",
+        "itinerario": "Aventura de trekking al majestuoso Páramo Pan de Azúcar, alcanzando los 3600 m.s.n.m con una experiencia única que combina naturaleza y tradición ancestral. La aventura inicia a las 6:30 am en el Parque Principal de Sesquilé, desde donde nos transportaremos al punto de inicio del sendero. Durante el recorrido de 12 km, disfrutaremos de un desayuno campestre y exploraremos los diversos ecosistemas del páramo. En el Cerro Pan de Azúcar, realizaremos un significativo pagamento, conectando con la energía ancestral del lugar. La caminata incluye paradas estratégicas para refrigerio y contemplación del paisaje, finalizando aproximadamente a las 4:00 pm con el retorno al punto de encuentro.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609207/jnbb8rusuhlfjxbfj4yh.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609205/w7t2i3uajanvu2qerdq5.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609204/dfkzrwqqspuarw0g2hvl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609203/x2yrxqrgrswvwpxzkrrm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609204/sletouh8subxhuuidiom.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609203/oxxfqueort33cxeuanm8.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609201/krmxw6goax9dokpdvt8q.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737609197/fx2mmwzplhwaurmwj1yn.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables.",
+          "experiencia": "No requiere experiencia previa, pero se recomienda buena condición física",
+          "incluye": "Transporte ida y regreso desde Parque Principal Sesquilé, desayuno campestre, refrigerio de caminante, guía del resguardo indígena, pagamento en Cerro Pan de Azúcar, souvenir ancestral, seguro de asistencia médica",
+          "recomendaciones": "Debido a las condiciones del páramo (temperatura entre 6 a 12°C) y la altitud, se recomienda llevar ropa abrigada e impermeable, calzado apropiado para trekking, hidratación, protector solar y seguir atentamente las indicaciones del guía para una experiencia segura y enriquecedora."
+        },
+        "precio": 130000
+      },
+      {
+        "name": "Caminata Cerro del Indio Acostado",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737039685/rutas/las-tres-viejas/dzutjgpjps467997u5fm.jpg",
+        "items": {
+          "Tipo": "Trekking"
+        },
+        "duracion": 300,
+        "dificultad": "Media",
+        "capacidad": 20,
+        "description": "Caminata Cerro del Indio Acostado",
+        "itinerario": "Travesía de trekking al enigmático Cerro del Indio Acostado, una experiencia que combina aventura y tradición ancestral a 3250 m.s.n.m en las alturas de Sesquilé. La aventura comienza en el Parque Principal de Sesquilé con una presentación introductoria. Durante el recorrido de 8 km, exploraremos los senderos que conducen al místico Cerro del Indio Acostado, también conocido como Las Tres Viejas. En la cima, realizaremos un significativo pagamento tradicional, conectando con la energía ancestral del lugar. La experiencia incluye paradas estratégicas para el refrigerio y la contemplación del paisaje, completando un recorrido total de 5 horas.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737054459/rutas/las-tres-viejas/jn8liktj7t5l5gdbwtgm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055172/rutas/las-tres-viejas/akyzrqytaqrztx8myafp.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055201/rutas/las-tres-viejas/gsqkrzbvekkzswvmibjy.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055235/rutas/las-tres-viejas/oex3xp8eu8udmd7fostv.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055310/rutas/las-tres-viejas/tpv0ox2y5gvmn0qgx5vy.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055349/rutas/las-tres-viejas/bhty8sv8dlirjzji27dt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737055405/rutas/las-tres-viejas/ks2xj4fuzmvbtctauv8j.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables.",
+          "experiencia": "No requiere experiencia previa, pero se recomienda buena condición física",
+          "incluye": "Presentación en Parque Principal, caminata trekking, pagamento en Cerro del Indio Acostado, refrigerio de caminante, guía del resguardo indígena, souvenir ancestral, seguro de asistencia médica",
+          "recomendaciones": "Dadas las condiciones de montaña (temperatura entre 6 a 13°C) y la altitud, se recomienda llevar ropa térmica adecuada, calzado apropiado para trekking, hidratación suficiente, protector solar y seguir las indicaciones del guía para garantizar una experiencia segura y enriquecedora."
+        },
+        "precio": 100000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "oferente": "Refugio de Alta Guita",
+    "horario": {
+      "abren": "8:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573112493491,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734915616/pllc5gf7mzx6yr90pwbw.jpg",
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales.",
+    "destino_id": 1,
+    "usuario": "refugiodealtaguita@gmail.com",
+    "coordenadas": {
+      "lat": 5.113512,
+      "lng": -73.781177
+    },
+    "actividad": [
+      {
+        "name": "Recorrido por el Cañón de las Lechuzas",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1740278769/actividades/refugio-de-alta-guita/hbroahawm9ovbzr2juau.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 90,
+        "dificultad": "Facil",
+        "capacidad": 12,
+        "description": "Recorrido por el Cañón de las Lechuzas",
+        "itinerario": "Disfruta de una experiencia de 90 minutos explorando el Cañón de la Lechuza. La aventura comienza con una breve introducción, tips y recomendaciones de seguridad antes de iniciar una caminata por un sendero natural hasta el punto de embarque. Luego, abordaremos una barcaza para recorrer el imponente cañón, con paradas estratégicas para admirar el paisaje, tomar fotografías y observar la biodiversidad del lugar. Finalmente, regresaremos por el sendero, cerrando la experiencia con un espacio para compartir impresiones. ¡Una travesía inolvidable en plena naturaleza!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279528/actividades/refugio-de-alta-guita/wpz09ruz2acunuwn24sq.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279560/actividades/refugio-de-alta-guita/cna4pbl7cgvv8fkftj94.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279599/actividades/refugio-de-alta-guita/e8fvsuprg8sqdtmp6otj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279625/actividades/refugio-de-alta-guita/xl27wdzgvcmiyu5rndix.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279734/actividades/refugio-de-alta-guita/kg5re2gqztbazjvtt49c.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740279967/actividades/refugio-de-alta-guita/v5yl0mrapqszcxojtjx3.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740280073/actividades/refugio-de-alta-guita/ndi7rxidof2ynmsfayoj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740280207/actividades/refugio-de-alta-guita/pu1ezqrceskuhm8i5d9d.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740280361/actividades/refugio-de-alta-guita/r0kxhgxssith4ynvxeer.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1740280404/actividades/refugio-de-alta-guita/hhpapxuhys3achivqlbz.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "Experiencia única en un sendero natural rodeado de biodiversidad, seguido de un recorrido en barcaza a través del imponente Cañón de la Lechuza. La actividad, de dificultad fácil, incluye guía especializado, historia y paradas en puntos panorámicos para apreciar el paisaje y capturar momentos inolvidables.",
+          "recomendaciones": "Esta actividad es ideal para quienes buscan una aventura tranquila en la naturaleza. Usa ropa cómoda, calzado con buen agarre y lleva protector solar, gorra y repelente. No es  obligatorio el uso de chaleco salvavidas solo se deben seguir las indicaciones del guía. Lleva agua y snacks ligeros. Aunque es un recorrido accesible, no es recomendable para personas con problemas de salud o en estado de embarazo. Respeta el entorno: no arrojes basura ni extraigas flora o fauna. ¡Disfruta del paisaje y vive la experiencia con responsabilidad!"
+        },
+        "precio": 120000
+      },
+      {
+        "name": "Escalada en Muro",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734966104/b4uhc3mfpajeibxobr9z.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 60,
+        "dificultad": "Media",
+        "capacidad": 10,
+        "description": "Escalada en Muro",
+        "itinerario": "La experiencia de escalada en muro comienza con una charla técnica de seguridad de 10 minutos, seguida por el equipamiento y ajuste del material. Durante los siguientes 40 minutos, aprenderás técnicas básicas de escalada, nudos esenciales y movimientos fundamentales, practicando en diferentes rutas del muro con distintos niveles de dificultad. La sesión finaliza con 10 minutos de retroalimentación y recomendaciones para seguir progresando en este deporte.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966101/qmxmehvif1enxoknq7b5.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966100/uojx5mienjwrawoig19i.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966102/yqtkji2nsyrnehlhpdwn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966101/jjlcdnhrxekhjpu4vclj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966103/z8xqoechftufjcrtmjwv.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966106/oabjk5c9erehdwzsd69j.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966107/ctklm1gfidpypftgybyn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966106/ye5wmkxy3vwwkdhroaym.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966105/va2jvbnuvy5hvtyoj2uc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966109/hoskarbdqjdjlg4ntrrf.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "El servicio de escalada en muro en el Refugio de Alta Güita incluye instructor certificado, equipo completo de seguridad con arnés, casco y mosquetones, cuerdas especializadas, zapatos de escalada, magnesio para las manos, charla técnica de seguridad y una sesión completa de 60 minutos para aprender las técnicas básicas de escalada.",
+          "recomendaciones": "Para realizar la actividad de manera segura, se recomienda usar ropa deportiva cómoda que permita movilidad, evitar joyas o accesorios sueltos, mantener las uñas cortas para mejor agarre, estar bien hidratado, informar sobre cualquier condición médica al instructor, llegar 15 minutos antes para la charla de seguridad y no haber consumido alimentos pesados en las últimas 2 horas antes de la actividad."
+        },
+        "precio": 60000
+      },
+      {
+        "name": "Ciclomontañismo el Refugio",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734967243/fharyukjd6tyxinhmzeb.jpg",
+        "items": {
+          "Tipo": "extremo"
+        },
+        "duracion": 120,
+        "dificultad": "Media",
+        "capacidad": 6,
+        "description": "Ciclomontañismo el Refugio",
+        "itinerario": "La aventura comienza con una charla técnica de 15 minutos donde aprenderás el manejo básico de la bicicleta y las señales de seguridad. Luego inicias un emocionante recorrido de 2 horas por senderos que atraviesan paisajes increibles, con paradas estratégicas para hidratación y fotografías, mientras disfrutas de vistas espectaculares a las rocas de Suesca y la Sabana.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734967243/fharyukjd6tyxinhmzeb.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734967243/u2vdld1hzsj4vgsyqess.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734966107/ctklm1gfidpypftgybyn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1734967243/xycof520o2dykoeeym2z.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores de edad acompañados de adultos responsables",
+          "experiencia": "No requiere experiencia previa",
+          "incluye": "El servicio de ciclomontañismo en el Refugio de Alta Güita incluye bicicleta de montaña profesional, casco protector, guía, charla técnica de seguridad y un recorrido de 120 minutos por los senderos naturales de la región.",
+          "recomendaciones": "Para realizar la actividad se recomienda usar ropa deportiva cómoda, zapatos con buena tracción, aplicar protector solar, llevar hidratación adicional, haber desayunado 2 horas antes y llegar con 15 minutos de anticipación para el ajuste del equipo e instrucciones de seguridad."
+        },
+        "precio": 60000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "oferente": "Brisas del Tomine ",
+    "horario": {
+      "abren": "10:00 am",
+      "cierran": "5:00 pm"
+    },
+    "contacto": 573105765411,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737597733/uz8lnasbo9tjgl04na4f.jpg",
+    "metodosDePago": "Transferencias, billeteras digitales y efectivo. ",
+    "destino_id": 2,
+    "usuario": "brisasdeldorado@gmail.com",
+    "coordenadas": {
+      "lat": 5.043775,
+      "lng": -73.797553
+    },
+    "actividad": [
+      {
+        "name": "Velero Brisas del Tomine",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737602436/u7ys2gdkmjq5pbo3pyrb.jpg",
+        "items": {
+          "Tipo": "Náuticos"
+        },
+        "duracion": 60,
+        "dificultad": "Baja",
+        "capacidad": 20,
+        "description": "Velero Brisas del Tomine",
+        "itinerario": "Vive una experiencia única navegando en velero por el majestuoso Embalse del Tominé. Rodeado de paisajes montañosos y aguas con mucha historia, aprenderás los fundamentos básicos de la navegación mientras disfrutas de la tranquilidad y la brisa fresca. Esta aventura es ideal para planes románticos, sorpresas especiales o simplemente escapar de la rutina. Contempla el atardecer desde el agua mientras vives un momento mágico e inolvidable.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602426/hluvspyseap5nvrro1zx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602426/xu72r0hmq8mr7i8grvwc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602427/lkvgmylysggd4am6mxso.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602427/qvffdzvtukbmuslmgg7h.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602428/rfmlvkyrlk92cs0wbm1s.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602432/gnmtgchircmeod8qf1na.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602433/d5xp6j4iennb1x8wcpys.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602433/pn0tskialbywtfsolamj.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602434/usw0wnitzgrqunhswf10.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737602434/nxa9xalj3jggyltko9dg.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "Sin experiencia previa. Se brinda capacitación básica.",
+          "incluye": "Todo el equipo necesario (velero, chaleco salvavidas, equipo de seguridad)",
+          "recomendaciones": "Para reservar: Realizar el pago del 50% con mínimo 7 días de anticipación"
+        },
+        "precio": 80000
+      },
+      {
+        "name": "Encuentro de Armonía",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737692757/qnwbzbhjgxpm6zvaqjs8.jpg",
+        "items": {
+          "Tipo": "Relajantes"
+        },
+        "duracion": 90,
+        "dificultad": "Baja",
+        "capacidad": 20,
+        "description": "Encuentro de Armonía",
+        "itinerario": "Encuentra la paz interior y la armonía con nuestras sesiones de yoga, meditación y trabajo interior profundo. Estas actividades están diseñadas para ayudarte a relajarte, rejuvenecer y conectar contigo mismo en un entorno sereno.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737692757/qnwbzbhjgxpm6zvaqjs8.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737693136/bfaj2wzve6wzc5cbqd2j.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737692759/dplvagbxm0ion5jtmvwe.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737692758/wg0d9neiy751ve4u0wer.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737692756/dgjc7lgwql6pr7n2e801.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737692756/tt3iaa0ojtyzvllezio6.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Menores acompañados de adultos responsables",
+          "experiencia": "Sin experiencia previa. Se brinda capacitación básica.",
+          "incluye": "Todo el equipo necesario.",
+          "recomendaciones": "Para reservar: Realizar el pago del 50%."
+        },
+        "precio": 125000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "oferente": "CAR",
+    "horario": {
+      "abren": "9:00 am",
+      "cierran": "4:00 pm"
+    },
+    "contacto": 573142437003,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737603200/y7phn0mnrzg3pfzcumxo.jpg",
+    "metodosDePago": "Solo Efectivo",
+    "destino_id": 2,
+    "usuario": "carparques@gmail.com",
+    "coordenadas": {
+      "lat": 4.979927,
+      "lng": -73.769184
+    },
+    "actividad": [
+      {
+        "name": "Laguna del Cacique Guatavita",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737605378/kwv56zlchoumd833rill.jpg",
+        "items": {
+          "Tipo": "Ancestral"
+        },
+        "duracion": 120,
+        "dificultad": "Media",
+        "capacidad": 100,
+        "description": "Laguna del Cacique Guatavita",
+        "itinerario": "A tan solo 57 kilómetros de Bogotá, a 3.100 metros sobre el nivel del mar, se encuentra la mítica Laguna de Guatavita. Este santuario natural, bordeado por el Embalse del Tominé, cautiva con sus aguas verde esmeralda que fueron testigo de la legendaria ceremonia de El Dorado. Lugar sagrado para los Muiscas, la laguna se ha convertido en un destino imperdible para aquellos que buscan conectar con la historia ancestral y encontrar un espacio de reflexión en medio de la naturaleza.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605383/dyxtxk6ebmfocxgmlhzc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605383/hrognbhlvifc3url5qke.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605382/lmntrlmrcq985ebqgtlt.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605382/ms8wjmibmhkwizev60hw.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605382/ursjqip4ncbr0woq8msm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605380/f4tpt01mrhhkdsxphboe.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605379/onj6nyn3uqoxjplqjkyz.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605379/gixne7dn65t6mk079xne.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605378/fyrhwuzata8pdiuu4sfl.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605377/rpx9tukiuqogqv7l8ldk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605375/ea4kak97fy5vfaaife8o.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605375/lbzvmc3luv43mfm6gvkm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605374/krjexhrn2a8dbrpjqtwa.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605373/e91k7xtm2pmbrraiiv3d.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737605374/agynsrrtt9bww8bghicg.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Apto para toda edad",
+          "experiencia": "No requiere experiencia previa. Se realiza recorrido guiado de 2 horas con acompañamiento permanente de guía CAR.",
+          "incluye": "Guía certificado CAR, acceso a los tres miradores empedrados, visita al Kusmuy, recorrido por senderos naturales",
+          "recomendaciones": "Es indispensable pagar en efectivo ya que no hay datáfonos. Los vehículos deben dejarse en parqueaderos autorizados. No se permite el ingreso de alimentos, bebidas, mascotas, drones, icopor ni plásticos de un solo uso. El recorrido sale cada 15-20 minutos, por lo que se sugiere llegar con tiempo. Use el baño antes de iniciar pues no hay más puntos durante el trayecto. Es obligatorio permanecer con el grupo y el guía en todo momento, sin tomar senderos no autorizados. Conserve su boleta durante la visita. Se prohíbe el consumo de alcohol y alucinógenos. Se debe respetar la fauna, flora e infraestructura del lugar. Se recomienda usar ropa y calzado cómodo para la caminata. Precios INGRESO ORIUNDO: $4.000, INGRESO NACIONAL: $19.500, INGRESO EXTRANJERO: $28.000"
+        },
+        "precio": 19500
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "oferente": "Las Tres Viejas",
+    "horario": {
+      "abren": "8:00 am",
+      "cierran": "6:00 pm"
+    },
+    "contacto": 573107762504,
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737676758/rieqrulfeg518qo6fezz.jpg",
+    "metodosDePago": "Todos los métodos de pago.",
+    "destino_id": 2,
+    "usuario": "chaletcampestreojodeagua@gmail.com",
+    "coordenadas": {
+      "lat": 5.018888,
+      "lng": -73.806737
+    },
+    "actividad": [
+      {
+        "name": "Taller de meditación y yoga",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737689560/qihk59wc5sff6csopfki.jpg",
+        "items": {
+          "Tipo": "Relajantes"
+        },
+        "duracion": 120,
+        "dificultad": "Baja",
+        "capacidad": 30,
+        "description": "Taller de meditación y yoga",
+        "itinerario": "Vive un taller experiencial de meditación, yoga y trabajo interior guiado por un profesional idóneo, en un espacio diseñado especialmente para la tranquilidad y la introspección. Este hermoso salón circular, rodeado de naturaleza, jardines y paisajes impresionantes, te invita a conectar contigo mismo en un entorno único que favorece la calma y la armonía. Un lugar perfecto para desconectarte del mundo exterior y sumergirte en una experiencia de bienestar profundo y renovación.",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689560/mfkau5yif6mdzl2nceh3.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689558/sogjt5cqnsvqhwtf9y8b.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689558/jfjdjy2u4qkl1hewryxc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689557/txynzlsvcgjkswzewpmn.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689556/pcpjnkvml1gqag2mtsuc.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689555/cwksoh0md0qfycqj2ref.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689555/yxjdm6oqkuphmx1xnlb0.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689554/qbfcb98s2cr69lqzheoq.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689555/t1ip5a1o5zraamnbhcge.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689554/t2pp7uucuvfsdiha069b.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737689559/jjsasfdx9c1zgxlwbbyd.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Apto para toda edad",
+          "experiencia": "No se requiere experiencia previa en yoga o meditación",
+          "incluye": "Guía profesional, espacio especialmente diseñado para la meditación y yoga, colchonetas y cojines para la práctica",
+          "recomendaciones": "Usar ropa cómoda, traer una botella de agua y, si lo deseas, un cuaderno para anotar reflexiones personales"
+        },
+        "precio": 150000
+      },
+      {
+        "name": "Pasa Día Ojo de Agua",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737691030/c591xy9xrnjitsx8xv9n.jpg",
+        "items": {
+          "Tipo": "Familiar"
+        },
+        "duracion": 480,
+        "dificultad": "Baja",
+        "capacidad": 70,
+        "description": "Pasa Día Ojo de Agua",
+        "itinerario": "En este pasadía en la finca Ojo de Agua podrás disfrutar de un día lleno de tranquilidad y diversión en un entorno natural único. Tendrás acceso a amplias zonas verdes, perfectas para relajarte o dar un paseo, y podrás hacer uso del BBQ y la zona de fogata, ideal para preparar un delicioso asado. Si prefieres, también puedes organizar un almuerzo familiar en nuestras instalaciones, diseñadas para que pases momentos inolvidables. Además, la tarifa incluye un desayuno o almuerzo, para que solo te preocupes por disfrutar. ¡Un lugar pensado para que la pases de lujo!",
+        "imgs": {
+          "Imagenes": [
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691032/kjxlrsusflonkcutft6r.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691033/votccuk1fcsfzgknlwtb.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691034/kex6adf9vx2mb8olkrzq.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691033/bd5n2xwurtybziwcfyzx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691034/pugxjl4kjzmkflluewg7.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691035/fdpuektajclsxqvqxyhk.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691030/gnyfuqyfmrxq6ueafaxu.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691028/csn0marn3dj99lo4vxb7.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691029/tsegwkbkynqg4rlhmnvx.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691027/xaek1nzksgkgdiysyykm.jpg",
+            "https://res.cloudinary.com/destinoplus/image/upload/v1737691027/tqiuopjahmohmeigtjly.jpg"
+          ]
+        },
+        "calificacion": 0,
+        "requisitosRecomendaciones": {
+          "edad": "Apto para toda edad",
+          "experiencia": "No se requiere experiencia previa.",
+          "incluye": "Acceso a zonas verdes, BBQ, zona de fogata, y desayuno o almuerzo.",
+          "recomendaciones": "Se recomienda llevar ropa cómoda y protector solar para disfrutar al máximo de las actividades al aire libre."
+        },
+        "precio": 140000
+      }
+    ]
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "municipio": "Suesca",
+    "departamento": "Cundinamarca",
+    "lat": 5.102989,
+    "lng": -73.798836,
+    "frase": "Paraíso para escaladores.",
+    "descripcion": "Donde las rocas cuentan historias de conquistadores antiguos.",
+    "epocas": "Suesca es top todo el año. De diciembre a marzo, con clima seco y soleado, ideal para escalar y tirarse un buen senderismo, con temperaturas entre 8°C y 20°C. Julio y agosto son perfectos para ver atardeceres brutales. En abril-mayo y octubre-noviembre, aunque llueve más, el paisaje se pone bien verde, aunque esos meses no son los más populares para escalar. Un dato: si vas entre semana, vas a encontrar más calma y menos gente.",
+    "clima": "Suesca tiene el clima perfecto para la aventura: mañanas frescas, días soleados y atardeceres de lo más chéveres. Lleva una chaqueta rompevientos, ropa en capas, zapatos cómodos, bloqueador, gorra, snacks y harto agüita. ¡Y no olvides la cámara para sacar fotos de todas tus hazañas!",
+    "seguridad": "¡Explora Suesca como todo un experto! Mantén tus cosas seguras en lugares concurridos y haz actividades con guías certificados. Camina en grupo por los senderos señalizados y avisa a alguien sobre tu ruta. Lleva los contactos de emergencia y algo de efectivo, pero no te sobrecargues, que en el pueblo hay cajeros. Tip extra: los locales son muy buena onda, ¡si necesitas ayuda, no dudes en pedirla!",
+    "transporte": "¡Llegar a Suesca ya es toda una aventura! Desde Bogotá, agarra la Autopista Norte hacia Tocancipá y sigue las señales (unos 45 minutos en carro). Si vas en bus, los de \"Alianza\" salen cada hora desde la Terminal del Norte; siéntate a la derecha para gozar las vistas. Ya en el pueblo, todo se puede recorrer a pie, pero si necesitas, siempre hay taxis locales disponibles.",
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768211/destinos/Suesca/os8pyadsbjmldaased5j.jpg",
+    "calificacion": 0.0,
+    "items": {
+      "Tipo": "Montaña",
+      "Clima": "Frio",
+      "Presupuesto": "Econónomico"
+    },
+    "imagenes": [
+      {
+        "id": 1,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734468927/destinos/Suesca/itcuuimpdhqxqt7lmcnz.jpg"
+      },
+      {
+        "id": 2,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737308748/vkdgl5jkscwdtzzoqu3y.jpg"
+      },
+      {
+        "id": 3,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734469519/destinos/Suesca/yjau6qrkd9gy7p5jsmxq.jpg"
+      },
+      {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dmyq0gr14/image/upload/v1729799119/Rutas/Virgen%20de%20la%20Z/a7qkh5jmnshaduhxyhj5.jpg"
+      },
+      {
+        "id": 5,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737308752/srpqisinplrhgezklegj.jpg"
+      },
+      {
+        "id": 6,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768211/destinos/Suesca/os8pyadsbjmldaased5j.jpg"
+      },
+      {
+        "id": 7,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768249/destinos/Suesca/r9gp2lxhz7kzj6cetnih.jpg"
+      },
+      {
+        "id": 8,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768327/destinos/Suesca/vjjsjybkkysmy78ezfeo.jpg"
+      },
+      {
+        "id": 9,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768366/destinos/Suesca/rzaokww1lhqfpzhyphpp.jpg"
+      },
+      {
+        "id": 10,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768404/destinos/Suesca/xap2rkphkv7ixnsplfdk.jpg"
+      },
+      {
+        "id": 11,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768449/destinos/Suesca/ntmlqehnlb27nh07qqom.jpg"
+      },
+      {
+        "id": 12,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733768470/destinos/Suesca/qykwky4wnfjulo6sfunk.jpg"
+      },
+      {
+        "id": 13,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733787476/restaurantes/zfikrmhjh6e0hizcth2o.jpg"
+      },
+      {
+        "id": 14,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737308708/fm1de2vyj4bopdirzdzq.jpg"
+      },
+      {
+        "id": 15,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737308748/dk88aztrgytydeazoj6r.jpg"
+      },
+      {
+        "id": 16,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734700729/e0n2urorexpxzw2oizus.jpg"
+      },
+      {
+        "id": 17,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734700728/bavwk93tl4cziswmpyxq.jpg"
+      },
+      {
+        "id": 18,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734700729/gg0aq7hjbn0mlsrerfqa.jpg"
+      },
+      {
+        "id": 19,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735247187/ja9ahlpiwpw3jrnxnfhp.jpg"
+      },
+      {
+        "id": 20,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735254381/k4csbetbhqotgqohq6ub.jpg"
+      },
+      {
+        "id": 21,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735254376/phyfnkllg7vqnn04thvw.jpg"
+      },
+      {
+        "id": 22,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735254374/csnb1kjtoeecgebwo6p8.jpg"
+      },
+      {
+        "id": 23,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735254373/tiyygztfkkxnemo3mwae.jpg"
+      },
+      {
+        "id": 24,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737308740/pjfhbmxkdcvblvgmxtwa.jpg"
+      }
+    ],
+    "completado": true
+  },
+  {
+    "id": 3,
+    "municipio": "Nemocón",
+    "departamento": "Cundinamarca",
+    "lat": 5.066487,
+    "lng": -73.876948,
+    "frase": "Esencia minera y magia bajo tierra.",
+    "descripcion": " Donde la historia minera y las maravillas subterráneas se entrelazan.",
+    "epocas": "Nemocón es un destino que brilla en cualquier época del año, pero algunas fechas son especialmente recomendables. Durante diciembre, el pueblo se viste de luces y celebra con un ambiente navideño encantador. En Semana Santa, las calles se llenan de arte religioso y devoción, creando una atmósfera espiritual única. Si prefieres evitar las multitudes, cualquier fin de semana es perfecto para recorrer las minas de sal y explorar sus mágicos alrededores.",
+    "clima": "El clima de Nemocón es fresco y agradable, con temperaturas que oscilan entre los 12 y 18 grados Celsius. Sus días son ideales para actividades al aire libre, mientras que las noches invitan a abrigarse y disfrutar de una bebida caliente. La constante frescura del ambiente es perfecta para explorar tanto el pueblo como las maravillas subterráneas de sus minas.",
+    "seguridad": "Nemocón es un lugar tranquilo y seguro, ideal para quienes buscan una experiencia relajada y enriquecedora. Los habitantes son amables y hospitalarios, lo que facilita que los visitantes se sientan bienvenidos. Como en cualquier destino, es importante tomar precauciones básicas, como cuidar tus objetos personales, pero en general, puedes explorar el municipio con confianza y tranquilidad.",
+    "transporte": "Llegar a Nemocón desde Bogotá es muy fácil y cómodo. Desde el Terminal de Transportes de Bogotá, puedes tomar un bus hacia Zipaquirá y luego otro que te lleve directamente a Nemocón; el trayecto dura alrededor de dos horas. Si viajas en carro particular, toma la Autopista Norte y sigue las indicaciones hacia Nemocón, disfrutando en el camino de paisajes rurales y vistas impresionantes. ¡El viaje es tan agradable como el destino!",
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734668485/destinos/Nemoc%C3%B3n/daf7umxlmzlemi2toixa.jpg",
+    "calificacion": 0.0,
+    "items": {
+      "Tipo": "Montaña",
+      "Clima": "Frio",
+      "Presupuesto": "Econónomico"
+    },
+    "imagenes": [
+      {
+        "id": 1,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734668699/destinos/Nemoc%C3%B3n/id4omzgyvxrl7hqwiug3.jpg"
+      },
+      {
+        "id": 2,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734668758/destinos/Nemoc%C3%B3n/n0sze3inhmbprn7qvfiv.jpg"
+      },
+      {
+        "id": 3,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734669038/destinos/Nemoc%C3%B3n/prmiggazybtqnji01ixl.jpg"
+      }
+    ],
+    "completado": false
+  },
+  {
+    "id": 2,
+    "municipio": "Sesquilé",
+    "departamento": "Cundinamarca",
+    "lat": 5.102989,
+    "lng": -73.798836,
+    "frase": "Tierra Ancestral Muisca",
+    "descripcion": "Donde la herencia muisca y la belleza andina crean un paraíso único.",
+    "epocas": "Sesquilé es un destino chévere todo el año, pero hay épocas que lo hacen aún más especial. En diciembre y enero, los cielos despejados son perfectos para hacer actividades náuticas en el embalse. En Semana Santa, el pueblo se llena de un ambiente religioso único, y en noviembre, el Festival de la India Infiel trae desfiles y música folclórica para celebrar la cultura local.",
+    "clima": "El clima en Sesquilé es típico de la región andina, con temperaturas entre 12 y 18 grados. Las mañanas son fresquitas y las tardes soleadas, perfectas para caminar y hacer planes al aire libre. Eso sí, lleva un abrigo ligero porque en la noche hace más frío. ¡Prepárate para respirar aire puro y llenarte de energía!",
+    "seguridad": "Sesquilé es un lugar tranquilo y seguro, con gente súper amable que siempre recibe a los turistas con buena onda. Eso sí, es importante cuidarte un poquito: mejor no vayas solo por lugares solitarios, especialmente en la noche. Si vas a hacer rutas a sitios alejados, lo ideal es ir acompañado, nunca solo. También pilas con tus cosas en lugares concurridos, y listo, ¡disfruta sus calles y paisajes con toda la confianza!",
+    "transporte": "Para llegar a Sesquilé desde Bogotá, puedes tomar una flota que vaya para Guatavita. Busca las empresas Valle de Tenza o Flota Águila, esas te dejan justo en el parque principal de Sesquilé. Ya estando en el pueblo, puedes coger un taxi o un mototaxi súper relajado que te lleva a donde necesites. Si vas en carro, toma la Autopista Norte y sigue las señales hacia Sesquilé o Guatavita, que quedan cerquita. El viaje es de unos 40 minutos y el camino está lleno de paisajes increíbles del altiplano cundiboyacense. ¡Desde el trayecto ya empieza la aventura!",
+    "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734583584/destinos/Sesquil%C3%A9/n4ryxvset5kl2te0j9mh.jpg",
+    "calificacion": 0.0,
+    "items": {
+      "Tipo": "Montaña",
+      "Clima": "Frio",
+      "Presupuesto": "Econónomico"
+    },
+    "imagenes": [
+      {
+        "id": 1,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306217/lgc8orx7or3kligvuffs.jpg"
+      },
+      {
+        "id": 2,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306177/qbickdpfcbuvkmrvpt2z.jpg"
+      },
+      {
+        "id": 3,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306178/qwocr3pb1qgz8urqzqcx.jpg"
+      },
+      {
+        "id": 4,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306180/wmwlvfmkyxadxrzlwdqu.jpg"
+      },
+      {
+        "id": 5,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306187/de0s4mniqikaddelxdbd.jpg"
+      },
+      {
+        "id": 6,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306196/sxdibcmcxyu4k0i9vcpy.jpg"
+      },
+      {
+        "id": 7,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306288/ugvoml9nero9ezd52ulr.jpg"
+      },
+      {
+        "id": 8,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306251/fwwgxx2vuxiuz2fb9uvx.jpg"
+      },
+      {
+        "id": 9,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306279/mmdscyqbvgtags3fmxvq.jpg"
+      },
+      {
+        "id": 10,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306229/jenykqs0p27ebjb9t1ua.jpg"
+      },
+      {
+        "id": 11,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734584647/destinos/Sesquil%C3%A9/vwogbsgyj4deaoaklyw7.jpg"
+      },
+      {
+        "id": 12,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306308/qquhvvvochrclnkc3su6.jpg"
+      },
+      {
+        "id": 13,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306275/zujuvzenp6po3mi8kryx.jpg"
+      },
+      {
+        "id": 14,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306298/x7txklnm5pjlbzsxedqv.jpg"
+      },
+      {
+        "id": 15,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737306304/blidryliqww0yh0t35oz.jpg"
+      },
+      {
+        "id": 16,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734584599/destinos/Sesquil%C3%A9/pxnvyzjq8dqm5oqilxil.jpg"
+      }
+    ],
+    "completado": true
+  }
+]

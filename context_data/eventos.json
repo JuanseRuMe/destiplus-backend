@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "oferente": "Casona Quesada",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1733892689/st3dyfxhlz2jftzs0els.jpg",
+    "metodosdepago": "Efectivo, tarjetas y transferencias bancarias.",
+    "contacto": 573108671620,
+    "destino_id": 1,
+    "evento": [
+      {
+        "name": "Gran celebración navideña",
+        "description": "Gran celebración navideña",
+        "itinerario": "El Hotel Casona Quesada te invita a vivir una mágica Navidad este 24 de diciembre, ofreciendo una experiencia única que incluye una acogedora habitación Real Estándar (en acomodación doble o múltiple), desayuno especial, cena navideña, brindis festivo y una tradicional fogata para compartir momentos inolvidables. Los huéspedes podrán disfrutar de todas las comodidades como WiFi, parqueadero y sistema de seguridad, creando el ambiente perfecto para una celebración navideña memorable. (RTN: 220546, aplican términos y condiciones).",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734539099/uwsjpa9uzrdpjqxlakyb.jpg",
+        "fecha": "24 de Diciembre del 2024",
+        "hora": "6:00 pm",
+        "lugar": "Hotel Casona Quesada",
+        "precio": "180.000",
+        "metodosdepago": "Efectivo, transferencia bancaria",
+        "duracion": "8",
+        "cupos": "100",
+        "items": {
+          "Tipo": "Fiesta"
+        },
+        "requisitos": {
+          "Admisión": "Nos reservamos el derecho de admisión y permanencia.",
+          "Edad": "Menores de edad siempre acompañados de un adulto responsable"
+        }
+      }
+    ],
+    "usuario": "test2@gmail.com",
+    "coordenadas": {
+      "lat": 5.103821,
+      "lng": -73.799547
+    }
+  }
+]

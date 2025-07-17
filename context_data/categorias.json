@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "ruta_id": 1,
+    "senderismo": true,
+    "bici_tour": true,
+    "moto": true,
+    "automovil": false
+  },
+  {
+    "id": 2,
+    "ruta_id": 2,
+    "senderismo": true,
+    "bici_tour": true,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 4,
+    "ruta_id": 4,
+    "senderismo": true,
+    "bici_tour": true,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 21,
+    "ruta_id": 26,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 25,
+    "ruta_id": 30,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 26,
+    "ruta_id": 31,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 27,
+    "ruta_id": 32,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 28,
+    "ruta_id": 33,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 22,
+    "ruta_id": 27,
+    "senderismo": false,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 29,
+    "ruta_id": 34,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 30,
+    "ruta_id": 35,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 31,
+    "ruta_id": 36,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 32,
+    "ruta_id": 37,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 33,
+    "ruta_id": 38,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 34,
+    "ruta_id": 39,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 37,
+    "ruta_id": 42,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 38,
+    "ruta_id": 43,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 39,
+    "ruta_id": 44,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 40,
+    "ruta_id": 45,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 35,
+    "ruta_id": 40,
+    "senderismo": false,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 36,
+    "ruta_id": 41,
+    "senderismo": false,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 41,
+    "ruta_id": 46,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 42,
+    "ruta_id": 47,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  }
+]

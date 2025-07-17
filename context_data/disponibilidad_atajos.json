@@ -1,0 +1,34 @@
+[
+  {
+    "id": 13,
+    "atajo_id": 1,
+    "senderismo": true,
+    "bici_tour": true,
+    "moto": true,
+    "automovil": false
+  },
+  {
+    "id": 14,
+    "atajo_id": 2,
+    "senderismo": false,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 15,
+    "atajo_id": 3,
+    "senderismo": false,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  },
+  {
+    "id": 16,
+    "atajo_id": 4,
+    "senderismo": true,
+    "bici_tour": false,
+    "moto": false,
+    "automovil": false
+  }
+]

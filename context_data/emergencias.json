@@ -1,0 +1,326 @@
+[
+  {
+    "id": 2,
+    "ruta_id": 1,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 3,
+    "ruta_id": 1,
+    "tipo": "Defensa civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 4,
+    "ruta_id": 1,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 1,
+    "ruta_id": 1,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 21,
+    "ruta_id": 2,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 22,
+    "ruta_id": 2,
+    "tipo": "Defensa Civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 23,
+    "ruta_id": 2,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 24,
+    "ruta_id": 2,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 29,
+    "ruta_id": 4,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 30,
+    "ruta_id": 4,
+    "tipo": "Defensa Civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 31,
+    "ruta_id": 4,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 32,
+    "ruta_id": 4,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 43,
+    "ruta_id": 31,
+    "tipo": "Policía ",
+    "numero": "3203810442"
+  },
+  {
+    "id": 44,
+    "ruta_id": 31,
+    "tipo": "Defensa Civil ",
+    "numero": "3133196223"
+  },
+  {
+    "id": 45,
+    "ruta_id": 31,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 46,
+    "ruta_id": 31,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 37,
+    "ruta_id": 26,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 38,
+    "ruta_id": 26,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 39,
+    "ruta_id": 26,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 40,
+    "ruta_id": 26,
+    "tipo": "Defensa Civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 47,
+    "ruta_id": 30,
+    "tipo": "Policía ",
+    "numero": "3203810442"
+  },
+  {
+    "id": 48,
+    "ruta_id": 30,
+    "tipo": "Defensa Civil ",
+    "numero": "3133196223"
+  },
+  {
+    "id": 49,
+    "ruta_id": 30,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 50,
+    "ruta_id": 30,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 51,
+    "ruta_id": 27,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 52,
+    "ruta_id": 27,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 53,
+    "ruta_id": 27,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 54,
+    "ruta_id": 27,
+    "tipo": "Defensa Civil ",
+    "numero": "3133196223"
+  },
+  {
+    "id": 55,
+    "ruta_id": 37,
+    "tipo": "Policia",
+    "numero": "3203810442"
+  },
+  {
+    "id": 56,
+    "ruta_id": 37,
+    "tipo": "Defensa civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 57,
+    "ruta_id": 37,
+    "tipo": "Ambulancia",
+    "numero": "3143099137"
+  },
+  {
+    "id": 58,
+    "ruta_id": 37,
+    "tipo": "Bomberos",
+    "numero": "3134895249"
+  },
+  {
+    "id": 59,
+    "ruta_id": 40,
+    "tipo": "Policia",
+    "numero": "3143178251"
+  },
+  {
+    "id": 60,
+    "ruta_id": 40,
+    "tipo": "Defensa Civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 61,
+    "ruta_id": 40,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 62,
+    "ruta_id": 40,
+    "tipo": "Ambulancia",
+    "numero": "3112305230"
+  },
+  {
+    "id": 63,
+    "ruta_id": 41,
+    "tipo": "Policia",
+    "numero": "3212746568"
+  },
+  {
+    "id": 64,
+    "ruta_id": 41,
+    "tipo": "Defensa civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 65,
+    "ruta_id": 41,
+    "tipo": "Ambulancia",
+    "numero": "3112305230"
+  },
+  {
+    "id": 66,
+    "ruta_id": 41,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 67,
+    "ruta_id": 45,
+    "tipo": "Policia",
+    "numero": "3212746568"
+  },
+  {
+    "id": 68,
+    "ruta_id": 45,
+    "tipo": "Defensa civil",
+    "numero": "3133196223"
+  },
+  {
+    "id": 69,
+    "ruta_id": 45,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 70,
+    "ruta_id": 45,
+    "tipo": "Ambulancia",
+    "numero": "3112305230"
+  },
+  {
+    "id": 71,
+    "ruta_id": 44,
+    "tipo": "Policia",
+    "numero": "3212746568"
+  },
+  {
+    "id": 72,
+    "ruta_id": 44,
+    "tipo": "Defensa civil",
+    "numero": "313316223"
+  },
+  {
+    "id": 73,
+    "ruta_id": 44,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 74,
+    "ruta_id": 44,
+    "tipo": "Ambulancia",
+    "numero": "3112305230"
+  },
+  {
+    "id": 75,
+    "ruta_id": 43,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 76,
+    "ruta_id": 42,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 77,
+    "ruta_id": 39,
+    "tipo": "Policia",
+    "numero": "3212746568"
+  },
+  {
+    "id": 78,
+    "ruta_id": 39,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  },
+  {
+    "id": 79,
+    "ruta_id": 46,
+    "tipo": "Policia",
+    "numero": "3212746568"
+  },
+  {
+    "id": 80,
+    "ruta_id": 46,
+    "tipo": "Bomberos",
+    "numero": "3232919665"
+  }
+]

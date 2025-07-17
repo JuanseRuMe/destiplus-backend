@@ -1,0 +1,2861 @@
+[
+  {
+    "id": 19,
+    "oferente": "Hotel Rokas de Suesca",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1736787994/alojamientos/hotel-rokas-de-suesca/mxmziasmesdjdo6oisn1.jpg",
+    "checkIn": "2:00 pm",
+    "checkOut": "12:00 pm",
+    "contacto": 573054285695,
+    "metodosDePago": "Efectivo, billeteras digitales.",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 14:00 a las 0:00 - Tienes que decirle al alojamiento con antelación a qué hora vas a llegar.",
+      "Check Out": "Salida hasta de las 12:00 de medio dia.",
+      "Mascotas": "Se admiten bajo petición. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Hay zonas comunes que se comparten, no se puede fumar, monitoreo de seguridad 24 horas, los clientes deben minimizar el ruido de 22:00 a 8:00."
+    },
+    "destino_id": 1,
+    "usuario": "hotelrokastest@gmail.com",
+    "coordenadas": {
+      "lat": 5.102762,
+      "lng": -73.776359
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "19-1",
+        "description": "Habitación Doble Deluxe",
+        "name": "Habitación Doble Deluxe",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736790636/alojamientos/hotel-rokas-de-suesca/am98sdly3q6jbs8on4kr.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Esta habitación doble destaca por su chimenea. Dispone de artículos de aseo gratuitos y baño privado con ducha. La zona de cocina de la habitación doble está disponible para cocinar y almacenar alimentos. El alojamiento cuenta con minibar, vistas al jardín, patio y se ofrece vino o champán a los huéspedes. El alojamiento tiene 1 cama.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790735/alojamientos/hotel-rokas-de-suesca/uxvgn2qdyu8q8eegaghs.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790740/alojamientos/hotel-rokas-de-suesca/ybzsambpdihokpiurymv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790737/alojamientos/hotel-rokas-de-suesca/rjpcoss5ktdxzcteltbv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790747/alojamientos/hotel-rokas-de-suesca/gp6vcl4a0sva5kyupqtt.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790749/alojamientos/hotel-rokas-de-suesca/wgg7a6usu8lvw8ycbc24.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736791048/alojamientos/hotel-rokas-de-suesca/diguvnqeodafwdtfqwr9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790743/alojamientos/hotel-rokas-de-suesca/x7zgtt9gbjqdiyc55oth.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "19-2",
+        "description": "Suite de Lujo",
+        "name": "Suite de Lujo",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736792188/alojamientos/hotel-rokas-de-suesca/oo2jpqabg0slcnbkz0vi.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "La chimenea es una de las principales características de esta suite. Esta suite cuenta con 1 sala de estar, 1 dormitorio independiente y 1 baño con ducha y artículos de aseo gratuitos. En la cocina bien equipada, los huéspedes encontrarán una estufa, una nevera, utensilios de cocina y un horno. Esta suite tiene entrada privada, TV de pantalla plana, vistas al jardín y vino o champán para los huéspedes.",
+        "precio": 400000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736792258/alojamientos/hotel-rokas-de-suesca/ox42z4yexkfuszutu4ik.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736792263/alojamientos/hotel-rokas-de-suesca/mnqg12bhce93kcyhdxxt.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736792266/alojamientos/hotel-rokas-de-suesca/lgp2w6siml7ctdndyja3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736792271/alojamientos/hotel-rokas-de-suesca/vf4fnpe5epoelkg45tzz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736792268/alojamientos/hotel-rokas-de-suesca/xsft2zyb1h62dhirizf5.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736791048/alojamientos/hotel-rokas-de-suesca/diguvnqeodafwdtfqwr9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790743/alojamientos/hotel-rokas-de-suesca/x7zgtt9gbjqdiyc55oth.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "19-3",
+        "description": "Habitación Doble Deluxes",
+        "name": "Habitación Doble Deluxes",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736795077/alojamientos/hotel-rokas-de-suesca/iqmwt1aamdekxoekhfgp.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Esta habitación doble dispone de artículos de aseo gratuitos, baño privado con ducha, zona de cocina para cocinar y guardar alimentos, minibar, acceso al salón executive, patio y vino o champán gratuitos.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736795135/alojamientos/hotel-rokas-de-suesca/k4jtvdm22fqkqs2vztg9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736795141/alojamientos/hotel-rokas-de-suesca/tevdpfqb6zh26tj0s3te.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736795144/alojamientos/hotel-rokas-de-suesca/xfyo9n3xc9ahuplboayd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736795147/alojamientos/hotel-rokas-de-suesca/gbtyww9bhop2rdfvkyfq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736795149/alojamientos/hotel-rokas-de-suesca/avdon7r0b4ufubvqkatf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736791048/alojamientos/hotel-rokas-de-suesca/diguvnqeodafwdtfqwr9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790743/alojamientos/hotel-rokas-de-suesca/x7zgtt9gbjqdiyc55oth.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "19-4",
+        "description": "Chalet con Jacuzzi",
+        "name": "Chalet con Jacuzzi",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736798779/alojamientos/hotel-rokas-de-suesca/dqo7zgsepgd30pajkqur.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Este chalet cuenta con bañera de hidromasaje, entrada privada, 1 dormitorio, zona de estar y baño con bañera y ducha. La zona de cocina del chalet está disponible para cocinar y almacenar alimentos. El alojamiento cuenta con minibar, vistas al jardín, terraza y vino o champán para los huéspedes.",
+        "precio": 400000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798857/alojamientos/hotel-rokas-de-suesca/meh4onihgswisrx4fetf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798860/alojamientos/hotel-rokas-de-suesca/lurjjtbxi1hvjpalp6gz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798866/alojamientos/hotel-rokas-de-suesca/aycqiv5jpgtb7xdrsftx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798872/alojamientos/hotel-rokas-de-suesca/dvszctwlngwvr9kaqusf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798875/alojamientos/hotel-rokas-de-suesca/cjn8fktf6a9xlmn4nz3c.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798878/alojamientos/hotel-rokas-de-suesca/okwqgk6zypke9wztp6zf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798869/alojamientos/hotel-rokas-de-suesca/lgech4s0m5u5vl5sgyms.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736798863/alojamientos/hotel-rokas-de-suesca/ni8btgnt2jwlhfyhjysa.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "19-5",
+        "description": "Chalet Cama Doble",
+        "name": "Chalet Cama Doble",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736800439/alojamientos/hotel-rokas-de-suesca/s5effjslrin6n9llajin.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "La chimenea es una de las principales características de este chalet. Este chalet cuenta con 1 dormitorio, 1 baño con ducha, zona de estar y terraza donde podrá relajarse. La zona de cocina del chalet está disponible para cocinar y almacenar alimentos. El alojamiento tiene entrada privada, vistas al jardín, patio y se ofrece vino o champán a los huéspedes.",
+        "precio": 400000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800518/alojamientos/hotel-rokas-de-suesca/fwfwntytykr25vgcplm4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800530/alojamientos/hotel-rokas-de-suesca/duqgaop3t2d2ycnforok.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800523/alojamientos/hotel-rokas-de-suesca/sgdzgs8vmc8dbljpc7id.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800538/alojamientos/hotel-rokas-de-suesca/w6pbwta0stzqiuqeqja9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800548/alojamientos/hotel-rokas-de-suesca/kz66ktcrxh7x60h6bo2f.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736800542/alojamientos/hotel-rokas-de-suesca/nqrfkeadyggxjgyiqsiy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736791048/alojamientos/hotel-rokas-de-suesca/diguvnqeodafwdtfqwr9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736790743/alojamientos/hotel-rokas-de-suesca/x7zgtt9gbjqdiyc55oth.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "19-6",
+        "description": "Habitación Doble Roka",
+        "name": "Habitación Doble Roka",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736862296/alojamientos/hotel-rokas-de-suesca/txao1jxudkzuu7o5mzyj.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Esta habitación doble cuenta con artículos de aseo gratuitos, baño privado con ducha, zona de cocina para cocinar y guardar alimentos, minibar, acceso al salón executive, patio y vino o champán gratuitos.",
+        "precio": 220000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862389/alojamientos/hotel-rokas-de-suesca/sj8k1h8rsren0ov5i1ku.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862394/alojamientos/hotel-rokas-de-suesca/irqyzdehrbbdmbbtt4hd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862397/alojamientos/hotel-rokas-de-suesca/ogz31skfifultwa2nz3r.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862391/alojamientos/hotel-rokas-de-suesca/s1i5aiarxtmhmgveibnb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862399/alojamientos/hotel-rokas-de-suesca/cwlm7nkxwsljkhvlfp1a.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736862402/alojamientos/hotel-rokas-de-suesca/wxm53kuehid5hyc7tzaj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1736791048/alojamientos/hotel-rokas-de-suesca/diguvnqeodafwdtfqwr9.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "oferente": "Casa Manoa",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737590689/tggzsgkege3o3iqgxwiq.jpg",
+    "checkIn": "3:00 pm",
+    "checkOut": "11:00 am",
+    "contacto": 573138523432,
+    "metodosDePago": "Nequi, Daviplata, cuenta de ahorros, link de pago, datáfono y efectivo. ",
+    "politicas": {
+      "Cancelacion": "Se cobrará el 100% del total de la reserva, si el cliente cancela faltando 72 horas o menos a la fecha de llegada. Se cobrará el 50% del total de la reserva, si el cliente cancela faltando entre 73 y 168 horas (7 días) a la fecha de llegada.",
+      "Check In": "A partir de las 3:00 p.m. hasta las 9:30 p.m.. Early Check-in: desde las 12:00 p.m. por un valor adicional de $20.000 COP *Únicamente con previo aviso y sujeto a disponibilidad.",
+      "Check Out": "Hasta las 11:00 a.m.. Late Check-out hasta la 1:00 p.m. por un valor adicional de $20.000 COP *Únicamente con previo aviso y sujeta a disponibilidad.",
+      "Mascotas": "Se prohíbe subir las mascotas a las camas, así como asignarles cobijas, toallas o demás elementos de la habitación, es indispensable que por favor traiga su cama, cobijas y demás elementos necesarios para su mascota. Los daños ocasionados por las mascotas serán responsablidad de sus propietarios, quienes deben reponer o indemnizar en caso de ser necesario.",
+      "Seguridad y propiedad": "Todos los visitantes deben registrarse presentando su documento de identidad, en caso de ser menores de edad, solicitaremos que se abstengan de ingresar a las habitaciones, a menos que estén bajo el acompañamiento y la responsabilidad de sus padres. Está prohibido fumar en las habitaciones y zonas comunes."
+    },
+    "destino_id": 2,
+    "usuario": "infocasamanoasesquile@gmail.com",
+    "coordenadas": {
+      "lat": 5.044471,
+      "lng": -73.797235
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "20-1",
+        "description": "Suite con Chimenea",
+        "name": "Suite con Chimenea",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737589807/vqfxfzrdyk2j4c1rb1du.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Cómodas suites con una cama queen size, chimenea de leña, mesa en la habitación y minibar, Tiene capacidad para tres personas agregando una cama sencilla. Perfecta para disfrutar noches de descanso frente a la chimenea compartir en familia y con tu mascota.",
+        "precio": 443000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Desayuno incluido",
+            "Baño privado",
+            "TV",
+            "Petfriendly",
+            "Estacionamiento",
+            "Lavanderia"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589847/g9hz3tuooan0xkkyglwr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589844/iy2lixybkkqgbyil08rc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589813/h208bc9xkqca7vkcoxyq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589794/kbkfre0l2zwae1grjzn4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589812/izedw7qq5k5txkwf5wgk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589854/zwaf4f6axmdgix5ray6v.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589979/ykqviugoxjod1htxxgiw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737590022/lig2qdmaklqzxowwginj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589985/kf3uhxviotg8yoppts18.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "20-2",
+        "description": "Habitación Estándar Doble",
+        "name": "Habitación Estándar Doble",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737589907/uqu95sbkjepbx4w5sehn.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Habitaciónes acogedoras con una cama queen, baño privado con agua caliente y minibar. Con disponibilidad de añadir una cama sencilla para lograr acomodación triple.",
+        "precio": 343000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Desayuno incluido",
+            "Baño privado",
+            "TV",
+            "Petfriendly",
+            "Estacionamiento",
+            "Lavanderia"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589929/jt6qydvwsivqt5jqeik3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589930/gqf3wrjf1kmmt3iltx5b.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589949/kfle4dvtyxpc0cgp7l0c.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589930/lsnxd8rul4nejzshvq8w.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589931/yzy4gsfhbqav3zt2ubcn.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589940/oouhra1xv4leqjdbdk4m.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589979/oamtp1m6suzqn3k8bgrf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589979/ykqviugoxjod1htxxgiw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589985/kf3uhxviotg8yoppts18.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "20-3",
+        "description": "Habitación Estándar Twin",
+        "name": "Habitación Estándar Twin",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737589857/jxxueny7tvagdjry60ic.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Cómodas habitaciones con dos camas sencillas, excelentes para compartir entre hermanos, con amigos o compañeros de trabajo. Tienen baño privado con agua caliente y minibar.",
+        "precio": 343000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Desayuno incluido",
+            "Baño privado",
+            "TV",
+            "Petfriendly",
+            "Estacionamiento",
+            "Lavanderia"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589836/sreitft7o4krpxczngnk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589868/trvzq0pznjew8clgmqdt.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589895/vo6bwymtc98gm3vv7sga.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589879/vjqodchbuerkcocouezd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589882/oeuwazwxgm8xy7xix9xh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589888/gmuxpom4sjsgrh1qxnxt.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589979/ykqviugoxjod1htxxgiw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737589979/oamtp1m6suzqn3k8bgrf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737590019/y7usxfwvwwkwtsrn3d6m.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "oferente": "Casona Quesada",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1733892689/st3dyfxhlz2jftzs0els.jpg",
+    "checkIn": "3:00 pm",
+    "checkOut": "1:00 pm",
+    "contacto": 573108671620,
+    "metodosDePago": "Efectivo, tarjetas y transferencias.",
+    "politicas": {
+      "Cancelacion": "Cancelación gratis",
+      "Check In": "Check-in de 3:00 PM a 10:30 PM.",
+      "Check Out": "Check-out hasta la 1:00 PM",
+      "Masctotas": "Casona Quesada admite mascotas."
+    },
+    "destino_id": 1,
+    "usuario": "soyjuanse22@gmail.com",
+    "coordenadas": {
+      "lat": 5.103815,
+      "lng": -73.799552
+    },
+    "alojamiento": [
+      {
+        "id": "6-1",
+        "description": "Suite Casona",
+        "name": "Suite Casona",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733937875/alojamientos/casona-quesada/sgyrtmqnb1p3ycuk6g3i.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Suite Privada en Casona Suesca, un espacio acogedor que combina elegancia y confort, dotada con una amplia cama king size, un hermoso balcón con vistas panorámicas a la ciudad y un relajante baño con tina. La suite cuenta con detalles de lujo como minibar, TV de pantalla plana y artículos de tocador premium para hacer de su estadía una experiencia inolvidable.",
+        "precio": 420000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937884/alojamientos/casona-quesada/q0z9ifaxdpao1faudsd5.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937889/alojamientos/casona-quesada/y7g7gvyxtzf7jmzvmny0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937895/alojamientos/casona-quesada/dpbdgmejs7jo1n7vt6yl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937918/alojamientos/casona-quesada/apklgb8ovu5yppnpvlwg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937947/alojamientos/casona-quesada/nueyddtmrkilbmc9cexj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937962/alojamientos/casona-quesada/xvndehclogqxmdmxm4xh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733937966/alojamientos/casona-quesada/rcurios3gs68jtze3nd2.jpg"
+        ]
+      },
+      {
+        "id": "6-2",
+        "description": "Habitación Estándar",
+        "name": "Habitación Estándar",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733938981/alojamientos/casona-quesada/zj1ek3w89ieouebx5pkc.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Habitación Estándar en Casona Suesca, un espacio acogedor y confortable equipado con una amplia cama doble, TV de pantalla plana y un baño privado completo con ducha caliente. La habitación cuenta con acceso a un tranquilo patio y amenidades premium para asegurar una placentera estadía.",
+        "precio": 280000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733938990/alojamientos/casona-quesada/elna1slcc3tjv5gf3vxi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733938994/alojamientos/casona-quesada/lnkenc869ahpucahkmvj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733938998/alojamientos/casona-quesada/dd8fjubollwgd4sdyfny.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733939002/alojamientos/casona-quesada/jylvrkmetcscl2cdpuez.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733939006/alojamientos/casona-quesada/yugmtzoru7qz3olwfh35.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733939010/alojamientos/casona-quesada/ayn7c55nxacgv2qtzssu.jpg"
+        ]
+      },
+      {
+        "id": "6-3",
+        "description": "Habitación Familiar",
+        "name": "Habitación Familiar",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733895595/dx0pqmjstjq2gmv9t4ca.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Espaciosa Habitación Estándar en Casona Quesada, perfecta para compartir en familia o con amigos, equipada con dos amplias camas dobles, TV de pantalla plana y un baño privado completo. La habitación ofrece acceso a un tranquilo patio y está dotada con todas las comodidades para garantizar una estancia confortable y relajante.",
+        "precio": 480000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733895597/f75luavbj2razvgwce0q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733895598/hvgplejvcmr7ywobxw1q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733895596/kvz7iflhkzeiorsbjiyq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733895595/dx0pqmjstjq2gmv9t4ca.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733895593/vuugczpo3bgz2puu4fj0.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "oferente": "Villa Inés",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1733877916/v1h4vnb5tlk9vga2whz1.jpg",
+    "checkIn": "11:00 am",
+    "checkOut": "3:00 pm",
+    "contacto": 573202910002,
+    "metodosDePago": "Efectivo, transferencia bancaria. ",
+    "politicas": {
+      "Cancelacion": "Cancelación gratuita antes del 6 ene. Pasado ese plazo, la reservación no será reembolsable.",
+      "Check In": "Horario de llegada: de las 8:00 a. m. a las 11:00 p. m.",
+      "Check Out": "Salida antes de las 5:00 p. m.",
+      "Masctotas": "Se admiten. Se pueden aplicar suplementos."
+    },
+    "destino_id": 1,
+    "usuario": "maoquin21@gmail.com",
+    "coordenadas": {
+      "lat": 5.089334,
+      "lng": -73.788604
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "7-1",
+        "description": "Cabaña con Jacuzzi",
+        "name": "Cabaña con Jacuzzi",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733876077/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/a7tby9m9gnszpsrvg7ki.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Sumérgete en una experiencia única en nuestra acogedora cabaña de montaña, donde el lujo se encuentra con la naturaleza. Relájate en el jacuzzi privado. La cabaña ofrece un refugio perfecto para desconectarte, combinando comodidades modernas con el encanto rústico de la madera, Un espacio íntimo diseñado para quienes buscan paz, romance y conexión con la naturaleza.",
+        "precio": 300000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876101/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/zljvwidgg5bqeqyxcasg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876124/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/tlkhp0ml4ertu7xkxxpg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876152/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/h4rno50oykiyb3idw0yl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876184/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/qauw5i2hbfcxiwrdckzc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876216/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/o1bwewl1ruhyfsoaepj1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876251/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/epbr1tvgxhx713uwbfcy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876077/alojamientos/Hotel%20Villa%20Ines/Jacuzzi/a7tby9m9gnszpsrvg7ki.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-2",
+        "description": "Domo",
+        "name": "Domo",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733875235/alojamientos/Hotel%20Villa%20Ines/Domo/z8etsnrs7u2cjywmapmi.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Vive una experiencia única en nuestro acogedor domo de madera. Un espacio singular que combina diseño innovador con calidez natural, perfecto para desconectarte y disfrutar de las estrellas. Un refugio íntimo donde la tranquilidad  se fusiona con la comodidad.",
+        "precio": 140000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875261/alojamientos/Hotel%20Villa%20Ines/Domo/osel8hzvyv2e1co8fsu4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875305/alojamientos/Hotel%20Villa%20Ines/Domo/r8iwfhk9rezvheqbc1d0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875348/alojamientos/Hotel%20Villa%20Ines/Domo/hyytcphpr1tw1ldhaost.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875387/alojamientos/Hotel%20Villa%20Ines/Domo/cgrf0qbgaiypxrdbvyuh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875235/alojamientos/Hotel%20Villa%20Ines/Domo/z8etsnrs7u2cjywmapmi.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-3",
+        "description": "Cabaña con Sauna",
+        "name": "Cabaña con Sauna",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733876343/alojamientos/Hotel%20Villa%20Ines/Sauna/yogcg9llmqp2cz3cfqhw.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Escapa a nuestra acogedora cabaña de montaña con sauna privado. Disfruta de una experiencia de bienestar única, combinando el encanto rústico con comodidades modernas. Un refugio perfecto para relajarte y conectar con la naturaleza.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876403/alojamientos/Hotel%20Villa%20Ines/Sauna/w7fznd9104jbqe3cydsa.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876374/alojamientos/Hotel%20Villa%20Ines/Sauna/o2wobuok8gfb1wjra0i1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876432/alojamientos/Hotel%20Villa%20Ines/Sauna/gqgh0fdgxlijncltvz8h.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876471/alojamientos/Hotel%20Villa%20Ines/Sauna/yd4fqohgqzornkzrss4b.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876491/alojamientos/Hotel%20Villa%20Ines/Sauna/kj6irw2skjraos6v9jjr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876343/alojamientos/Hotel%20Villa%20Ines/Sauna/yogcg9llmqp2cz3cfqhw.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-4",
+        "description": "Cabaña",
+        "name": "Cabaña",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733875624/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/pchxw2bjkd2qgfuev1fq.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Descubre nuestras acogedoras cabañas en el corazón de Suesca, rodeadas de naturaleza y paisajes rocosos. Un refugio perfecto que combina confort con la serenidad de la montaña, ideal para escapadas memorables cerca de Bogotá",
+        "precio": 220000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875652/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/yp584rk87vn9bbhecwzd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875689/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/p8yvaeiobfkjgcwosofu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875726/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/p8axrgrfzmtnowgfs0nm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875784/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/qavtp3qwvag2fzjr4qej.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875839/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/homth6440ycm5we9uy8j.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875867/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/fhk2mgdd8cb1mxjbpygl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733875897/alojamientos/Hotel%20Villa%20Ines/Caba%C3%B1a/trvcaarmirmtiiab7ez4.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-5",
+        "description": "Casa del Arbol",
+        "name": "Casa del Arbol",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733876698/alojamientos/Hotel%20Villa%20Ines/Arbol/jsuwrxvbqyxtwbr5tasf.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Vive una aventura única en nuestra casa del árbol en Villa Inés. Una experiencia mágica elevada entre la naturaleza, con vistas espectaculares. Un refugio acogedor que combina la diversión de dormir en las alturas con el confort de un alojamiento especial",
+        "precio": 140000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876698/alojamientos/Hotel%20Villa%20Ines/Arbol/jsuwrxvbqyxtwbr5tasf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876727/alojamientos/Hotel%20Villa%20Ines/Arbol/rzptttzcijmj2dfn1goh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876762/alojamientos/Hotel%20Villa%20Ines/Arbol/sa64hmlrvknlvgrvqnnv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876788/alojamientos/Hotel%20Villa%20Ines/Arbol/ai1wja8xlmvxurdpigjn.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876813/alojamientos/Hotel%20Villa%20Ines/Arbol/c8jiqsdutom5twkbdals.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733876851/alojamientos/Hotel%20Villa%20Ines/Arbol/noqecdzaw4ofgt0ef7h5.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-6",
+        "description": "Cabaña Sencilla ",
+        "name": "Cabaña Sencilla ",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734111633/alojamientos/villa-ins/jadzlwv79qazf6lxjqls.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Disfruta de esta encantadora cabaña de estilo campestre, equipada con dos cómodas camas y un baño privado. Un espacio acogedor diseñado para brindarte confort y tranquilidad en plena naturaleza.",
+        "precio": 160000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111640/alojamientos/villa-ins/symxjqaoxvejsnhfeivj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111648/alojamientos/villa-ins/usvvoi2rcn2q6hzno0ne.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111654/alojamientos/villa-ins/uyvjbi9p52hsnaincarc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111662/alojamientos/villa-ins/su8rbytsef6wf3sknkxy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111669/alojamientos/villa-ins/m9suhfxemfj3vlls02mk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111676/alojamientos/villa-ins/tfswojbgcddxp7nuqgdy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734111688/alojamientos/villa-ins/rh074hktooyblj0oji4k.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "7-7",
+        "description": "Cabaña Catamaran",
+        "name": "Cabaña Catamaran",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734112010/alojamientos/villa-ins/cl5h0vzoj5gapnemqg5v.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Sumérgete en la experiencia única de esta cabaña tipo catamarán, rodeada de amplios espacios verdes. Disfruta de una cómoda cama doble, un baño privado y un ambiente cálido y relajante, ideal para desconectar y disfrutar de la naturaleza.",
+        "precio": 180000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112026/alojamientos/villa-ins/t2cmlkziylqzh7zn3aok.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112036/alojamientos/villa-ins/oqibxlmay2emtoxvadhk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112060/alojamientos/villa-ins/j8nc9ggwqrwki1rhqfsu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112065/alojamientos/villa-ins/nquuj7lh83yvgyuc6ddy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112071/alojamientos/villa-ins/aehrfa6ykaaiqfb2tp3b.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112084/alojamientos/villa-ins/tx8jiofkpgbszjmxx7qw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734112092/alojamientos/villa-ins/y8izijohngcuw19bixwd.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "oferente": "Mano De Oso",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734015647/alojamientos/mano-de-oso/yaodipzogn8eqhd6qaq6.png",
+    "checkIn": "3:00 pm",
+    "checkOut": "11:00 am",
+    "contacto": 573172147623,
+    "metodosDePago": "Transferencia bancaria ",
+    "politicas": {
+      "Cancelacion": "Reservas NO reembolsables.",
+      "Check In": "El horario va de las 3:00 pm a 8:00 pm.",
+      "Check Out": "La salida antes de las 11:00 am.",
+      "Mascotas": "Se acepta el ingreso de mascotas, siempre y cuando se tenga control sobre ellos.",
+      "Seguridad y propiedad": "Hay espacios compartidos, jardines, huertas y área de camping, es necesario subir escaleras. Es una zona cercada y privada con vigilancia constante."
+    },
+    "destino_id": 1,
+    "usuario": "frm.netflix.1@gmail.com",
+    "coordenadas": {
+      "lat": 5.1012133,
+      "lng": -73.7814273
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "9-1",
+        "description": "Cabaña El Turpial",
+        "name": "Cabaña El Turpial",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734015675/alojamientos/mano-de-oso/hg0dlzmidvrzyj0jqequ.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Esta cabaña para 3 personas cuenta con un dormitorio con una cómoda cama tamaño queen y una sala de estar con sofá cama. \nLa terraza privada es el lugar perfecto para relajarte y disfrutar de la vista después de un día explorando los alrededores.",
+        "precio": 240000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734015680/alojamientos/mano-de-oso/xrvxsmbka3nf0d6huwsb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016222/alojamientos/mano-de-oso/xsjwuf2yl0c3b7ue1qrj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734017108/alojamientos/mano-de-oso/sscqmgd8yqcvwtcdgwcy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734017112/alojamientos/mano-de-oso/atqzlekxqkpzdf19fmfl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734017188/alojamientos/mano-de-oso/r0wallugjftcmwjiaftu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734017192/alojamientos/mano-de-oso/kcoxhtmxfu3bolcw0wzo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734017071/alojamientos/mano-de-oso/ktar1pe8vxn6spqw70xl.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "9-2",
+        "description": "Cabaña Tyto Alba",
+        "name": "Cabaña Tyto Alba",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734016353/alojamientos/mano-de-oso/ygus23hkobvhx4sjricu.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Esta cabaña para 5 personas es perfecta para grupos o familias. Cuenta con una habitación principal con una cama tamaño queen, una segunda habitación con dos camas sencillas, y un sofá cama en la sala de estar. La cocina está completamente equipada para que puedas preparar tus comidas favoritas.",
+        "precio": 240000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016480/alojamientos/mano-de-oso/xqe33jcpmgkksjtyxaaw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016490/alojamientos/mano-de-oso/jczffl5zsixn2twsuwjh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016501/alojamientos/mano-de-oso/qpu3khw1obdhzyn9wpwa.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016506/alojamientos/mano-de-oso/oz7909zqvssykwtivvuv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016700/alojamientos/mano-de-oso/gznysduhtcadufhzfqje.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016703/alojamientos/mano-de-oso/g75xyy5d5l5fshzdbvvi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734016728/alojamientos/mano-de-oso/ziu0zogwoncjnicqf8b8.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "9-3",
+        "description": "Casa Satori",
+        "name": "Casa Satori",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734027036/alojamientos/mano-de-oso/do5ve1yqpj1rxbg8bed1.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Casa Satori te ofrece una experiencia de lujo en un entorno privilegiado. Con un diseño minimalista y una arquitectura moderna, esta casa es mucho más que un simple refugio: es un espacio amplio y elegante donde cada detalle ha sido pensado para tu confort. Casa Satori te brinda la calidez de un hogar, combinando la funcionalidad de un diseño vanguardista con un ambiente acogedor.",
+        "precio": 665000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 3,
+          "camas": 4,
+          "baños": 2
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027083/alojamientos/mano-de-oso/jmdfjdyw2pwdcak2x0jb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027095/alojamientos/mano-de-oso/r8ooyeyb3mjzlh8pze10.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027112/alojamientos/mano-de-oso/uouc0tauddoqnlecgvzd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027117/alojamientos/mano-de-oso/k3p7g0k1gvv0yiczcxzg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027126/alojamientos/mano-de-oso/rspowyrro6k5e3kt4zna.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027130/alojamientos/mano-de-oso/tln7qqslzgukondek8ys.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734027138/alojamientos/mano-de-oso/evxyjlrvtncbj9eizzoh.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "oferente": "Cabañas Quincha",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734275248/alojamientos/cabaas-quincha/qihfuufqt930wqckcfmz.jpg",
+    "checkIn": "12:00 PM",
+    "checkOut": "12:00 PM",
+    "contacto": 573054285695,
+    "metodosDePago": "Efectivo y billeteras digitales",
+    "politicas": {
+      "Cancelacion": "Aplazamiento de reserva",
+      "Check In": "Llegada de 10 a.m. a 12 p.m.",
+      "Check Out": "Salida de 10 a.m. a 12 p.m.",
+      "Mascotas": "Se admiten mascotas",
+      "Seguridad y propiedad": "Sistemas de seguridad 24 horas "
+    },
+    "destino_id": 1,
+    "usuario": "destino.plus.2024@gmail.com",
+    "coordenadas": {
+      "lat": 5.1044685,
+      "lng": -73.7894696
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "8-1",
+        "description": "Cabañas Quincha ",
+        "name": "Cabañas Quincha ",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1733935161/alojamientos/cabaas-quincha/ywouojynjtzwqu7do1ip.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Disfruta de una encantadora cabaña rústica con acabados de alta calidad, ubicada en un entorno natural incomparable. Rodeada de exuberantes jardines, ofrece vistas espectaculares a la sabana y a imponentes formaciones rocosas, creando un refugio perfecto para relajarse y conectar con la naturaleza.",
+        "precio": 180000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935164/alojamientos/cabaas-quincha/udgqqbokiselmyljtrtc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935169/alojamientos/cabaas-quincha/bnadkoswiypwt3f0mjpe.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935177/alojamientos/cabaas-quincha/wycx95izk3gzvrloswoi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935201/alojamientos/cabaas-quincha/lnxgkubg2bdq3tuncywf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935218/alojamientos/cabaas-quincha/hklrrcngggq3ypbu8zbi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935228/alojamientos/cabaas-quincha/bxjvdjrqqdkgx9xrpyv2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1733935233/alojamientos/cabaas-quincha/vgomdudjt5ulfzckwibg.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "oferente": "Roca Glamping Suesca",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734234355/mqugf4ob5zoxbhkw4vtg.jpg",
+    "checkIn": "10:00 am",
+    "checkOut": "4:00 pm",
+    "contacto": 573227678864,
+    "metodosDePago": "Transferencia bancaria y billeteras digitales",
+    "politicas": {
+      "Cancelacion": " No realizamos devoluciones de dinero, pero puedes reprogramar tu reserva hasta 6 meses después de la fecha original si cancelas con mínimo 4 días de anticipación. Las cancelaciones realizadas dentro de los 2 días previos a la llegada tendrán un cargo del 25% del valor total por gastos administrativos.",
+      "Check In": "Llegada de 12 p.m. a 3 p.m.",
+      "Check Out": "Salida 12 p.m día siguiente ",
+      "Mascotas": "Somos Petfriendly",
+      "Seguridad y propiedad": "Vigilancia y estricta conservación del lugar."
+    },
+    "destino_id": 1,
+    "usuario": "rocaglampingsuesca@gmail.com",
+    "coordenadas": {
+      "lat": 5.096773,
+      "lng": -73.785263
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "12-1",
+        "description": "Mini Cabañas",
+        "name": "Mini Cabañas",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734240548/no9u1btlsxvnzn0ox005.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Descubre nuestras acogedoras Mini Cabañas en Roca Glamping Suesca, ubicadas estratégicamente sobre las majestuosas rocas con vistas panorámicas impresionantes. Cada cabaña está equipada con un cómodo colchón doble y cobijas térmicas, acceso cercano a baño y ducha, y desayuno incluido. Disfruta de zonas comunes con juegos de mesa y espacio para fogatas. ¡Y no dejes a tu mascota en casa! Somos pet friendly (con cama propia para tu mascota).",
+        "precio": 130000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240548/no9u1btlsxvnzn0ox005.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240546/hs2gmdop22ur9xpzbzvn.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240545/f55ydlbylrrph7eajywm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240545/omuwyh6u2ypqzcov2ok3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240544/hjd1t8ymsnb9xbsjvuq2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240543/zvrsthsbp22mlonfsini.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240542/sa5n4ffm7o22nzssh8ev.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "12-2",
+        "description": "Domo Roca Suesca",
+        "name": "Domo Roca Suesca",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734241160/bapxomqprwghbqrtqzce.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Vive una experiencia única en nuestro Domo Glamping sobre las rocas de Suesca, equipado con una lujosa cama king size y cobijas térmicas para noches acogedoras. Disfruta de tu balcón privado con vistas espectaculares, baño exclusivo, cafetera y delicioso desayuno incluido. Cuenta con zonas comunes para juegos de mesa y fogatas. Somos pet friendly, con espacio alfombrado para el descanso de tu mascota.",
+        "precio": 199900,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Desayuno incluido",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241165/qirktkddzujf5afofrye.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241165/h3v388am8bx9cahgwvqh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241163/xuq6b5xdacemqioqdyml.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241162/lshdpvkbe4sq0jze6pxu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241162/equcmjf9vdghes1td3zk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241160/bapxomqprwghbqrtqzce.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734241159/c2wouuvgelbqwrn4l9bi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734240542/sa5n4ffm7o22nzssh8ev.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "oferente": "Niddo Suesca",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734832289/bvxm4thj7gjijqfjtwhy.jpg",
+    "checkIn": "3:00 pm",
+    "checkOut": "11:00 am",
+    "contacto": 573212325617,
+    "metodosDePago": "Efectivo, transferencia bancaria y tarjetas.",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 15:00 a las 22:00. Los clientes deben mostrar un documento de identidad con fotografía y una tarjeta de crédito en el momento de hacer el check-in",
+      "Check Out": "De las 11:00 a las 11:30",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Los clientes deben minimizar el ruido de 20:00 a 9:00"
+    },
+    "destino_id": 1,
+    "usuario": "niddogerencia@gmail.com",
+    "coordenadas": {
+      "lat": 5.113527,
+      "lng": -73.779033
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "14-1",
+        "description": "Nido de la Roca",
+        "name": "Nido de la Roca",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734903794/nj6skq9wsyr8bhuxojya.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Nuestros nidos de la roca en forma de cabaña están ubicados sobre una plataforma de madera. Esta habitación tiene una capacidad máxima para 3 personas y cuentan con baño privado dentro de la habitación, fogata, balcón, tetera de agua caliente, café, variedad de té y calefactor.",
+        "precio": 542045,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734903792/v6wp1otmmyvni2cqxmg0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734903792/q0a7qfugibqp5zmf4i2q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734903794/nj6skq9wsyr8bhuxojya.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905222/kan73bctn8qfs3qaienx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905222/cyzwitlwfj5vxa8o5jan.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905222/ujt7qcfll05cgwsaspx7.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905223/vkvyzmcdoobdcb7vcevb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905223/inkjjzp78ahvqttfe2uq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905224/md1h3mo83lepk49o3aux.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905224/x2onebxhmkfilvom7ugx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905225/azwwxxh60hivsm5gvqa4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905226/fpbewz6x53rxglbpxm0f.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "14-2",
+        "description": "Nido Estandar",
+        "name": "Nido Estandar",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734906060/ban42valvdwfburebrfb.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Nidos en forma de teepe ubicados en un bosque nativo. Esta habitación tiene una capacidad máxima de 4 personas y cuenta con baño privado, fogata privada, zona de picnic privada al aire libre,  tetera de agua caliente, café, variedad de té y calefactor.",
+        "precio": 485200,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906056/jkzoxsauv6ibvdtmu7t4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906057/yzq8p8ifwu9a0kjvv03k.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906058/bnhwxavnqqjyicobzd4z.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906058/ksfgp5udpxhlqushg0jf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906058/fzngnpyqyqjfjpxeaxpw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906060/ban42valvdwfburebrfb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906061/um0rzxgz3uu7qourgd1t.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906063/uv7phrk8o2anzdx5ahjo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906062/eqqrhqtmnyaymexbcayn.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905224/x2onebxhmkfilvom7ugx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905223/inkjjzp78ahvqttfe2uq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734905222/kan73bctn8qfs3qaienx.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "14-3",
+        "description": "Casa Sobre las Nubes",
+        "name": "Casa Sobre las Nubes",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734906564/j1t4tmukyet98ldc2ah9.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Nuestra nueva casa nubbe para los que prefieren una experiencia mas tradicional disfrutando de todos los beneficios de nuestro lugar mágico, con capacidad para 5 personas con la mejor vista de las rocas de Suesca.",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906564/j1t4tmukyet98ldc2ah9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906564/cyitxtywpb7rjvcetj7u.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906566/rwzxasuwskmhduswme8i.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906565/bt9k8hvtp0osnnj8j3um.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906566/wo8i9qbexboqboycbvv3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906567/fsg6q2o41uks4pbx1b53.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906567/oi01btonwrjpzs0ouomy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734906568/tay1tlwlm6k4lxekua69.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "oferente": "Casa Lantana",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734972964/vzonvrwrzblbvvwfzmub.png",
+    "checkIn": "3:00 pm",
+    "checkOut": "12:00 pm",
+    "contacto": 573152470626,
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales.",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 15:00 a las 19:00",
+      "Check Out": "Hasta las 12:00",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "No se puede fumar, monitoreo de seguridad 24 horas."
+    },
+    "destino_id": 1,
+    "usuario": "hcasalantana@gmail.com",
+    "coordenadas": {
+      "lat": 5.08453,
+      "lng": -73.788197
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "16-1",
+        "description": "Habitación Triple Básica",
+        "name": "Habitación Triple Básica",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734977457/w9iimmt6kyoxqpt0ikjz.jpg",
+        "items": {
+          "Tipo": "Hostal"
+        },
+        "detalle": "Descubre el Hostal Casa Lantana, un acogedor refugio de montaña ubicado en la vereda Cacicazgo de Suesca, Cundinamarca. Nacido del amor por la aventura y el montañismo, este hostal de dos niveles ofrece 8 habitaciones con diferentes acomodaciones, amplias zonas sociales que incluyen una sala con chimenea, cocina equipada y un salón de TV. Rodeado de naturaleza y con espectaculares vistas a la montaña, Casa Lantana es el lugar perfecto para viajeros y deportistas que buscan un ambiente cálido y económico donde compartir historias y experiencias con otros amantes de los deportes de montaña.",
+        "precio": 118000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734977457/w9iimmt6kyoxqpt0ikjz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734977456/mrjonmdb9nyvuezgt6yo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734977455/lgp0tdicwubut4ultbpk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734977455/ujvm7op2nduauyvd2h51.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734977455/ujvm7op2nduauyvd2h51.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "16-2",
+        "description": "Habitación Doble",
+        "name": "Habitación Doble",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734975060/jb6svw3ny4c3ch30yjen.jpg",
+        "items": {
+          "Tipo": "Hostal"
+        },
+        "detalle": "Descubre el Hostal Casa Lantana, un acogedor refugio de montaña ubicado en la vereda Cacicazgo de Suesca, Cundinamarca. Nacido del amor por la aventura y el montañismo, este hostal de dos niveles ofrece 8 habitaciones con diferentes acomodaciones, amplias zonas sociales que incluyen una sala con chimenea, cocina equipada y un salón de TV. Rodeado de naturaleza y con espectaculares vistas a la montaña, Casa Lantana es el lugar perfecto para viajeros y deportistas que buscan un ambiente cálido y económico donde compartir historias y experiencias con otros amantes de los deportes de montaña.",
+        "precio": 145000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975060/jb6svw3ny4c3ch30yjen.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975059/ypqqrljmd3gofabko5qf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734974990/zkuzifs4kxrndvnbdwwi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734974990/heqcqishikyfqmazalve.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734974708/bqw80gxnffrcbzb5qpiw.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "16-3",
+        "description": "Habitación Cuádruple",
+        "name": "Habitación Cuádruple",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734975408/aebzt8cncvurpbkehp25.jpg",
+        "items": {
+          "Tipo": "Hostal"
+        },
+        "detalle": "Descubre el Hostal Casa Lantana, un acogedor refugio de montaña ubicado en la vereda Cacicazgo de Suesca, Cundinamarca. Nacido del amor por la aventura y el montañismo, este hostal de dos niveles ofrece 8 habitaciones con diferentes acomodaciones, amplias zonas sociales que incluyen una sala con chimenea, cocina equipada y un salón de TV. Rodeado de naturaleza y con espectaculares vistas a la montaña, Casa Lantana es el lugar perfecto para viajeros y deportistas que buscan un ambiente cálido y económico donde compartir historias y experiencias con otros amantes de los deportes de montaña.",
+        "precio": 165000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 4,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975408/aebzt8cncvurpbkehp25.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975409/zxnp3s3nga2t6wz5bb9v.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975410/ylh8pu0mbv1p8mqwhhkz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975411/pfh0649b0ry95xafj6e8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975412/ytqowoh3xnom6bixkamp.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975413/ffe8gev16egzrcb9y61x.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734975414/u4wllcsltnwbqis57tft.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "oferente": "Go Suesca",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734994976/ul9isg4obaih70wlfqow.jpg",
+    "checkIn": "3:00 pm",
+    "checkOut": "12:00 pm",
+    "contacto": 573014898924,
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "Horario de llegada: de las 3:00 p.m. a las 12:00 a.m.",
+      "Check Out": "Salida antes de las 12:00 p.m.",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Hay zonas comunes que se comparten, no se puede fumar, monitoreo de seguridad 24 horas."
+    },
+    "destino_id": 1,
+    "usuario": "casagosuesca@gmail.com",
+    "coordenadas": {
+      "lat": 5.084852,
+      "lng": -73.793542
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "18-1",
+        "description": "Suculenta",
+        "name": "Suculenta",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735085088/hbgpep49t3ghcwg6au1i.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Descubre nuestro acogedor alojamiento ideal para grupos hasta de 6 personas, con dos habitaciones perfectamente equipadas: una principal con cama doble y sencilla, y una secundaria con cama doble más un sofá cama en la sala. La propiedad ofrece todas las comodidades necesarias incluyendo baño con agua caliente, cocina completamente equipada, WiFi y parqueadero. Rodeado por un hermoso bosque de eucaliptos, podrás relajarte en hamacas, practicar slackline o disfrutar de una cálida fogata nocturna. Con tarifas flexibles según el número de huéspedes y temporada, también ofrecemos opciones especiales para viajeros solitarios.",
+        "precio": 280000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085093/p4oz0ohbcxhqhkehktc6.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085093/nln2ge3gbqi5wiio1kff.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085092/hts7p5ha05oogn8qybuk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085091/ch62g9t8phak05guqzzs.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085090/pwyzm4dxmo6kjkklaudc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085090/mpti9uqypwqpqkervedq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085090/j4e32ao55y8sasyxpgwz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085088/xjokrev9enlawlhbhfmc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085089/palzsrbnw3ww8fnwmq8j.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735085088/fhvunyzya3uo7rnbzs4m.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "18-2",
+        "description": "Hierbabuena",
+        "name": "Hierbabuena",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1735086685/bvb84t6rvmftfykidojc.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Descubre nuestra acogedora cabaña equipada con cama doble y sofá cama, perfecta para una escapada de hasta 3 personas. Cuenta con todas las comodidades necesarias: baño con agua caliente, cocina completamente dotada, nevera y WiFi. Frente a la cabaña, te espera un encantador bosque con área de parqueo, espacio para fogatas, hamacas y zonas verdes donde podrás conectar con la naturaleza. Las tarifas son flexibles según el número de huéspedes y la temporada elegida.",
+        "precio": 190000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086692/dxc7v7xporfvvtjdalpz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086691/ykyvvsud8swi0kdu3nhh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086690/z51vlxeuyrqiwdqftrun.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086688/lmsgcbpcgk80wo1kp7rk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086687/ylneatqg6wyfgvonkekm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086687/nnw38zuo83kvj4wkbksa.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086686/rdb4pfoqmmwof3ab83nf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1735086685/a2jhsll7vtgdlgirny5z.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "oferente": "Hotel Flora",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734989049/qhaglglukuindn3uff0j.jpg",
+    "checkIn": "2:00 pm",
+    "checkOut": "12:00 pm",
+    "contacto": 573108735280,
+    "metodosDePago": "Efectivo, billeteras digitales.",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 14:00 a las 23:00",
+      "Check Out": "De las 12:00 a las 13:00",
+      "Mascotas": "No se admiten.",
+      "Seguridad y propiedad": "No se puede fumar, monitoreo de seguridad 24 horas."
+    },
+    "destino_id": 1,
+    "usuario": "florahospedajesas@gmail.com",
+    "coordenadas": {
+      "lat": 5.091601,
+      "lng": -73.791898
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "17-1",
+        "description": "Habitación Canela",
+        "name": "Habitación Canela",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734990366/gw9pwqit2yymx8peyj3e.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Descubre la comodidad y tranquilidad en nuestro hotel, estratégicamente ubicado a solo 5 minutos de las famosas rocas de Suesca. Nuestras habitaciones privadas han sido diseñadas pensando en los amantes de la naturaleza y los deportes de aventura, ofreciendo un refugio perfecto para descansar después de un día lleno de adrenalina. La ubicación privilegiada te permite combinar el confort de una estancia acogedora con fácil acceso a las mejores zonas de escalada, senderismo y actividades al aire libre de la región.",
+        "precio": 120000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990366/gw9pwqit2yymx8peyj3e.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990372/ynizikwg1fqcvlhljkde.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990371/iwctxly9o3dhmm76jon1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990370/tmbu7gwbv80af35lojxs.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990369/rsqwyussyya5xxqgz6eb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734990368/llutp68ep3kgachaonwp.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "17-2",
+        "description": "Habitación Ruda",
+        "name": "Habitación Ruda",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734991109/vtjsmbsxdsdhfvygevyd.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Descubre la comodidad y tranquilidad en nuestro hotel, estratégicamente ubicado a solo 5 minutos de las famosas rocas de Suesca. Nuestras habitaciones privadas han sido diseñadas pensando en los amantes de la naturaleza y los deportes de aventura, ofreciendo un refugio perfecto para descansar después de un día lleno de adrenalina. La ubicación privilegiada te permite combinar el confort de una estancia acogedora con fácil acceso a las mejores zonas de escalada, senderismo y actividades al aire libre de la región.",
+        "precio": 70000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991109/vtjsmbsxdsdhfvygevyd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991110/ypmnbkllspdvhb83fr3f.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991111/dufeltqkas28bhe184ax.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991111/i9oqqx3g4nwtcxhvqjks.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991137/ixide3uclozrzl0jdojl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991139/kwxugkg8pinex0wikagf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991140/dfrz795rin1jjd0d3th1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991141/qosbpmwzg8tdl3s46ian.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "17-3",
+        "description": "Habitación Vainilla",
+        "name": "Habitación Vainilla",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734991523/pcifvnhow0p9cccqhkbr.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Descubre la comodidad y tranquilidad en nuestro hotel, estratégicamente ubicado a solo 5 minutos de las famosas rocas de Suesca. Nuestras habitaciones privadas han sido diseñadas pensando en los amantes de la naturaleza y los deportes de aventura, ofreciendo un refugio perfecto para descansar después de un día lleno de adrenalina. La ubicación privilegiada te permite combinar el confort de una estancia acogedora con fácil acceso a las mejores zonas de escalada, senderismo y actividades al aire libre de la región.",
+        "precio": 80000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991523/pcifvnhow0p9cccqhkbr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991520/nkzjwwieyrhx3hmwloaz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991519/tpkc8df0zhdqfzh2lssk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991517/r6ltylg3stgn6ydmx37p.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991517/accpgxwfkosiyxxszlvj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991141/qosbpmwzg8tdl3s46ian.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991140/dfrz795rin1jjd0d3th1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991139/kwxugkg8pinex0wikagf.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "17-4",
+        "description": "Habitación Cidrón",
+        "name": "Habitación Cidrón",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/cmil2vgiqcat31yrbqzz.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Descubre la comodidad y tranquilidad en nuestro hotel, estratégicamente ubicado a solo 5 minutos de las famosas rocas de Suesca. Nuestras habitaciones privadas han sido diseñadas pensando en los amantes de la naturaleza y los deportes de aventura, ofreciendo un refugio perfecto para descansar después de un día lleno de adrenalina. La ubicación privilegiada te permite combinar el confort de una estancia acogedora con fácil acceso a las mejores zonas de escalada, senderismo y actividades al aire libre de la región.",
+        "precio": 50000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/cmil2vgiqcat31yrbqzz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/mvdxltadrpu9mvyhe6lv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/blafyvfxpu4t62dv64hk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991834/viopjvllrwidaxargoie.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/iwsujnjlkbkdyf6zpykj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734991833/stgwoojhqrroguocjpel.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "oferente": "Casa Bella Vista ",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734181117/alojamientos/casa-bella-vista-/esflpebvn5xhmyv8qohm.jpg",
+    "checkIn": "10:00 AM",
+    "checkOut": "12:00 PM",
+    "contacto": 573125104349,
+    "metodosDePago": "Transferencia bancaria, billeteras digitales y efectivo.",
+    "politicas": {
+      "Cancelacion": "NO se hace devolución del dinero, pero SI puedes reagendar tu reserva cuando gustes según la disponibilidad.",
+      "Check In": "Llegada de 10 a.m. a 12 p.m.",
+      "Check Out": "Salida de 10 a.m. a 12 p.m.",
+      "Mascotas": "Se acepta el ingreso de mascotas, porfavor llevar su propia cama.",
+      "Seguridad y propiedad": "La casa está en zona libre y cercada para mayor privacidad, puedes ir a recorrer tu destino y volver con total tranquilidad."
+    },
+    "destino_id": 1,
+    "usuario": "srubiano03@gmail.com",
+    "coordenadas": {
+      "lat": 5.097193,
+      "lng": -73.784103
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "11-1",
+        "description": "Bella Vista",
+        "name": "Bella Vista",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1736862961/alojamientos/casa-bella-vista-/irhx9po7ocrxtm9rk2tw.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Ubicada en un lugar privilegiado, sobre las majestuosas Rocas de Suesca, Casa Bella Vista te ofrece una experiencia única de comodidad y tranquilidad en medio de la naturaleza. Desde su ubicación estratégica, disfrutarás de vistas impresionantes del paisaje circundante, un entorno perfecto para desconectarte del estrés diario y sumergirte en la serenidad.",
+        "precio": 200000,
+        "servicios": {
+          "servicios": [
+            "Baño privado",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Estacionamiento"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181155/alojamientos/casa-bella-vista-/ikfk5zkgdoglxufetjao.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181178/alojamientos/casa-bella-vista-/vxdztmqief5rdil6zfbg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181186/alojamientos/casa-bella-vista-/eqio3a3l3jyi6abooca7.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181196/alojamientos/casa-bella-vista-/mbzftmjmuj4b2uvhe5sq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181338/alojamientos/casa-bella-vista-/awb3uozzttxxtucwpay0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181388/alojamientos/casa-bella-vista-/kok37rmdp2lgnyyapk7p.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181431/alojamientos/casa-bella-vista-/i6z5izhvbsmra73fy1go.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734181475/alojamientos/casa-bella-vista-/zwyviomebddogtaf4ypy.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "oferente": "Refugio de Alta Guita",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734915616/pllc5gf7mzx6yr90pwbw.jpg",
+    "checkIn": "12:00 pm",
+    "checkOut": "10:00 am",
+    "contacto": 573112493491,
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales.",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 12:00 a las 21:00",
+      "Check Out": "De las 10:00 a las 10:30",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Solo podrán hacer el check-in los clientes con edades superiores a 18, no se puede fumar, monitoreo de seguridad 24 horas."
+    },
+    "destino_id": 1,
+    "usuario": "refugiodealtaguita@gmail.com",
+    "coordenadas": {
+      "lat": 5.113512,
+      "lng": -73.781177
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "15-1",
+        "description": "Modulo",
+        "name": "Modulo",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734917670/ddolczh00iqrcjy6aerk.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Sumérgete en una experiencia única de descanso en nuestro módulo exclusivo, donde podrás disfrutar de una espectacular vista panorámica a las majestuosas rocas de Suesca y la inmensa Sabana de Bogotá. Ubicado en el Alto de Guita, este espacio te invita a conectar profundamente con la naturaleza mientras descansas en un ambiente tranquilo y acogedor. El amanecer y el atardecer cobran vida desde tu ventana, creando momentos mágicos que harán de tu estadía una experiencia inolvidable.",
+        "precio": 300000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917668/xolhwjimteyo2hl0avhg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917669/fmn7sjz4szfjp7c2bs0t.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917666/zgplxnun0tc429wgdf5v.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917665/dgxdaeptkikok0ssybpz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917664/wprygxfzuyymxl41wdhe.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917664/rfc6r0dws5vqxupjnrov.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917663/eytmifniofduwgrblggy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917662/iwi3xhrsqejyxz5a0bdq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917661/hzccdxdr35ffihy7qngm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917659/ebcxki50vwnilcjmbsm8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734917660/yhpx4oxodj0eytgcotwv.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "15-2",
+        "description": "El Refugio",
+        "name": "El Refugio",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734964981/k0tn91c0tpuedjgexvmk.jpg",
+        "items": {
+          "Tipo": "Domo/Glamping"
+        },
+        "detalle": "Descubre nuestro exclusivo glamping en lo alto de la montaña de Alta Güita, donde el lujo se encuentra con la naturaleza en un entorno mágico rodeado de bosque. Disfruta de una vista privilegiada a las imponentes rocas de Suesca y la majestuosa Sabana de Bogotá mientras te relajas en tu piscina privada. Ofrecemos una experiencia íntima y personalizada, con acceso a actividades como senderismo, escalada, espeleología y ciclomontañismo, todo mientras disfrutas de un servicio excepcional que te permitirá despertar por encima de las nubes y terminar tus días contemplando el atardecer junto a una acogedora fogata bajo las estrellas.",
+        "precio": 550000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964979/femtbzipedwqcc6aivpj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964984/jjl5b5ulmpa9j82gtipe.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964983/fx2ql7e4vfhc3t9y8yxz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964983/zrzzutams9mx2aobkp79.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964981/ldf6abcty293wsktcrv3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964980/pdv0assw1pyvcjnunjcx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964978/ltnq50njjbbpiqlaejga.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964978/vtnxzwanqpklm013dzd8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964977/olizx9dpelzlqskosn5b.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964977/pwjeglbzban8omjftcf8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964974/x7qqvnhegc3ewt8aon4i.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964973/ygmwbky39vkldr0nsyje.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734964973/xidzpkqqgwoz22uqidkw.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "oferente": "Brisas del Tomine ",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737597733/uz8lnasbo9tjgl04na4f.jpg",
+    "checkIn": "3:00 AM",
+    "checkOut": "10:00 AM",
+    "contacto": 573105765411,
+    "metodosDePago": "Transferencias, billeteras digitales y efectivo. ",
+    "politicas": {
+      "Cancelacion": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 3:00 pm a las 5:00 pm",
+      "Check Out": "De las 9:00 am a las 11:00 am",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "No se puede fumar dentro del alojamiento."
+    },
+    "destino_id": 2,
+    "usuario": "brisasdeldorado@gmail.com",
+    "coordenadas": {
+      "lat": 4.998729,
+      "lng": -73.806506
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "22-1",
+        "description": "Brisas del Tomine",
+        "name": "Brisas del Tomine",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737597734/ngq94lq8tb1covq6vsd5.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Brisas del Tominé, una acogedora cabaña de dos pisos en Sesquilé, ofrece una experiencia única con vistas privilegiadas al embalse y bosques de eucalipto. Este refugio completamente equipado cuenta con zona de fogata, tres baños, cocina funcional y excelente conectividad a internet. Ideal para parejas, familias o amigos, el espacio pet-friendly permite disfrutar de atardeceres memorables en un ambiente natural y tranquilo, con fácil acceso desde la vía principal y estacionamiento privado.",
+        "precio": 900000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento",
+            "Petfriendly",
+            "TV",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 5,
+          "camas": 6,
+          "baños": 3
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597733/z6plywrswcvcfqoirorv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597733/uoepcnfazh9bjrlxt08j.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597732/oc5saxiutzalmv42rqnw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597732/tavdw5nblx0iygxh0e6t.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597730/subxjr8esb6tupmsegww.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597731/ioqhj37gorece9qwqzht.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597729/dmrlrj00loclpakjg9hv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597730/jlzxmvwoz1henjsnir3a.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597729/fipvlcskdiaufmo9nbrw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597727/trkgtocx0m5rw4ec4aoz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597726/pwglapie2awk2iluoblq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597726/itcc8le0kkroldda3mac.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597726/rcebudzr3l0uycb621dd.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "22-2",
+        "description": "Leyenda viva",
+        "name": "Leyenda viva",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737600611/x0j1sv5j8rysgeogfy4u.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Leyenda Viva, una encantadora habitación en una casa colonial de Sesquilé, combina confort moderno con autenticidad rural. Este espacio acogedor ofrece baño privado, vistas panorámicas al embalse del Tominé y acceso a zona de asados. Su diseño cálido y artístico, junto con el entorno natural perfecto para senderismo, crea un refugio ideal para escapadas románticas y desconexión total.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento",
+            "Petfriendly",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600612/hgeooqw6sueiw4finnig.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600615/wnlfvot7hforczukaf78.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600614/attkxeyxypqwqxeu7dkx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600614/wlwrkwyholday50cnrej.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600613/eajedgmtck89pxg1yyjw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600612/egx4irycsbz6rdytoqk5.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600612/faqa0yh19pwgzxjsn7ud.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600612/s52dlsndwnds41a590fy.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "22-3",
+        "description": "Mirador de las aguas",
+        "name": "Mirador de las aguas",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737601434/hscvoarlrw0c9wr2bmh5.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "Mirador de las Aguas, una acogedora habitación colonial en Sesquilé, fusiona arte y naturaleza con vistas privilegiadas al embalse del Tominé. Este refugio íntimo ofrece baño privado y acceso a una zona de fogata común, creando el escenario perfecto para escapadas románticas, senderismo y descanso en un entorno tranquilo y memorable.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Estacionamiento",
+            "Petfriendly",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601434/oaqrklu72gutb9he9dva.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601434/lyix84r1rflkdeg24ygu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601434/ea88fetvbombar6wqjyh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601435/hsx8mumzpjkknacszfly.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601437/bc05hviafbtbcqlkyjuy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737601439/fqbuhyehhjyorstpjwvq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737600612/hgeooqw6sueiw4finnig.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597733/uoepcnfazh9bjrlxt08j.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "oferente": "Chalet Andino",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737765055/v8gqphbbui8gbjrqszef.png",
+    "checkIn": "9:00 am",
+    "checkOut": "1:00 pm",
+    "contacto": 573174297299,
+    "metodosDePago": "Efectivo, transferencias y billeteras digitales.",
+    "politicas": {
+      "Cancelacion": "Se hace la reserva con el 50% del costo, las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 9:00 en adelante.",
+      "Check Out": "Hata la 1:00 p.m.",
+      "Mascotas": "Se admiten mascotas, costo adicional $140.000, traer su propia cama, alimentos y correa.",
+      "Seguridad y propiedad": "La propiedad esta muy bien ubicada y con gran seguridad, gran variedad de ambientes como lagos, jardines, senderos naturales, creando un ambiente único."
+    },
+    "destino_id": 2,
+    "usuario": "reservas@chalteandino.com",
+    "coordenadas": {
+      "lat": 5.049956,
+      "lng": -73.795984
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "26-1",
+        "description": "Ensueño",
+        "name": "Ensueño",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737766220/ai3u6vgviptzd87vcarp.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Una cabaña romántica con vista a las montañas andinas. Cuenta con habitación principal con baño, cocineta, sala y comedor integrado.",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Calefacción",
+            "Sala",
+            "Comedor",
+            "Cocina"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766079/n5hsvwhhdtraquyfsjm6.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766032/f7kvcsrcelygkacymmqw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766054/gni5gyagjg7p4n53a2xj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766102/ls5quu1evnlgs8zzx1eg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766109/snjuuhm8g3uypie2mfxs.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766074/p2t52pt1hfus4so4hmen.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766102/ejkpjttt2kspicdw0ady.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766124/wqaiwpwv8ayxwrhyav3p.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766203/gzkvse8k9fsaisqonztm.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "26-2",
+        "description": "El Jardín",
+        "name": "El Jardín",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737766414/wz5cndhjwe4dfhboyjof.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Con capacidad para 4,5 o 6 personas, con una habitación con cama doble y una habitación con dos camas individuales y un altillo con dos camas individuales. Cuenta con dos baños completos. Sala, comedor y chimenea. Tiene mensaje en la cocina por si desea cocinar.",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "TV",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Chimenea",
+            "Sala",
+            "Comedor",
+            "Cocina"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 3,
+          "camas": 5,
+          "baños": 2
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766149/fyrfbutyz4x6efwowqcw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766195/vdfqmhb8ooxbmpvqljrv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766170/mtumnncjy24gulhnhgqs.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766159/xb8pzcf0g5liqtdnenov.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766224/kchvqgvhrgm6eqlqaukp.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766180/zwye46zt9ixjczdpiayb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766258/xjfffrpswrz2lm6fpm68.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766198/d8ulr8o0mlxrxexznyoh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766264/yaa3vcuqdgedya2qwmwd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766221/t87fmj4toph4yo3e1cao.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766247/pxdturqdsuwp7qp8ykng.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766242/km10sn56qz5lzjqjdges.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766275/fduyf9ttdf4dytrahxop.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766260/wpjfpfvezmsz4nsgkvy9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766259/agsmviyda64xqmc4zgf5.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "26-3",
+        "description": "El Lago",
+        "name": "El Lago",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737766344/zf0qdvghk6zxlzhiwloe.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Es una cabaña muy bonita y romántica frente al lago , tiene una habitación con cama doble y un altillo con dos camas individuales, sala, comedor y chimenea. Capacidad para 2,3 o 4 personas",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "TV",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Chimenea",
+            "Sala",
+            "Comedor",
+            "Cocina"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766332/hkvejmwqdna96hi9kzll.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766283/t7fuwp1aaezladjsxvip.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766324/syca4pxipk61upl30jxj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766341/j6h5iob7la0ows1us3q1.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766308/njizxfrdjv5d3o0ymx5q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766388/hywvzmiard5jrwkd9pxc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766348/qbm2nfxphnnwb2b5dd2h.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766366/nbt1sukklkqawcq9jbjr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766330/kthzrjfr68ghlazwjasw.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "26-4",
+        "description": "El Cerezo",
+        "name": "El Cerezo",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737766575/h21ux5tz4wlcbnrf2ump.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Con capacidad para 2,3 o 4 personas. Tiene una habitación con cama doble y una habitación con dos camas individuales, sala, comedor, cocina, baño y patio de ropas. Cuenta con mensaje de cocina por si desea cocinar.",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "TV",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Sala",
+            "Comedor",
+            "Cocina",
+            "Lavadero"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766395/ezgxys21q9kaj4yimus4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766399/narobs1wlos8xujrksxk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766369/xll2x2drfldkjgtjwy33.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766453/k8zszfn5ehwagltw3zfl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766452/aznckpclf62mgsbzeznx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766389/uxwqv8wfcdknug8lc58z.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766435/slpauersbxatf0wih117.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766412/ax5axm7w0sqtqhs9evay.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766458/nsxklennuiy8sp23rtbl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766473/n7rjjmilebswpyzzocfw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766434/n78armerpagrqgfblyiz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766458/gtimymhhgam0rkvzoo1g.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "26-5",
+        "description": "El Huerto",
+        "name": "El Huerto",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737766571/la1zdv8k1xruohpanwbe.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Con capacidad para 2,3 o 4 personas. Tiene una habitación con cama doble y una habitación con dos camas individuales, sala, comedor y chimenea. Menaje de cocina por si desea cocinar.",
+        "precio": 600000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "TV",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Sala",
+            "Comedor",
+            "Chimenea",
+            "Cocina"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766476/s0g64r8euqtgrfjwm7aw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766528/ysgt096epzbtqk3e5rvl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766511/xkavihgh8045s774rhgz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766569/wklev6p5rzgruyvagsz4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766592/kzhlkknqs58dfdooi0gn.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766500/dhkjt9q7erwyzsynrjp0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766519/oslrz7tkid0f695f5wc9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766579/ur0awghsdtdaie5sbxyw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766579/qwax01uterqkxazzstgl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737766536/qsyrxxjshcw18rbq4hpi.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "26-6",
+        "description": "La Montaña",
+        "name": "La Montaña",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737765711/h3gagjdc8yue6qty5tt0.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "Con capacidad para 11 personas, tiene una habitación con cama doble, dos habitaciones con dos camas individuales y un altillo con 5 camas individuales, sala, comedor, zona BBQ y menaje de cocina por si desea cocinar.",
+        "precio": 1500000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "TV",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Sala",
+            "Comedor",
+            "Cocina"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 4,
+          "camas": 10,
+          "baños": 3
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765754/ffitbqcwxg1k5eegjjm0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765727/dpl6qun02ja2yjrbo4mm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765712/viptdivuwrwaqfkwqdoo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765706/f7xnkqxnw843xob3vawm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765753/o9iohlhaezbt7bqqggtl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765752/zfm6wclopavwa7aakmmj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765751/qj284hi3izmhzs2eomwu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765753/mf7ps314kzu4ugzimoxh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765762/vowvhw70lbpx39tak6on.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765774/mskss42lrkf1mdt6gg0w.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765853/lampbpdwf3gac7avl2dq.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765876/q0ko1tjrxd2fmpi4zg7u.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765896/nqyptarcnvpbnrkosdyo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765890/btt99sayinxmmu17wmza.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765897/vxnewpqaoc9ek64odpu5.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765896/nqyptarcnvpbnrkosdyo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765931/zznz0bx3fayzuiu4zkqh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765932/b3tq6llcmcuwsm7i3cop.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765962/iasah5xbmvysuqgvzzfz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765943/hfic7sruhu5lqdhoes51.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737765934/sptknqyabkmavp2nypud.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "oferente": "Ojo de Agua",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737677462/py8m5ktighcj05mpshoq.jpg",
+    "checkIn": "3:00 PM",
+    "checkOut": "12:00 PM",
+    "contacto": 573107762504,
+    "metodosDePago": "Todos los métodos de pago.",
+    "politicas": {
+      "Cancelacion": "Se requiere el 50% para hacer efectiva la reserva. Las condiciones de cancelación pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 3:00 en adelante",
+      "Check Out": "Hasta las 12:00 p.m.",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Propiedad cerrada con parking privado."
+    },
+    "destino_id": 2,
+    "usuario": "chaletcampestreojodeagua@gmail.com",
+    "coordenadas": {
+      "lat": 5.018888,
+      "lng": -73.806737
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "25-1",
+        "description": "Casa Andrea",
+        "name": "Casa Andrea",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737677477/n6m7yy6l37yxdw8hkkym.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "La Casa Andrea en la Finca Ojo de Agua en Sesquilé es un acogedor alojamiento rústico que ofrece a los visitantes un retiro tranquilo en medio de la naturaleza. Ofrece un retiro tranquilo entre los paisajes naturales de la propiedad, incluyendo frondosos jardines y vistas del Embalse del Tominé. Además de las cómodas instalaciones, cuenta con zonas de lectura y parque infantil, zona de fogata, senderos para caminatas, y espacios para meditación y desconexión total. Una experiencia auténtica del estilo de vida rural..",
+        "precio": 2000000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 3,
+          "camas": 5,
+          "baños": 2
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677476/vjhigter68yvardnx7qp.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677476/z5wlxhn5kysxftndaypz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677475/m5na0vcpzopnzlqq63de.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677475/jktduwywhtu8wchcqwcm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677475/qap8cd7bxglpomc2uz2f.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677473/pys4evoasj36bi8oyzku.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677471/v5v0a8vnja3ubrkmk4md.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677472/qtdcixxp7gwu0j0e0dzd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677471/ysqytm9o4gkts6waojfk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677470/fbtxd1sbp72u0auowdom.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677471/cjrp5hhpxrnvui4a6rpf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677468/p0osktjjall9zgnbxjta.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677467/kghdvblnahioawhanwqx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677467/i25gqyx6n4zznrpckscy.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677463/cleronevq5qf46mkgpdv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737677462/ctskqdfj8cqgb0cgx2w9.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "25-2",
+        "description": "Cueva de los murciélagos",
+        "name": "Cueva de los murciélagos",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737682975/v6h5nsteiyoluzoeqr1m.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "La habitación de la Cueva de los Murciélagos ofrece un ambiente rústico y acogedor, con 3 cómodas camas. Cuenta con una zona de fogata, un parque infantil y senderos que recorren los jardines, donde también hay una zona de meditación. Tiene una vista privilegiada del embalse de Tomine. La habitación también puede reservarse para una sola pareja que busca un espacio de desconexión total.",
+        "precio": 400000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682975/lvxrgwsiqfymp1xufwtt.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682974/wzqzvnnqydmvh4ugbii2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682972/yhg64oefbj9y76rfncht.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682972/pdzxfyqrxwrrzhglxm0y.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682975/gyawhhcio8mktaghgr7q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682976/vuvgw11ourzahhebnkkv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682976/ji2f1fsnfenapwtrmkdu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682970/jkni7srhi9clfihqcikj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/ol3wyn5gjrwcxvcnthoi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/d1blmz7eezoqgj1d9ql8.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "25-3",
+        "description": "Cabaña Bochica",
+        "name": "Cabaña Bochica",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737685504/qgdptqymcyl3zenli9ha.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "La acogedora Cabaña Bochica cuenta con 4 camas cómodas, incluyendo un altillo con una cama adicional. Está equipada con una cocina funcional y un baño privado. Rodeada por los hermosos jardines, ofrece vistas privilegiadas del tranquilo embalse de Tomine. Los huéspedes pueden disfrutar de zonas de fogata, senderos para caminar y un parque infantil, además de espacios de meditación y desconexión total. Esta cabaña rústica y bien equipada es ideal para parejas o familias que buscan una escapada de paz y conexión con la naturaleza.",
+        "precio": 900000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 4,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685508/lj0cmymufktj3qgayrrw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685507/kkavr8hl3pfdskudesza.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685505/yrkxim1v5c8mzetup7nw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685508/iml0belbog5z0wnzmgkd.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685504/t5dmuppxcin4tpiapoi3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685504/lqblcslldtyhkccxqy6l.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685504/mmqukjiqbpdfby5293tv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685504/dynxt8fawazdoj8sxbpg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682976/ji2f1fsnfenapwtrmkdu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/d1blmz7eezoqgj1d9ql8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/ol3wyn5gjrwcxvcnthoi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/d1blmz7eezoqgj1d9ql8.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "25-4",
+        "description": "Cabaña Antigua",
+        "name": "Cabaña Antigua",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737685844/wxihohptaammb8gcy3hp.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "La Cabaña Antigua cuenta con dos habitaciones completamente independientes, cada una con una cama doble y un baño privado. Rodeada por los hermosos jardines, ofrece vistas privilegiadas del tranquilo embalse de Tomine. Los huéspedes pueden disfrutar de zonas de fogata, senderos para caminar y un parque infantil, además de espacios de meditación y desconexión total. Esta cabaña rústica y bien equipada es ideal para parejas o familias que buscan una escapada de paz y conexión con la naturaleza. Tambien puede reservarse solo una de las habitaciones por 400.",
+        "precio": 800000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 2,
+          "camas": 2,
+          "baños": 2
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685843/ifxpxkcnjjvlikzz4s4e.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685842/z4ihmextepkoa6gj4sgo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685841/d8ha4oyudykrdv3kbx9s.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685840/mejhrmpcltpvtpytvx0t.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685840/yizotjcrqdsp8ydstksj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685841/zbtvxtuji9gqbkb8der4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685837/pav9tm3ahnjihyajw6oc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685837/ngkmuxmk2ovy4og8ivly.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685837/bxy7vcthwublvjugyz5q.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685837/z9b02apseevimdhhggsi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685836/wxqqt2merigjfegkhp75.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685836/sbeigvyv1jlefzh1ucvr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/ol3wyn5gjrwcxvcnthoi.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682970/jkni7srhi9clfihqcikj.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "25-5",
+        "description": "Casa Ojo de Agua",
+        "name": "Casa Ojo de Agua",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737687633/s9dzad4fitu1bpagswbf.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "La Casa Ojo de Agua es un refugio único que combina comodidad, naturaleza y desconexión total. Con amplios espacios como sala de estar, cocina completamente equipada, comedor, varias salas, 4 habitaciones y 3 baños, esta casa está diseñada para el descanso y el disfrute. Su espectacular balcón ofrece una vista inigualable al embalse del Tominé, creando el escenario perfecto para momentos inolvidables. Además, cuenta con zonas para senderismo, espacios ideales para yoga, meditación y relajación, un parque para niños, y extensas áreas verdes para lectura y conexión con la naturaleza. La Casa Ojo de Agua es el destino perfecto para quienes buscan tranquilidad, bienestar y paisajes de ensueño.",
+        "precio": 2500000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 4,
+          "camas": 6,
+          "baños": 3
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687633/gogmxjztgjsadovr0qiu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687631/vqbmfedvnbiot66ii2ue.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687630/msjrhwimtt0ywz1lwiru.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687629/vhwydnzukkqwnzy3zyxu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687630/pedhiqahw7nkiqn85tzb.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687628/rfpvlyuji0u4oban2qzh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687628/qey7gabj9cohqwqijkfw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687626/rlhbmigovsppqqyydvgv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687627/ftxmv8sptyjbaczpmeyo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687627/uuezcmne2lxk7gbynxw2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687626/q0n9dqhscgrggpwmzelg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737687626/kof3vw23d6w8zrznmb0z.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685841/zbtvxtuji9gqbkb8der4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685837/pav9tm3ahnjihyajw6oc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737685836/sbeigvyv1jlefzh1ucvr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737682971/d1blmz7eezoqgj1d9ql8.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "oferente": "Vientos del Dorado",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737597194/ff0aq1ieq2fksudaonom.jpg",
+    "checkIn": "1:00 pm",
+    "checkOut": "4:00 pm",
+    "contacto": 573105765411,
+    "metodosDePago": "Transferencia bancaria y efectivo.",
+    "politicas": {
+      "Cancelacion": "Cancelar 8 días antes de la fecha de la reserva, se devolverá el 90% del precio.",
+      "Check In": "Llegada de 1 p.m. a 7 p.m.",
+      "Check Out": "Salida 12 p.m (Puede ser más según disponibilidad).",
+      "Mascotas": "Se admiten bajo petición. Se pueden aplicar suplementos. Se debe traer su propia cama. Las mascotas no tienen permitido subirse a la cama, si esto ocurre se deberá pagar un excedente de 100.000 COP.",
+      "Seguridad y propiedad": "Vigilancia y estricta conservación del lugar."
+    },
+    "destino_id": 2,
+    "usuario": "vientosdeldorado@gmail.com",
+    "coordenadas": {
+      "lat": 5.003632,
+      "lng": -73.799458
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "21-1",
+        "description": "Vientos del Dorado",
+        "name": "Vientos del Dorado",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737597294/ibdbxiohunxrio9pk939.jpg",
+        "items": {
+          "Tipo": "Casa"
+        },
+        "detalle": "En nuestro refugio enclavado en majestuosas montañas, te invitamos a experimentar la magia de desconectar y sanar. Deja atrás preocupaciones cotidianas y sumérgete en la serenidad de la naturaleza. Con vistas panorámicas que inspiran paz y tranquilidad, nuestro acogedor hospedaje es el refugio perfecto para renovar tu espíritu y estar en familia. Descubre la curación que solo la montaña puede ofrecer. Bienvenido a un lugar donde el alma se conecta con la naturaleza y la sanación comienza.",
+        "precio": 1500000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Desayuno incluido",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Jacuzzi",
+            "Cocina",
+            "BBQ"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 5,
+          "camas": 13,
+          "baños": 5
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597369/e1ofamxomhbc6jmizqab.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597358/u1hnkrggzamevxg4p7ef.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597370/qdrmce2qxzgquwpcn1yo.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597396/mxiw7jptblu8kiq8ovaz.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597422/uqjs2pzzvzatkseb8gdv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597425/h50ind429tphglgk4asf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597415/padhfhyuckfyxm9c2z9u.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597428/wbgvgl2xqiitamsfhfy6.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599010/l1jl3m0rumx60tpgbm1c.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599042/ii2yncjphncdu565aezh.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599048/rqnnfmjsstk80nomx6ob.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599060/kana7ondghvhpqhjbwuw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599061/hbvwlhjlmi10mbam6peu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737599082/lmkjk5hoy0ivhcy50ear.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597393/jjrtw2ag7vppjcvl4e1j.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597354/x0gqueyfsch1pluzbycr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597334/qarj1qsqlyv0z4osonf0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737597319/emyr5ciekbnggrts0kek.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "oferente": "Alondra Posada Turística",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737602537/tpnsqtmwcuocea3g8drg.jpg",
+    "checkIn": "10:00 am",
+    "checkOut": "1:00 pm",
+    "contacto": 573105765411,
+    "metodosDePago": "Transferencias, billeteras digitales y efectivo.",
+    "politicas": {
+      "Cancelacion": "Cancelar 8 días antes de la fecha de la reserva, se devolverá el 90% del precio.",
+      "Check In": "Llegada de 10:00 a las 18:00.",
+      "Check Out": "Salida de las 10:00 a 13:00 (Puede ser más según disponibilidad).",
+      "Mascotas": "Se admiten bajo petición. Se pueden aplicar suplementos. Se debe traer su propia cama. Las mascotas no tienen permitido subirse a la cama, si esto ocurre se deberá pagar un excedente de 100.000 COP.",
+      "Seguridad y propiedad": "Vigilancia y estricta conservación del lugar."
+    },
+    "destino_id": 2,
+    "usuario": "alondratest@gmail.com",
+    "coordenadas": {
+      "lat": 5.043796,
+      "lng": -73.797545
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "23-1",
+        "description": "Habitación con Jacuzzi",
+        "name": "Habitación con Jacuzzi",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737605004/lqkgwgq4hjv5ksf1cvlo.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Esta habitación doble cuenta con bañera de hidromasaje y chimenea. La habitación doble dispone de entrada privada, tetera/cafetera y baño privado con bañera y ducha. La habitación doble cuenta con suelo de parquet, zona de estar con TV, zona de comedor, armario y vistas al jardín. El alojamiento cuenta con 1 cama.",
+        "precio": 320000,
+        "servicios": {
+          "servicios": [
+            "Wifi",
+            "Baño privado",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Chimenea"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605724/mxouysls9k2wcszbyv0r.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605726/zo8siqtcelaj5knngoza.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605726/zufwad95vif5kvvohwgj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605129/iqxkylakb0tvefypwijc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605148/qfrooveyabzvniwwxdp0.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605195/bxrknktcc9zwdfnv3a6k.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605328/qxbyfyz5ew5qczowrdaw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602324/kahyynddphfchvi77thr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605637/x77fszp9rysckkvky7rz.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "23-2",
+        "description": "Habitación Azulejo",
+        "name": "Habitación Azulejo",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737602257/d71ctfrjgunog4btlzww.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Refugio artístico de inspiración única, esta habitación luminosa ofrece un espacio de calma y creatividad. Dos camas individuales de diseño contemporáneo se integran en un ambiente minimalista que invita al descanso y la reflexión. El baño cuenta con una elegante bañera de líneas suaves y una ducha de diseño que promete momentos de relajación sensorial. Cada rincón ha sido pensado para nutrir la inspiración y proporcionar un refugio sereno para artistas, viajeros y espíritus inquietos.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wifi",
+            "Baño",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Chimenea"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 2,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602287/oczoafz4fug8rlu0sgw8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602275/uajx8yatairtoudom1ur.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602300/tgqhbo90pyqlpfxtyzni.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602303/xswfzp8m2jgaxpw12dvm.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602345/yaafbg1hzdtnkbg1op1j.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602285/cqyrhi3fg43aajeyvclv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602269/mwirfyzhr5qedbk05ck8.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602324/kahyynddphfchvi77thr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605637/x77fszp9rysckkvky7rz.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "23-3",
+        "description": "Habitación Colibrí",
+        "name": "Habitación Colibrí",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737602319/raaj0pq7weleusesc1mb.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "Santuario de serenidad artística, esta habitación envuelve a sus huéspedes en una atmósfera de tranquilidad refinada. La cama doble, de diseño elegante y texturas suaves, se integra en un espacio luminoso que equilibra estética y confort. El baño incluye una bañera y ducha que invitan a momentos de relajación profunda. Cada detalle ha sido cuidadosamente seleccionado para crear un ambiente inspirador y acogedor, perfecto para descansar y reconectar.",
+        "precio": 250000,
+        "servicios": {
+          "servicios": [
+            "Wifi",
+            "Baño",
+            "TV",
+            "Desayuno incluido",
+            "Petfriendly",
+            "Chimenea"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602335/p5ckqrz1bpp6ujsyfdko.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602337/ektw9hpt5la3kh0bajhc.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602319/mozjtnb5azls2yuzwlpg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602353/nirztwhix60pcka2fert.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602362/djrru2sqsdh8qvpqmdil.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602368/zlyg0u5gvepdeg820yfa.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602324/kahyynddphfchvi77thr.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737602285/cqyrhi3fg43aajeyvclv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737605637/x77fszp9rysckkvky7rz.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "oferente": "Las Tres Viejas",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1737676758/rieqrulfeg518qo6fezz.jpg",
+    "checkIn": "3.00 pm",
+    "checkOut": "12:00 pm",
+    "contacto": 573107762504,
+    "metodosDePago": "Efectivo, transferencias, billeteras digitales y tarjetas.",
+    "politicas": {
+      "Cancelacion": "Se requiere el 50% para hacer efectiva la reserva. Las condiciones de cancelación pueden variar según el tipo de alojamiento. Consulta las condiciones con el alojamiento",
+      "Check In": "De las 3:00 en adelante",
+      "Check Out": "Hasta las 12:00 p.m.",
+      "Mascotas": "Se admiten. Se pueden aplicar suplementos.",
+      "Seguridad y propiedad": "Propiedad cerrada con parking privado."
+    },
+    "destino_id": 2,
+    "usuario": "chaletcampestreojodeagua@gmail.com",
+    "coordenadas": {
+      "lat": 5.04634,
+      "lng": -73.798454
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "24-1",
+        "description": "La Chorrera",
+        "name": "La Chorrera",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737675887/cdl8xkg8iixhsuxflrwr.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "La habitación La Chorrera en el hotel Las Tres Viejas de Sesquilé combina la tradición local con comodidad práctica. Cuenta con una cama doble y dos sencillas, distribuidas estratégicamente en un espacio que conserva el ambiente rural de la región. El baño, situado de manera independiente, ofrece privacidad y funcionalidad.",
+        "precio": 280000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675896/vwx8nbuulfp68tker0mf.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675897/rxmondl2vkpitiviuw40.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675890/vp6548boeyyimhsiyb0s.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675894/gvijg8z8yyarwk9wsoxw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675895/wq0exbvvj1s9eewszcve.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675878/nlp7picfgqzuvbhycc85.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675944/qi2e48lfi79pgpeif2ed.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676097/t8zse4urdrflrmocaxv2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676139/byrrgxing2f6rfil1pue.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676170/ej1voutydwwoqbh5nzq5.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "24-2",
+        "description": "Paramo Pan de Azúcar",
+        "name": "Paramo Pan de Azúcar",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737675918/bn8ukap0whhjhosuoqqn.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "La habitación de cama doble en el hotel Las Tres Viejas de Sesquilé combina confort y autenticidad local. Un espacio íntimo con una cama matrimonial amplia, decorada con textiles que reflejan la tradición artesanal de la región. El baño privado, completamente equipado, ofrece comodidad y privacidad, con detalles que armonizan con el estilo rústico de la habitación.",
+        "precio": 170000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 1,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675957/lrqf8fr4nppuj7bnsmtk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675948/gtc9zw0dtyjr6btq8cw9.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675959/orotbuylmfthgjrtddur.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675944/ol5srtunhpspkjdacqlu.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675938/detheswdprqliusr7x1g.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675944/qi2e48lfi79pgpeif2ed.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676097/t8zse4urdrflrmocaxv2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676139/byrrgxing2f6rfil1pue.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676083/bjstrhwmaej6dkvly44x.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676170/ej1voutydwwoqbh5nzq5.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "24-3",
+        "description": "Laguna del Cacique Guatavita",
+        "name": "Laguna del Cacique Guatavita",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737675984/ah9il5kdsw6qx9qwi0n7.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "La habitación de cuatro camas en el hotel Las Tres Viejas de Sesquilé está diseñada para grupos o familias. Dispone de dos camas dobles y dos sencillas, distribuidas estratégicamente para maximizar el espacio y la comodidad. Un sofá adicional ofrece un área de descanso o reunión. El baño privado, completamente equipado, garantiza intimidad y funcionalidad.",
+        "precio": 440000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 4,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675978/xkwo9ixnrmampja1qlg3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676008/jhml0ocrpsh51fixwfvw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737675984/o3gyrxwkasu0vehkutgv.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676005/wruqp9i00x3dvceyk1st.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676019/mmbvtrizwxdv1evsedw2.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676011/vxex6ennnju3td1qhsc6.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676025/khn05xwnbkttca66j04k.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676177/r7uhoidjrbhaldilinpg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676083/bjstrhwmaej6dkvly44x.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676170/ej1voutydwwoqbh5nzq5.jpg"
+        ]
+      },
+      {
+        "tipo_alojamiento_id": "24-4",
+        "description": "Cerro Covadonga",
+        "name": "Cerro Covadonga",
+        "calificacion": 0,
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1737676025/n7vvrqezmarbqnrxvtlo.jpg",
+        "items": {
+          "Tipo": "Hotel"
+        },
+        "detalle": "En el hotel Las Tres Viejas de Sesquilé, esta habitación ofrece versatilidad y confort. Equipada con una cama doble y dos sencillas, permite alojar cómodamente hasta cuatro personas. El baño privado garantiza intimidad y comodidad. Una estantería añade funcionalidad al espacio, permitiendo a los huéspedes organizar sus pertenencias. La decoración mantiene el estilo rústico tradicional de la región, con muebles de madera local y detalles que evocan el ambiente acogedor de Sesquilé.",
+        "precio": 230000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado",
+            "Desayuno incluido"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676050/dgdc0hwqd64isf5eie9s.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676056/dzprti6dwulajb27gdq4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676074/ogdzzy04kdu3cwhp9kp4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676066/hekmtag2kpjkhekm1x2m.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676075/zqyqw9wbi8kthe8tauuj.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676081/ov8k2evjvstbbsdufqx3.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676082/nywuqaaaa9favmxo9458.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676177/r7uhoidjrbhaldilinpg.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676139/byrrgxing2f6rfil1pue.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1737676170/ej1voutydwwoqbh5nzq5.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "oferente": "El Canto Del Colibrí ",
+    "logo": "https://res.cloudinary.com/destinoplus/image/upload/v1734028053/alojamientos/el-canto-del-colibr-/lxrmpsbcno0i05zo02cj.png",
+    "checkIn": "3:00 PM",
+    "checkOut": "7:00 PM",
+    "contacto": 573204275805,
+    "metodosDePago": "Transferencia bancaria y efectivo.",
+    "politicas": {
+      "Cancelacion": "Cancelar 8 días antes de la fecha de la reserva, se devolverá el 90% del precio.",
+      "Check In": "Llegada de 3 p.m. a 7p.m.",
+      "Check Out": "Salida 12 p.m día siguiente ",
+      "Mascotas": "Solo se aceptan perros, gatos no. Se debe traer su propia cama. Las mascotas no tienen permitido subirse a la cama, si esto ocurre se deberá pagar un excedente de 100.000 COP.",
+      "Seguridad y propiedad": "Vigilancia y estricta conservación del lugar."
+    },
+    "destino_id": 1,
+    "usuario": "juanse.bussines@gmail.com",
+    "coordenadas": {
+      "lat": 5.10419,
+      "lng": -73.780392
+    },
+    "alojamiento": [
+      {
+        "tipo_alojamiento_id": "10-1",
+        "description": "Casa de las estrellas ",
+        "name": "Casa de las estrellas ",
+        "img": "https://res.cloudinary.com/destinoplus/image/upload/v1734026443/alojamientos/el-canto-del-colibr-/ydt2tjmxfj2os80cogzu.jpg",
+        "items": {
+          "Tipo": "Cabaña"
+        },
+        "detalle": "A tan solo una hora de Bogotá, en el municipio de Suesca, se encuentra el Canto del Colibrí, sede de la Fundación Pensar Bonito. Allí disponemos de una bella cabaña ideal para familias o parejas con capacidad de hasta cinco (5) personas en donde podrás conectarte con la montaña y realizar actividades de salud holística, bienestar y aventura.",
+        "precio": 350000,
+        "servicios": {
+          "servicios": [
+            "Wi-Fi",
+            "Baño privado",
+            "Petfriendly",
+            "Estacionamiento",
+            "Balcón privado"
+          ]
+        },
+        "equipamento": {
+          "habitaciones": 1,
+          "camas": 3,
+          "baños": 1
+        },
+        "imgs": [
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026473/alojamientos/el-canto-del-colibr-/zgbhrtjjp4acivudm53t.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026495/alojamientos/el-canto-del-colibr-/qncndmsocoifjnjcschl.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026482/alojamientos/el-canto-del-colibr-/fuia9iqdeoh024t4sdjw.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026481/alojamientos/el-canto-del-colibr-/xgnxjiy3wuit4rnxzurx.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026694/alojamientos/el-canto-del-colibr-/qwyx8g5kfq2ys5zn1dd4.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026705/alojamientos/el-canto-del-colibr-/zh7xen1ukjzvieifdpjk.jpg",
+          "https://res.cloudinary.com/destinoplus/image/upload/v1734026714/alojamientos/el-canto-del-colibr-/pfu3rjoqregvvaknb9ud.jpg"
+        ]
+      }
+    ]
+  }
+]
